@@ -1,0 +1,2745 @@
+{
+  "meta" : {
+    "LastUpdated" : "2020-02-15T05:37:20.688Z",
+    "TotalResults" : 8,
+    "Agreement" : "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License" : "https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse" : "https://www.openbanking.org.uk/terms"
+  },
+  "data" : [ {
+    "Brand" : [ {
+      "BrandName" : "Ulster Bank (NI)",
+      "PCA" : [ {
+        "Name" : "Select Account",
+        "Identification" : "ZJ",
+        "OnSaleIndicator" : true,
+        "PCAMarketingState" : [ {
+          "Identification" : "1",
+          "CoreProduct" : {
+            "ProductDescription" : "Select is our everyday bank account. \n\nWith it you can get a range of time-saving features, like a contactless Visa debit card and an easy-to-use mobile app.",
+            "ProductURL" : "https://digital.ulsterbank.co.uk/personal/current-accounts/current-account.html",
+            "TcsAndCsURL" : "https://digital.ulsterbank.co.uk/content/dam/Ulster/documents/ni-region/ni-personal-ulst-brochures/personal-banking-terms-and-conditions-ULST1571NI.pdf",
+            "MonthlyMaximumCharge" : "80",
+            "SalesAccessChannels" : [ "Branch", "Online", "CallCentre" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "Text" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "62399",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "62403",
+              "Name" : "Cashback",
+              "Type" : "Cashback",
+              "Indicator" : false
+            }, {
+              "Identification" : "62404",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62405",
+              "Name" : "PackagedAccountBenefits",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "62392",
+              "Name" : "RegularFee",
+              "Type" : "AccountManagement",
+              "Textual" : "None"
+            }, {
+              "Identification" : "62406",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "62407",
+              "Name" : "Rewards",
+              "Type" : "Rewards",
+              "Indicator" : false
+            }, {
+              "Identification" : "62408",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62409",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "62393",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "62410",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitching Incentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "62411",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62412",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62394",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "62413",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62395",
+              "Name" : "JointAccountAvailability",
+              "Type" : "AccountManagement",
+              "Textual" : "Sole and Joint"
+            }, {
+              "Identification" : "62396",
+              "Name" : "NegotiableTariffOptions",
+              "Type" : "Other",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "62397",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "62414",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62415",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62416",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62417",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "62418",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "Online Banking, Moblie App, Apple Pay, Android Pay, PayM"
+            }, {
+              "Identification" : "62419",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "MobileBankingApp",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "Other",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "PayM",
+              "Notes" : [ "Android Pay" ]
+            } ],
+            "Card" : [ {
+              "Scheme" : "Visa",
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : true
+            } ]
+          },
+          "Eligibility" : {
+            "IDVerificationCheck" : { },
+            "CreditCheck" : {
+              "ScoringType" : "Hard"
+            }
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2011-07-04",
+          "LastMarketedDate" : "2099-12-31",
+          "OtherFeesCharges" : {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "IntlPayTransNonSterling",
+              "Notes" : [ "Fee - Non-sterling transaction", "2.65% Non-Sterling Transaction Fee on cash withdrawals or the purchase of currency/travellers cheques outside the UK. Also applies to purchases made anywhere in a foreign currency." ],
+              "FeeRate" : "2.65",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "We can provide you with a copy of a previously issued statement. If you would like a statement that is less than seven years old there is no charge but if you would like a statement from more than seven years ago this will cost £10." ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance", "Getting a bank draft £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Stopping a cheque (unless it has been lost or stolen)" ],
+              "FeeAmount" : "8",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqClearance",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Getting a special clearance for a cheque £13" ],
+              "FeeAmount" : "13",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCopy",
+              "Notes" : [ "Charge - Cheques Returned In", "Request to return your cheque after it been cleared.\n(charged if you ask for over 10 cheques)" ],
+              "FeeAmount" : "1",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Sterling and Non Sterling Inwards Payments (in favour of Ulster Bank customers): £6" ],
+              "FeeAmount" : "6",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Inward Payments (in favour of customers of other banks) Sterling and Non Sterling: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling to Ulster Bank Branches in ROI: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Urgent Payment: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Same Day Payment: 15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "International Payment - Inwards Euro Payment of any value £0" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            } ]
+          },
+          "Overdraft" : {
+            "OverdraftTierBandSet" : [ {
+              "Identification" : "4285",
+              "Notes" : [ "Overdrafts - Select +(ODC)Reward (inc Premier versions),Private Current,Silver", "Arranged Overdraft" ],
+              "TierBandMethod" : "Whole",
+              "BufferAmount" : "10",
+              "OverdraftTierBand" : [ {
+                "Identification" : "6348",
+                "Notes" : [ "Buffer" ],
+                "TierValueMin" : "0.01",
+                "TierValueMax" : "10",
+                "EAR" : "0",
+                "OverdraftFeesCharges" : [ {
+                  "OverdraftFeeChargeDetail" : [ {
+                    "FeeType" : "ArrangedOverdraft",
+                    "Notes" : [ "Fee - Arranged overdraft usage" ],
+                    "FeeAmount" : "0",
+                    "ApplicationFrequency" : "ChargingPeriod",
+                    "CalculationFrequency" : "ChargingPeriod"
+                  } ]
+                } ]
+              }, {
+                "Identification" : "6349",
+                "Notes" : [ "Chargeable Balance" ],
+                "TierValueMin" : "10.01",
+                "TierValueMax" : "99999999999",
+                "EAR" : "19.89",
+                "OverdraftFeesCharges" : [ {
+                  "OverdraftFeeChargeDetail" : [ {
+                    "FeeType" : "ArrangedOverdraft",
+                    "Notes" : [ "Fee - Arranged overdraft usage" ],
+                    "FeeAmount" : "6",
+                    "ApplicationFrequency" : "ChargingPeriod",
+                    "CalculationFrequency" : "AcademicTerm"
+                  } ]
+                } ]
+              } ],
+              "OverdraftFeesCharges" : [ {
+                "OverdraftFeeChargeDetail" : [ {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Fee - Unarranged overdraft" ],
+                  "FeeAmount" : "8",
+                  "ApplicationFrequency" : "Daily",
+                  "CalculationFrequency" : "Daily"
+                }, {
+                  "FeeType" : "UnauthorisedUnpaidTrans",
+                  "Notes" : [ "Overdraft - Unpaid Transaction Fee" ],
+                  "FeeAmount" : "2.75",
+                  "ApplicationFrequency" : "PerItem",
+                  "CalculationFrequency" : "ChargingPeriod"
+                }, {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Overdraft - Maximum Monthly Charge" ],
+                  "FeeAmount" : "80",
+                  "ApplicationFrequency" : "ChargingPeriod",
+                  "CalculationFrequency" : "ChargingPeriod"
+                } ],
+                "OverdraftFeeChargeCap" : [ {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "72",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Minimum",
+                  "FeeCapAmount" : "0",
+                  "FeeType" : [ "UnauthorisedUnpaidTrans" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "2.75",
+                  "FeeType" : [ "UnauthorisedUnpaidTrans" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Minimum",
+                  "FeeCapAmount" : "80",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "80",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                } ]
+              } ]
+            } ]
+          }
+        } ],
+        "Segment" : [ "General" ]
+      }, {
+        "Name" : "Private Current",
+        "Identification" : "P2",
+        "OnSaleIndicator" : true,
+        "PCAMarketingState" : [ {
+          "Identification" : "1",
+          "CoreProduct" : {
+            "ProductDescription" : "The Private account offers you your own Relationship Manager and dedicated support team, plus preferential financial rates and services. \n\nYou can apply for this account if you have a min. salary of £75k or £100k for joint applications. \n\nYou can apply if you're a UK resident aged 18 or over.",
+            "ProductURL" : "https://digital.ulsterbank.co.uk/personal/private-banking/private-current-account.html",
+            "TcsAndCsURL" : "https://digital.ulsterbank.co.uk/content/dam/Ulster/documents/ni-region/ni-personal-ulst-brochures/personal-banking-terms-and-conditions-ULST1571NI.pdf",
+            "MonthlyMaximumCharge" : "80",
+            "SalesAccessChannels" : [ "Branch", "CallCentre", "RelationshipManager" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "Text", "RelationshipManager" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "9806",
+              "Type" : "RelationshipManager",
+              "Name" : "Private Banking"
+            }, {
+              "Identification" : "9807",
+              "Type" : "Other",
+              "Name" : "Credit Interest"
+            }, {
+              "Identification" : "78349",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "78354",
+              "Name" : "Cashback",
+              "Type" : "Cashback",
+              "Indicator" : false
+            }, {
+              "Identification" : "78355",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78356",
+              "Name" : "PackagedAccountBenefits",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "78342",
+              "Name" : "RegularFee",
+              "Type" : "AccountManagement",
+              "Textual" : "Monthly"
+            }, {
+              "Identification" : "78357",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "78358",
+              "Name" : "Rewards",
+              "Type" : "Rewards",
+              "Indicator" : false
+            }, {
+              "Identification" : "78359",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78360",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "78343",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "78361",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitching Incentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "78362",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78363",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78344",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "78364",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78345",
+              "Name" : "JointAccountAvailability",
+              "Type" : "AccountManagement",
+              "Textual" : "Sole and Joint"
+            }, {
+              "Identification" : "78346",
+              "Name" : "NegotiableTariffOptions",
+              "Type" : "Other",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "78347",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "78365",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78366",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78367",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78368",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "78369",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "Online Banking, Moblie App, Apple Pay, Android Pay, PayM"
+            }, {
+              "Identification" : "78370",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "MobileBankingApp",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "Other",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "PayM",
+              "Notes" : [ "Android Pay" ]
+            } ],
+            "Card" : [ {
+              "Scheme" : "Visa",
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : true
+            } ]
+          },
+          "Eligibility" : {
+            "IDVerificationCheck" : { },
+            "CreditCheck" : {
+              "ScoringType" : "Hard"
+            }
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2000-01-01",
+          "LastMarketedDate" : "2099-12-31",
+          "OtherFeesCharges" : {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFee",
+              "Notes" : [ "Fee - Account" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "Monthly",
+              "CalculationFrequency" : "StatementMonthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "IntlPayTransNonSterling",
+              "Notes" : [ "Fee - Non-sterling transaction", "2.65% Non-Sterling Transaction Fee on cash withdrawals or the purchase of currency/travellers cheques outside the UK. Also applies to purchases made anywhere in a foreign currency." ],
+              "FeeRate" : "2.65",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "We can provide you with a copy of a previously issued statement. If you would like a statement that is less than seven years old there is no charge but if you would like a statement from more than seven years ago this will cost £10." ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance", "Getting a bank draft £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Stopping a cheque (unless it has been lost or stolen)" ],
+              "FeeAmount" : "8",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqClearance",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Getting a special clearance for a cheque £13" ],
+              "FeeAmount" : "13",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCopy",
+              "Notes" : [ "Charge - Cheques Returned In", "Request to return your cheque after it been cleared.\n(charged if you ask for over 10 cheques)" ],
+              "FeeAmount" : "1",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Sterling and Non Sterling Inwards Payments (in favour of Ulster Bank customers): £6" ],
+              "FeeAmount" : "6",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Inward Payments (in favour of customers of other banks) Sterling and Non Sterling: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling to Ulster Bank Branches in ROI: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Urgent Payment: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Same Day Payment: 15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "International Payment - Inwards Euro Payment of any value £0" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            } ]
+          },
+          "Overdraft" : {
+            "OverdraftTierBandSet" : [ {
+              "Identification" : "4285",
+              "Notes" : [ "Overdrafts - Select +(ODC)Reward (inc Premier versions),Private Current,Silver", "Arranged Overdraft" ],
+              "TierBandMethod" : "Whole",
+              "BufferAmount" : "10",
+              "OverdraftTierBand" : [ {
+                "Identification" : "6348",
+                "Notes" : [ "Buffer" ],
+                "TierValueMin" : "0.01",
+                "TierValueMax" : "10",
+                "EAR" : "0",
+                "OverdraftFeesCharges" : [ {
+                  "OverdraftFeeChargeDetail" : [ {
+                    "FeeType" : "ArrangedOverdraft",
+                    "Notes" : [ "Fee - Arranged overdraft usage" ],
+                    "FeeAmount" : "0",
+                    "ApplicationFrequency" : "ChargingPeriod",
+                    "CalculationFrequency" : "ChargingPeriod"
+                  } ]
+                } ]
+              }, {
+                "Identification" : "6349",
+                "Notes" : [ "Chargeable Balance" ],
+                "TierValueMin" : "10.01",
+                "TierValueMax" : "99999999999",
+                "EAR" : "19.89",
+                "OverdraftFeesCharges" : [ {
+                  "OverdraftFeeChargeDetail" : [ {
+                    "FeeType" : "ArrangedOverdraft",
+                    "Notes" : [ "Fee - Arranged overdraft usage" ],
+                    "FeeAmount" : "6",
+                    "ApplicationFrequency" : "ChargingPeriod",
+                    "CalculationFrequency" : "AcademicTerm"
+                  } ]
+                } ]
+              } ],
+              "OverdraftFeesCharges" : [ {
+                "OverdraftFeeChargeDetail" : [ {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Fee - Unarranged overdraft" ],
+                  "FeeAmount" : "8",
+                  "ApplicationFrequency" : "Daily",
+                  "CalculationFrequency" : "Daily"
+                }, {
+                  "FeeType" : "UnauthorisedUnpaidTrans",
+                  "Notes" : [ "Overdraft - Unpaid Transaction Fee" ],
+                  "FeeAmount" : "2.75",
+                  "ApplicationFrequency" : "PerItem",
+                  "CalculationFrequency" : "ChargingPeriod"
+                }, {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Overdraft - Maximum Monthly Charge" ],
+                  "FeeAmount" : "80",
+                  "ApplicationFrequency" : "ChargingPeriod",
+                  "CalculationFrequency" : "ChargingPeriod"
+                } ],
+                "OverdraftFeeChargeCap" : [ {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "72",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Minimum",
+                  "FeeCapAmount" : "0",
+                  "FeeType" : [ "UnauthorisedUnpaidTrans" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "2.75",
+                  "FeeType" : [ "UnauthorisedUnpaidTrans" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Minimum",
+                  "FeeCapAmount" : "80",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "80",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                } ]
+              } ]
+            } ]
+          }
+        } ],
+        "Segment" : [ "Premium" ]
+      }, {
+        "Name" : "Graduate",
+        "Identification" : "17",
+        "OnSaleIndicator" : true,
+        "PCAMarketingState" : [ {
+          "Identification" : "6235",
+          "Notes" : [ "Buffer" ],
+          "CoreProduct" : {
+            "ProductDescription" : "With the Graduate account, you can get  Interest-free arranged overdraft of up to £1500 (subject to credit review and approval) for up to one year after you graduate.\n \nDepending on your circumstances, you can request a Graduate Loan of up to £5000 (subject to credit review and approval).\n\nAccess Flexible ways to bank; Visa debit card, 24/7 Anytime Internet Banking plus our mobile banking app packed with handy features.\n\nCommission-free travel money; Pick up commission-free foreign currency from your branch before you travel.",
+            "ProductURL" : "https://digital.ulsterbank.co.uk/personal/current-accounts/graduate-account.html",
+            "TcsAndCsURL" : "https://digital.ulsterbank.co.uk/content/dam/Ulster/documents/ni-region/ni-personal-ulst-brochures/personal-banking-terms-and-conditions-ULST1571NI.pdf",
+            "MonthlyMaximumCharge" : "80",
+            "SalesAccessChannels" : [ "Branch", "Online", "CallCentre" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "Text" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "9948",
+              "Type" : "Other",
+              "Name" : "Interest-free arranged overdraft up to £1500"
+            }, {
+              "Identification" : "9949",
+              "Type" : "Travel",
+              "Name" : "Commission-free travel money"
+            }, {
+              "Identification" : "9950",
+              "Type" : "Other",
+              "Name" : "Graduate loan of up to £5000"
+            }, {
+              "Identification" : "9951",
+              "Type" : "AccountManagement",
+              "Name" : "Flexible ways to bank"
+            }, {
+              "Identification" : "79683",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "79692",
+              "Name" : "Cashback",
+              "Type" : "Cashback",
+              "Indicator" : false
+            }, {
+              "Identification" : "79693",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79694",
+              "Name" : "PackagedAccountBenefits",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "79684",
+              "Name" : "RegularFee",
+              "Type" : "AccountManagement",
+              "Textual" : "None"
+            }, {
+              "Identification" : "79695",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "79696",
+              "Name" : "Rewards",
+              "Type" : "Rewards",
+              "Indicator" : false
+            }, {
+              "Identification" : "79697",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79698",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "79685",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "79699",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitching Incentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "79700",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79701",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79686",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "79702",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79687",
+              "Name" : "JointAccountAvailability",
+              "Type" : "AccountManagement",
+              "Textual" : "Sole and Joint"
+            }, {
+              "Identification" : "79688",
+              "Name" : "NegotiableTariffOptions",
+              "Type" : "Other",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "79689",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "79703",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79704",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79705",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79706",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79707",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "Online Banking, Moblie App, Apple Pay, Android Pay, PayM"
+            }, {
+              "Identification" : "79708",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "MobileBankingApp",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "Other",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "PayM",
+              "Notes" : [ "Android Pay" ]
+            } ],
+            "Card" : [ {
+              "Scheme" : "Visa",
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : true
+            } ]
+          },
+          "Eligibility" : {
+            "AgeEligibility" : {
+              "MinimumAge" : 18.0,
+              "Notes" : [ "Customer must be aged 18" ]
+            },
+            "OtherEligibility" : [ {
+              "Type" : "Other",
+              "Name" : "Gradaute Eligibility",
+              "Textual" : "Graduate accounts are available to individuals aged 18 or over who have:\n• held a Student account; or\n• graduated from a full time higher education course at a UK university or college\nlasting at least 2 years within the last year.",
+              "Notes" : [ "Graduate accounts are available to individuals aged 18 or over who have:\n• held a Student account; or\n• graduated from a full time higher education course at a UK university or college\nlasting at least 2 years within the last year." ]
+            } ],
+            "IDVerificationCheck" : { },
+            "CreditCheck" : {
+              "ScoringType" : "Hard"
+            }
+          },
+          "MarketingState" : "Regular",
+          "StateTenurePeriod" : "Year",
+          "StateTenureLength" : 1,
+          "FirstMarketedDate" : "2000-01-01",
+          "LastMarketedDate" : "2099-12-31",
+          "OtherFeesCharges" : {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "IntlPayTransNonSterling",
+              "Notes" : [ "Fee - Non-sterling transaction", "2.65% Non-Sterling Transaction Fee on cash withdrawals or the purchase of currency/travellers cheques outside the UK. Also applies to purchases made anywhere in a foreign currency." ],
+              "FeeRate" : "2.65",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "We can provide you with a copy of a previously issued statement. If you would like a statement that is less than seven years old there is no charge but if you would like a statement from more than seven years ago this will cost £10." ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance", "Getting a bank draft £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Stopping a cheque (unless it has been lost or stolen)" ],
+              "FeeAmount" : "8",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqClearance",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Getting a special clearance for a cheque £13" ],
+              "FeeAmount" : "13",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCopy",
+              "Notes" : [ "Charge - Cheques Returned In", "Request to return your cheque after it been cleared.\n(charged if you ask for over 10 cheques)" ],
+              "FeeAmount" : "1",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Sterling and Non Sterling Inwards Payments (in favour of Ulster Bank customers): £6" ],
+              "FeeAmount" : "6",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Inward Payments (in favour of customers of other banks) Sterling and Non Sterling: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling to Ulster Bank Branches in ROI: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Urgent Payment: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Same Day Payment: 15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "International Payment - Inwards Euro Payment of any value £0" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            } ]
+          },
+          "Overdraft" : {
+            "OverdraftTierBandSet" : [ {
+              "Identification" : "4282",
+              "Notes" : [ "Overdraft Graduate UBNI", "Arranged Overdraft" ],
+              "TierBandMethod" : "Whole",
+              "BufferAmount" : "10",
+              "OverdraftTierBand" : [ {
+                "Identification" : "6344",
+                "Notes" : [ "Buffer" ],
+                "TierValueMin" : "0.01",
+                "TierValueMax" : "1500",
+                "EAR" : "0",
+                "OverdraftFeesCharges" : [ {
+                  "OverdraftFeeChargeDetail" : [ {
+                    "FeeType" : "ArrangedOverdraft",
+                    "Notes" : [ "Overdraft - Arranged Overdraft Usage Fee" ],
+                    "FeeAmount" : "0",
+                    "ApplicationFrequency" : "ChargingPeriod",
+                    "CalculationFrequency" : "ChargingPeriod"
+                  } ]
+                } ]
+              } ],
+              "OverdraftFeesCharges" : [ {
+                "OverdraftFeeChargeDetail" : [ {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Fee - Unarranged overdraft" ],
+                  "FeeAmount" : "8",
+                  "ApplicationFrequency" : "Daily",
+                  "CalculationFrequency" : "ChargingPeriod"
+                }, {
+                  "FeeType" : "UnauthorisedUnpaidTrans",
+                  "Notes" : [ "Overdraft - Unpaid Transaction Fee" ],
+                  "FeeAmount" : "2.75",
+                  "ApplicationFrequency" : "PerTransaction",
+                  "CalculationFrequency" : "ChargingPeriod"
+                }, {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Overdraft - Maximum Monthly Charge" ],
+                  "FeeAmount" : "80",
+                  "ApplicationFrequency" : "ChargingPeriod",
+                  "CalculationFrequency" : "ChargingPeriod"
+                } ],
+                "OverdraftFeeChargeCap" : [ {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "72",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "2.75",
+                  "FeeType" : [ "UnauthorisedUnpaidTrans" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "80",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                } ]
+              } ]
+            } ]
+          }
+        } ],
+        "Segment" : [ "Graduate" ]
+      }, {
+        "Name" : "Student",
+        "Identification" : "17",
+        "OnSaleIndicator" : true,
+        "PCAMarketingState" : [ {
+          "Identification" : "6238",
+          "Notes" : [ "Buffer", "Until Graduation, £1k max limit" ],
+          "CoreProduct" : {
+            "ProductDescription" : "Get more flexibility by setting up an interest-free arranged overdraft when you open a Student account with us.\n\nInterest free arranged overdraft of up to £1000 (more for certain degrees, subject to credit review & approval).\n\nAvailable to UK residents aged 18 or over who already have an Ulster Bank Student account.",
+            "ProductURL" : "https://digital.ulsterbank.co.uk/personal/current-accounts/student-account.html",
+            "TcsAndCsURL" : "https://digital.ulsterbank.co.uk/content/dam/Ulster/documents/ni-region/ni-personal-ulst-brochures/personal-banking-terms-and-conditions-ULST1571NI.pdf",
+            "MonthlyMaximumCharge" : "8",
+            "SalesAccessChannels" : [ "Branch", "Online", "CallCentre" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "Text" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "9956",
+              "Type" : "Other",
+              "Name" : "Interest-free Arranged Overdraft"
+            }, {
+              "Identification" : "9957",
+              "Type" : "Travel",
+              "Name" : "Commission-free travel money"
+            }, {
+              "Identification" : "79755",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "79761",
+              "Name" : "Cashback",
+              "Type" : "Cashback",
+              "Indicator" : false
+            }, {
+              "Identification" : "79762",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79763",
+              "Name" : "PackagedAccountBenefits",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "79748",
+              "Name" : "RegularFee",
+              "Type" : "AccountManagement",
+              "Textual" : "None"
+            }, {
+              "Identification" : "79764",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "79765",
+              "Name" : "Rewards",
+              "Type" : "Rewards",
+              "Indicator" : false
+            }, {
+              "Identification" : "79766",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79767",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "79749",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "79768",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitching Incentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "79769",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79770",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79750",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "79771",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79751",
+              "Name" : "JointAccountAvailability",
+              "Type" : "AccountManagement",
+              "Textual" : "Sole and Joint"
+            }, {
+              "Identification" : "79752",
+              "Name" : "NegotiableTariffOptions",
+              "Type" : "Other",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "79753",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "79772",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79773",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79774",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79775",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "79776",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "Online Banking, Moblie App, Apple Pay, Android Pay, PayM"
+            }, {
+              "Identification" : "79777",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "MobileBankingApp",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "Other",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "PayM",
+              "Notes" : [ "Android Pay" ]
+            } ],
+            "Card" : [ {
+              "Scheme" : "Visa",
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : true
+            } ]
+          },
+          "Eligibility" : {
+            "IDVerificationCheck" : { },
+            "CreditCheck" : {
+              "ScoringType" : "Hard"
+            }
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2000-01-01",
+          "LastMarketedDate" : "2099-12-31",
+          "OtherFeesCharges" : {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "IntlPayTransNonSterling",
+              "Notes" : [ "Fee - Non-sterling transaction", "2.65% Non-Sterling Transaction Fee on cash withdrawals or the purchase of currency/travellers cheques outside the UK. Also applies to purchases made anywhere in a foreign currency." ],
+              "FeeRate" : "2.65",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "We can provide you with a copy of a previously issued statement. If you would like a statement that is less than seven years old there is no charge but if you would like a statement from more than seven years ago this will cost £10." ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance", "Getting a bank draft £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Stopping a cheque (unless it has been lost or stolen)" ],
+              "FeeAmount" : "8",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqClearance",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Getting a special clearance for a cheque £13" ],
+              "FeeAmount" : "13",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCopy",
+              "Notes" : [ "Charge - Cheques Returned In", "Request to return your cheque after it been cleared.\n(charged if you ask for over 10 cheques)" ],
+              "FeeAmount" : "1",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Sterling and Non Sterling Inwards Payments (in favour of Ulster Bank customers): £6" ],
+              "FeeAmount" : "6",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Inward Payments (in favour of customers of other banks) Sterling and Non Sterling: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling to Ulster Bank Branches in ROI: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Urgent Payment: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Same Day Payment: 15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "International Payment - Inwards Euro Payment of any value £0" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            } ]
+          },
+          "Overdraft" : {
+            "OverdraftTierBandSet" : [ {
+              "Identification" : "2050",
+              "Notes" : [ "Overdraft UBNI Student", "Arranged Overdraft" ],
+              "TierBandMethod" : "Whole",
+              "OverdraftTierBand" : [ {
+                "Identification" : "3849",
+                "Notes" : [ "Buffer" ],
+                "TierValueMin" : "0.01",
+                "TierValueMax" : "1000",
+                "EAR" : "0",
+                "OverdraftFeesCharges" : [ {
+                  "OverdraftFeeChargeDetail" : [ {
+                    "FeeType" : "ArrangedOverdraft",
+                    "Notes" : [ "Overdraft - Arranged Overdraft Usage Fee" ],
+                    "FeeAmount" : "0",
+                    "ApplicationFrequency" : "ChargingPeriod",
+                    "CalculationFrequency" : "ChargingPeriod"
+                  } ]
+                } ]
+              } ],
+              "OverdraftFeesCharges" : [ {
+                "OverdraftFeeChargeDetail" : [ {
+                  "FeeType" : "UnauthorisedUnpaidTrans",
+                  "Notes" : [ "Overdraft - Unpaid Transaction Fee" ],
+                  "FeeAmount" : "8",
+                  "ApplicationFrequency" : "PerItem",
+                  "CalculationFrequency" : "ChargingPeriod"
+                }, {
+                  "FeeType" : "Other",
+                  "OtherFeeType" : {
+                    "Name" : "N/A",
+                    "Description" : "N/A"
+                  },
+                  "Notes" : [ "Overdraft - Maximum Monthly Charge" ],
+                  "FeeAmount" : "8",
+                  "ApplicationFrequency" : "ChargingPeriod",
+                  "CalculationFrequency" : "ChargingPeriod"
+                } ],
+                "OverdraftFeeChargeCap" : [ {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "8",
+                  "FeeType" : [ "UnauthorisedUnpaidTrans" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "8",
+                  "FeeType" : [ "Other" ],
+                  "OtherFeeType" : [ {
+                    "Name" : "N/A",
+                    "Description" : "N/A"
+                  } ],
+                  "CappingPeriod" : "Month"
+                } ]
+              } ]
+            } ]
+          }
+        } ],
+        "Segment" : [ "Student" ]
+      }, {
+        "Name" : "ufirstgold",
+        "Identification" : "07",
+        "OnSaleIndicator" : true,
+        "PCAMarketingState" : [ {
+          "Identification" : "1",
+          "CoreProduct" : {
+            "ProductDescription" : "An account that offers extra benefits to suit your lifestyle. \n\nYou can apply if you're a UK resident aged 18 or over.",
+            "ProductURL" : "https://digital.ulsterbank.co.uk/personal/current-accounts/ufirstgold-account.html",
+            "TcsAndCsURL" : "https://digital.ulsterbank.co.uk/content/dam/Ulster/documents/ni-region/ni-personal-ulst-brochures/personal-banking-terms-and-conditions-ULST1571NI.pdf",
+            "MonthlyMaximumCharge" : "80",
+            "SalesAccessChannels" : [ "Branch", "Online", "CallCentre" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "Text" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "10171",
+              "Type" : "Other",
+              "Name" : "Interest-free arranged overdraft"
+            }, {
+              "Identification" : "10172",
+              "Type" : "Lifestyle",
+              "Name" : "15% cash-back on concerts, shows and sporting events"
+            }, {
+              "Identification" : "10173",
+              "Type" : "TravelInsurance",
+              "Name" : "Worldwide Family Travel Insurance"
+            }, {
+              "Identification" : "10174",
+              "Type" : "TechnologyInsurance",
+              "Name" : "Mobile Phone Insurance"
+            }, {
+              "Identification" : "10181",
+              "Type" : "TechnologyInsurance",
+              "Name" : "Mobile phone insurance"
+            }, {
+              "Identification" : "81479",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "81482",
+              "Name" : "Cashback",
+              "Type" : "Cashback",
+              "Indicator" : false
+            }, {
+              "Identification" : "81483",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81484",
+              "Name" : "PackagedAccountBenefits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81472",
+              "Name" : "RegularFee",
+              "Type" : "AccountManagement",
+              "Textual" : "Monthly"
+            }, {
+              "Identification" : "81485",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "81486",
+              "Name" : "Rewards",
+              "Type" : "Rewards",
+              "Indicator" : false
+            }, {
+              "Identification" : "81487",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81488",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "81473",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "81489",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitching Incentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "81490",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81491",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81474",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "81492",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81475",
+              "Name" : "JointAccountAvailability",
+              "Type" : "AccountManagement",
+              "Textual" : "Sole and Joint"
+            }, {
+              "Identification" : "81476",
+              "Name" : "NegotiableTariffOptions",
+              "Type" : "Other",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "81477",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "81493",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81494",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81495",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81496",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81497",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "Online Banking, Moblie App, Apple Pay, Android Pay, PayM"
+            }, {
+              "Identification" : "81498",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay",
+              "Notes" : [ "Google Pay" ]
+            }, {
+              "Type" : "MobileBankingApp",
+              "Notes" : [ "Google Pay" ]
+            }, {
+              "Type" : "Other",
+              "Notes" : [ "Google Pay" ]
+            }, {
+              "Type" : "PayM",
+              "Notes" : [ "Google Pay" ]
+            } ],
+            "Card" : [ {
+              "Scheme" : "Visa",
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : true
+            } ]
+          },
+          "Eligibility" : {
+            "ResidencyEligibility" : {
+              "ResidencyType" : "Other",
+              "OtherResidencyType" : {
+                "Name" : "Owner",
+                "Description" : "Owner"
+              },
+              "ResidencyIncluded" : [ "GB" ],
+              "Notes" : [ "You can apply if you're a UK resident aged 18 or over." ]
+            },
+            "IDVerificationCheck" : { },
+            "CreditCheck" : {
+              "ScoringType" : "Hard"
+            }
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2000-01-01",
+          "LastMarketedDate" : "2099-12-31",
+          "OtherFeesCharges" : {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFee",
+              "Notes" : [ "Fee - Account" ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "StatementMonthly",
+              "CalculationFrequency" : "StatementMonthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "IntlPayTransNonSterling",
+              "Notes" : [ "Fee - Non-sterling transaction", "2.65% Non-Sterling Transaction Fee on cash withdrawals or the purchase of currency/travellers cheques outside the UK. Also applies to purchases made anywhere in a foreign currency." ],
+              "FeeRate" : "2.65",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "We can provide you with a copy of a previously issued statement. If you would like a statement that is less than seven years old there is no charge but if you would like a statement from more than seven years ago this will cost £10." ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance", "Getting a bank draft £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Stopping a cheque (unless it has been lost or stolen)" ],
+              "FeeAmount" : "8",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqClearance",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Getting a special clearance for a cheque £13" ],
+              "FeeAmount" : "13",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCopy",
+              "Notes" : [ "Charge - Cheques Returned In", "Request to return your cheque after it been cleared.\n(charged if you ask for over 10 cheques)" ],
+              "FeeAmount" : "1",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Sterling and Non Sterling Inwards Payments (in favour of Ulster Bank customers): £6" ],
+              "FeeAmount" : "6",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Inward Payments (in favour of customers of other banks) Sterling and Non Sterling: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling to Ulster Bank Branches in ROI: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Urgent Payment: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Same Day Payment: 15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "International Payment - Inwards Euro Payment of any value £0" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            } ]
+          },
+          "Overdraft" : {
+            "OverdraftTierBandSet" : [ {
+              "Identification" : "4286",
+              "Notes" : [ "Overdrafts - Select Platinum, Reward Platinum & Ufirst Gold", "Buffer" ],
+              "TierBandMethod" : "Whole",
+              "BufferAmount" : "10",
+              "OverdraftTierBand" : [ {
+                "Identification" : "6350",
+                "Notes" : [ "Buffer" ],
+                "TierValueMin" : "0.01",
+                "TierValueMax" : "250",
+                "EAR" : "0"
+              }, {
+                "Identification" : "6351",
+                "Notes" : [ "Chargeable Balance" ],
+                "TierValueMin" : "250.01",
+                "TierValueMax" : "9999999",
+                "EAR" : "19.89"
+              } ],
+              "OverdraftFeesCharges" : [ {
+                "OverdraftFeeChargeDetail" : [ {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Fee - Unarranged overdraft" ],
+                  "FeeAmount" : "8",
+                  "ApplicationFrequency" : "Daily",
+                  "CalculationFrequency" : "Daily"
+                }, {
+                  "FeeType" : "UnauthorisedUnpaidTrans",
+                  "Notes" : [ "Overdraft - Unpaid Transaction Fee" ],
+                  "FeeAmount" : "2.75",
+                  "ApplicationFrequency" : "PerItem",
+                  "CalculationFrequency" : "ChargingPeriod"
+                }, {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Overdraft - Maximum Monthly Charge" ],
+                  "FeeAmount" : "80",
+                  "ApplicationFrequency" : "ChargingPeriod",
+                  "CalculationFrequency" : "ChargingPeriod"
+                } ],
+                "OverdraftFeeChargeCap" : [ {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "72",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "2.75",
+                  "FeeType" : [ "UnauthorisedUnpaidTrans" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "80",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                } ]
+              } ]
+            } ]
+          }
+        } ],
+        "Segment" : [ "Packaged" ]
+      }, {
+        "Name" : "ufirst Private",
+        "Identification" : "P1",
+        "OnSaleIndicator" : true,
+        "PCAMarketingState" : [ {
+          "Identification" : "1",
+          "CoreProduct" : {
+            "ProductDescription" : "All the benefits of our Private Current Account plus extra lifestyle benefits such as travel, protection and leisure advantages. \n\nYou can apply for this account if you have a min. salary of £75k or £100k for joint applications. \n\nYou can apply if you're a UK resident aged 18 or over.",
+            "ProductURL" : "https://digital.ulsterbank.co.uk/personal/private-banking/ufirst-private-account.html",
+            "TcsAndCsURL" : "https://digital.ulsterbank.co.uk/content/dam/Ulster/documents/ni-region/ni-personal-ulst-brochures/personal-banking-terms-and-conditions-ULST1571NI.pdf",
+            "MonthlyMaximumCharge" : "80",
+            "SalesAccessChannels" : [ "Branch", "CallCentre", "RelationshipManager" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "Text", "RelationshipManager" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "10175",
+              "Type" : "Other",
+              "Name" : "Interest-Free Arranged Overdraft"
+            }, {
+              "Identification" : "10176",
+              "Type" : "Lifestyle",
+              "Name" : "Cash-Back on Ticket Booking"
+            }, {
+              "Identification" : "10177",
+              "Type" : "TravelInsurance",
+              "Name" : "Worldwide Family Travel Insurance"
+            }, {
+              "Identification" : "10178",
+              "Type" : "TechnologyInsurance",
+              "Name" : "Mobile phone insurance"
+            }, {
+              "Identification" : "10179",
+              "Type" : "Travel",
+              "Name" : "Worldwide airport lounge access"
+            }, {
+              "Identification" : "10180",
+              "Type" : "TechnologyInsurance",
+              "Name" : "Mobile Phone Insurance"
+            }, {
+              "Identification" : "81512",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "81515",
+              "Name" : "Cashback",
+              "Type" : "Cashback",
+              "Indicator" : false
+            }, {
+              "Identification" : "81516",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81517",
+              "Name" : "PackagedAccountBenefits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81505",
+              "Name" : "RegularFee",
+              "Type" : "AccountManagement",
+              "Textual" : "Monthly"
+            }, {
+              "Identification" : "81518",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "81519",
+              "Name" : "Rewards",
+              "Type" : "Rewards",
+              "Indicator" : false
+            }, {
+              "Identification" : "81520",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81521",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "81506",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "81522",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitching Incentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "81523",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81524",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81507",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "81525",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81508",
+              "Name" : "JointAccountAvailability",
+              "Type" : "AccountManagement",
+              "Textual" : "Sole and Joint"
+            }, {
+              "Identification" : "81509",
+              "Name" : "NegotiableTariffOptions",
+              "Type" : "Other",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "81510",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "81526",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81527",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81528",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81529",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "81530",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "Anytime Banking"
+            }, {
+              "Identification" : "81531",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay",
+              "Notes" : [ "Google Pay" ]
+            }, {
+              "Type" : "MobileBankingApp",
+              "Notes" : [ "Google Pay" ]
+            }, {
+              "Type" : "Other",
+              "Notes" : [ "Google Pay" ]
+            }, {
+              "Type" : "PayM",
+              "Notes" : [ "Google Pay" ]
+            } ],
+            "Card" : [ {
+              "Scheme" : "Visa",
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : true
+            } ]
+          },
+          "Eligibility" : {
+            "IDVerificationCheck" : { },
+            "CreditCheck" : {
+              "ScoringType" : "Hard"
+            }
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2000-01-01",
+          "LastMarketedDate" : "2099-12-31",
+          "OtherFeesCharges" : {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFee",
+              "Notes" : [ "Fee - Account" ],
+              "FeeAmount" : "26",
+              "ApplicationFrequency" : "Monthly",
+              "CalculationFrequency" : "StatementMonthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "IntlPayTransNonSterling",
+              "Notes" : [ "Fee - Non-sterling transaction", "2.65% Non-Sterling Transaction Fee on cash withdrawals or the purchase of currency/travellers cheques outside the UK. Also applies to purchases made anywhere in a foreign currency." ],
+              "FeeRate" : "2.65",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "We can provide you with a copy of a previously issued statement. If you would like a statement that is less than seven years old there is no charge but if you would like a statement from more than seven years ago this will cost £10." ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance", "Getting a bank draft £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Stopping a cheque (unless it has been lost or stolen)" ],
+              "FeeAmount" : "8",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqClearance",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Getting a special clearance for a cheque £13" ],
+              "FeeAmount" : "13",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCopy",
+              "Notes" : [ "Charge - Cheques Returned In", "Request to return your cheque after it been cleared.\n(charged if you ask for over 10 cheques)" ],
+              "FeeAmount" : "1",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Sterling and Non Sterling Inwards Payments (in favour of Ulster Bank customers): £6" ],
+              "FeeAmount" : "6",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Inward Payments (in favour of customers of other banks) Sterling and Non Sterling: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling to Ulster Bank Branches in ROI: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Urgent Payment: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Same Day Payment: 15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "International Payment - Inwards Euro Payment of any value £0" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            } ]
+          },
+          "Overdraft" : {
+            "OverdraftTierBandSet" : [ {
+              "Identification" : "4280",
+              "Notes" : [ "Overdrafts - Black, Reward Black & Ufirst Private", "Arranged Overdraft" ],
+              "TierBandMethod" : "Whole",
+              "BufferAmount" : "10",
+              "OverdraftTierBand" : [ {
+                "Identification" : "6339",
+                "Notes" : [ "Buffer" ],
+                "TierValueMin" : "0.01",
+                "TierValueMax" : "500",
+                "EAR" : "0",
+                "OverdraftFeesCharges" : [ {
+                  "OverdraftFeeChargeDetail" : [ {
+                    "FeeType" : "ArrangedOverdraft",
+                    "Notes" : [ "Overdraft - Arranged Overdraft Usage Fee" ],
+                    "FeeAmount" : "0",
+                    "ApplicationFrequency" : "ChargingPeriod",
+                    "CalculationFrequency" : "ChargingPeriod"
+                  } ]
+                } ]
+              }, {
+                "Identification" : "6340",
+                "Notes" : [ "Chargeable Balance" ],
+                "TierValueMin" : "500.01",
+                "TierValueMax" : "9999999999",
+                "EAR" : "14.89",
+                "OverdraftFeesCharges" : [ {
+                  "OverdraftFeeChargeDetail" : [ {
+                    "FeeType" : "ArrangedOverdraft",
+                    "Notes" : [ "Overdraft - Arranged Overdraft Usage Fee" ],
+                    "FeeAmount" : "6",
+                    "ApplicationFrequency" : "ChargingPeriod",
+                    "CalculationFrequency" : "ChargingPeriod"
+                  } ]
+                } ]
+              } ],
+              "OverdraftFeesCharges" : [ {
+                "OverdraftFeeChargeDetail" : [ {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Fee - Unarranged overdraft" ],
+                  "FeeAmount" : "8",
+                  "ApplicationFrequency" : "Daily",
+                  "CalculationFrequency" : "ChargingPeriod"
+                }, {
+                  "FeeType" : "UnauthorisedUnpaidTrans",
+                  "Notes" : [ "Overdraft - Unpaid Transaction Fee" ],
+                  "FeeAmount" : "2.75",
+                  "ApplicationFrequency" : "PerItem",
+                  "CalculationFrequency" : "ChargingPeriod"
+                }, {
+                  "FeeType" : "UnauthorisedBorrowing",
+                  "Notes" : [ "Overdraft - Maximum Monthly Charge" ],
+                  "FeeAmount" : "80",
+                  "ApplicationFrequency" : "ChargingPeriod",
+                  "CalculationFrequency" : "ChargingPeriod"
+                } ],
+                "OverdraftFeeChargeCap" : [ {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "72",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "2.75",
+                  "FeeType" : [ "UnauthorisedUnpaidTrans" ],
+                  "CappingPeriod" : "Month"
+                }, {
+                  "MinMaxType" : "Maximum",
+                  "FeeCapAmount" : "80",
+                  "FeeType" : [ "UnauthorisedBorrowing" ],
+                  "CappingPeriod" : "Month"
+                } ]
+              } ]
+            } ]
+          }
+        } ],
+        "Segment" : [ "Packaged" ]
+      }, {
+        "Name" : "Foundation",
+        "Identification" : "QF",
+        "OnSaleIndicator" : true,
+        "PCAMarketingState" : [ {
+          "Identification" : "1",
+          "CoreProduct" : {
+            "ProductDescription" : "An everyday fee free account with no overdraft facility.\n\nBank anywhere with our mobile app, 24-hour telephony banking and online banking, Text alerts",
+            "ProductURL" : "http://digital.ulsterbank.co.uk/personal/current-accounts/foundation-account.html",
+            "TcsAndCsURL" : "http://digital.ulsterbank.co.uk/content/dam/Ulster/documents/ni-region/ni-personal-ulst-brochures/personal-banking-terms-and-conditions-ULST1571NI.pdf",
+            "MonthlyMaximumCharge" : "0",
+            "SalesAccessChannels" : [ "Branch", "Online", "CallCentre" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "Text" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "83601",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "83604",
+              "Name" : "Cashback",
+              "Type" : "Cashback",
+              "Indicator" : false
+            }, {
+              "Identification" : "83605",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "83606",
+              "Name" : "PackagedAccountBenefits",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "83594",
+              "Name" : "RegularFee",
+              "Type" : "AccountManagement",
+              "Textual" : "None"
+            }, {
+              "Identification" : "83607",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "83608",
+              "Name" : "Rewards",
+              "Type" : "Rewards",
+              "Indicator" : false
+            }, {
+              "Identification" : "83609",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "83610",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "83595",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "83611",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitching Incentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "83612",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "83613",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "83596",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "83614",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "83597",
+              "Name" : "JointAccountAvailability",
+              "Type" : "AccountManagement",
+              "Textual" : "Sole and Joint"
+            }, {
+              "Identification" : "83598",
+              "Name" : "NegotiableTariffOptions",
+              "Type" : "Other",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "83599",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "83615",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "83616",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "83617",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "83618",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "83619",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "Online Banking, Moblie App, Apple Pay"
+            }, {
+              "Identification" : "83620",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "MobileBankingApp",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "Other",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "PayM",
+              "Notes" : [ "Android Pay" ]
+            } ],
+            "Card" : [ {
+              "Scheme" : "Visa",
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : false
+            } ]
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2015-11-27",
+          "LastMarketedDate" : "2099-12-31",
+          "OtherFeesCharges" : {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "IntlPayTransNonSterling",
+              "Notes" : [ "Fee - Non-sterling transaction", "2.65% Non-Sterling Transaction Fee on cash withdrawals or the purchase of currency/travellers cheques outside the UK. Also applies to purchases made anywhere in a foreign currency." ],
+              "FeeRate" : "2.65",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "We can provide you with a copy of a previously issued statement. If you would like a statement that is less than seven years old there is no charge but if you would like a statement from more than seven years ago this will cost £10." ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance", "Getting a bank draft £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Stopping a cheque (unless it has been lost or stolen)" ],
+              "FeeAmount" : "8",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqClearance",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Getting a special clearance for a cheque £13" ],
+              "FeeAmount" : "13",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCopy",
+              "Notes" : [ "Charge - Cheques Returned In", "Request to return your cheque after it been cleared.\n(charged if you ask for over 10 cheques)" ],
+              "FeeAmount" : "1",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Sterling and Non Sterling Inwards Payments (in favour of Ulster Bank customers): £6" ],
+              "FeeAmount" : "6",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Inward Payments (in favour of customers of other banks) Sterling and Non Sterling: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling to Ulster Bank Branches in ROI: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Urgent Payment: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Same Day Payment: 15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "International Payment - Inwards Euro Payment of any value £0" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            } ]
+          },
+          "Eligibility" : { }
+        } ],
+        "Segment" : [ "Basic" ]
+      }, {
+        "Name" : "Adapt Account",
+        "Identification" : "V1",
+        "OnSaleIndicator" : true,
+        "PCAMarketingState" : [ {
+          "Identification" : "1",
+          "CoreProduct" : {
+            "ProductDescription" : "Our children’s bank account which offers a Visa debit card.",
+            "ProductURL" : "http://digital.ulsterbank.co.uk/personal/young-people/adapt-teenage-current-account.html",
+            "TcsAndCsURL" : "https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjq5JDizt7XAhXD0aQKHYn4DbIQFggmMAA&url=https%3A%2F%2Fdigital.ulsterbank.co.uk%2Fcontent%2Fdam%2FUlster%2Fdocuments%2Fni-region%2Fni-personal-ulst-brochures%2Fpersonal-banking-terms-and-conditions-ULST1571NI.pdf&usg=AOvVaw0mhlFA5EGCwHWtQKnTj7B3",
+            "MonthlyMaximumCharge" : "0",
+            "SalesAccessChannels" : [ "Branch", "Online", "CallCentre" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "Text" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "11077",
+              "Type" : "Other",
+              "Name" : "Credit Interest"
+            }, {
+              "Identification" : "90951",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "90956",
+              "Name" : "Cashback",
+              "Type" : "Cashback",
+              "Indicator" : false
+            }, {
+              "Identification" : "90957",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "90958",
+              "Name" : "PackagedAccountBenefits",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "90946",
+              "Name" : "RegularFee",
+              "Type" : "AccountManagement",
+              "Textual" : "None"
+            }, {
+              "Identification" : "90959",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "90960",
+              "Name" : "Rewards",
+              "Type" : "Rewards",
+              "Indicator" : false
+            }, {
+              "Identification" : "90961",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "90962",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "90947",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "90963",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitching Incentive",
+              "Indicator" : false
+            }, {
+              "Identification" : "90964",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "90965",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "90943",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "90966",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "90948",
+              "Name" : "JointAccountAvailability",
+              "Type" : "AccountManagement",
+              "Textual" : "Sole and Joint"
+            }, {
+              "Identification" : "90949",
+              "Name" : "NegotiableTariffOptions",
+              "Type" : "Other",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "90942",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "90967",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "90968",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "90969",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "90970",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "90971",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "Online Banking, Moblie App"
+            }, {
+              "Identification" : "90972",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "MobileBankingApp",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "Other",
+              "Notes" : [ "Android Pay" ]
+            }, {
+              "Type" : "PayM",
+              "Notes" : [ "Android Pay" ]
+            } ],
+            "Card" : [ {
+              "Scheme" : "Visa",
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : false
+            } ]
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2017-09-01",
+          "LastMarketedDate" : "2099-12-31",
+          "OtherFeesCharges" : {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "IntlPayTransNonSterling",
+              "Notes" : [ "Fee - Non-sterling transaction", "2.65% Non-Sterling Transaction Fee on cash withdrawals or the purchase of currency/travellers cheques outside the UK. Also applies to purchases made anywhere in a foreign currency." ],
+              "FeeRate" : "2.65",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "We can provide you with a copy of a previously issued statement. If you would like a statement that is less than seven years old there is no charge but if you would like a statement from more than seven years ago this will cost £10." ],
+              "FeeAmount" : "10",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance", "Getting a bank draft £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Stopping a cheque (unless it has been lost or stolen)" ],
+              "FeeAmount" : "8",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqClearance",
+              "Notes" : [ "Charge - Cheques & Other Debits", "Getting a special clearance for a cheque £13" ],
+              "FeeAmount" : "13",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCopy",
+              "Notes" : [ "Charge - Cheques Returned In", "Request to return your cheque after it been cleared.\n(charged if you ask for over 10 cheques)" ],
+              "FeeAmount" : "1",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Sterling and Non Sterling Inwards Payments (in favour of Ulster Bank customers): £6" ],
+              "FeeAmount" : "6",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "Inward Payments (in favour of customers of other banks) Sterling and Non Sterling: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Sterling to Ulster Bank Branches in ROI: £15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards Non Sterling Urgent Payment: £25" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Standard Payment: No Charge" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentOut",
+              "Notes" : [ "Charge - Payment delivery", "International Payment & Drafts Outwards \nNon Sterling to Ulster Bank Branches in ROI Same Day Payment: 15" ],
+              "FeeAmount" : "15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "International",
+              "FeeType" : "IntlPayFXPaymentIn",
+              "Notes" : [ "Charge - Payment delivery", "International Payment - Inwards Euro Payment of any value £0" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            } ]
+          },
+          "Eligibility" : { }
+        } ],
+        "Segment" : [ "Youth" ]
+      } ]
+    } ]
+  } ]
+}

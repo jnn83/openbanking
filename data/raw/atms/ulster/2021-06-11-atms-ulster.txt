@@ -1,0 +1,3603 @@
+{
+  "meta" : {
+    "LastUpdated" : "2021-06-11T17:34:59.107Z",
+    "TotalResults" : 138,
+    "Agreement" : "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License" : "https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse" : "https://www.openbanking.org.uk/terms"
+  },
+  "data" : [ {
+    "Brand" : [ {
+      "BrandName" : "Ulster Bank North",
+      "ATM" : [ {
+        "Identification" : "31454633797674",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "30-31 ABBOTTS CROSS, BELFAST BT37 9QT", "BELFAST", "COUNTY ANTRIM", "BT37 9QT" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT37 9QT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.66762300",
+                "Longitude" : "-005.91228200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3114469644258",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "29 ABERCORN SQUARE, STRABANE BT82 8AL", "STRABANE", "COUNTY TYRONE", "BT82 8AL" ],
+            "TownName" : "STRABANE",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT82 8AL",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.81444400",
+                "Longitude" : "-007.40265300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31474637767145",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "AIRPORT ROAD, CRUMLIN BT29 4AB", "CRUMLIN", "COUNTY ANTRIM", "BT29 4AB" ],
+            "TownName" : "CRUMLIN",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT29 4AB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.66170500",
+                "Longitude" : "-006.21635600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31974632182992",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "310 ALBERTBRIDGE ROAD, BELFAST BT4 3LT", "BELFAST", "COUNTY ANTRIM", "BT4 3LT" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT4 3LT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59840600",
+                "Longitude" : "-005.85857500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31314655333576",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "130 ANDERSONSTOWN ROAD, BELFAST BT11 9BY", "BELFAST", "COUNTY ANTRIM", "BT11 9BY" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT11 9BY",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.57708400",
+                "Longitude" : "-005.97724100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31274683908612",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "135 ANNAGHER ROAD, DUNGANNON BT71 4NE", "DUNGANNON", "COUNTY TYRONE", "BT71 4NE" ],
+            "TownName" : "DUNGANNON",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT71 4NE",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.54293900",
+                "Longitude" : "-006.69594000"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3154661212250",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "ANTRIM ROAD, BELFAST BT15 4EL", "BELFAST", "BELFAST", "BT15 4EL" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "BELFAST" ],
+            "Country" : "UK",
+            "PostCode" : "BT15 4EL",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.64196400",
+                "Longitude" : "-005.93529200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31774641899290",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "ARCHES RETAIL PARK, BELFAST BT5 4AF", "BELFAST", "COUNTY ANTRIM", "BT5 4AF" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT5 4AF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59720500",
+                "Longitude" : "-005.89267800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3124691965198",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "15 ASHBURY AVENUE, BELFAST BT19 6TH", "BELFAST", "COUNTY DOWN", "BT19 6TH" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT19 6TH",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.64820100",
+                "Longitude" : "-005.63748200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31474671209475",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "15 BALLYMENA ROAD, ANTRIM BT41 4JG", "ANTRIM", "COUNTY ANTRIM", "BT41 4JG" ],
+            "TownName" : "ANTRIM",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT41 4JG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.72197300",
+                "Longitude" : "-006.22147000"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31644694233769",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "40 BANBRIDGE ROAD, LURGAN BT66 7EG", "LURGAN", "COUNTY ARMAGH", "BT66 7EG" ],
+            "TownName" : "LURGAN",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT66 7EG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.45563700",
+                "Longitude" : "-006.31939200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3114648803849",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "BELFAST INTL AIRPORT, BELFAST BT29 4AA", "BELFAST", "COUNTY ANTRIM", "BT29 4AA" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT29 4AA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.62485000",
+                "Longitude" : "-006.21487800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3137465216570",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "BELFAST ROAD, BANGOR BT20 3PP", "BANGOR", "CO DOWN", "BT20 3PP" ],
+            "TownName" : "BANGOR",
+            "CountrySubDivision" : [ "CO DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT20 3PP",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.65537800",
+                "Longitude" : "-005.68355400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3137462529563",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "BELFAST ROAD, BELFAST BT3 9JH", "BELFAST", "COUNTY ANTRIM", "BT3 9JH" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT3 9JH",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.61477500",
+                "Longitude" : "-005.87009000"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31214668955506",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "44 BELFAST ROAD, LARNE BT40 2PH", "LARNE", "COUNTY ANTRIM", "BT40 2PH" ],
+            "TownName" : "LARNE",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT40 2PH",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.83397400",
+                "Longitude" : "-005.86790900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "319846439501",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "BOOMERS WAY, LISBURN BT28 3HU", "LISBURN", "LISBURN", "BT28 3HU" ],
+            "TownName" : "LISBURN",
+            "CountrySubDivision" : [ "LISBURN" ],
+            "Country" : "UK",
+            "PostCode" : "BT28 3HU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.52745100",
+                "Longitude" : "-006.07392800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31544671763487",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "8 BOROUGH PLACE EAST, PORTADOWN BT62 3PG", "PORTADOWN", "COUNTY ARMAGH", "BT62 3PG" ],
+            "TownName" : "PORTADOWN",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT62 3PG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.42229300",
+                "Longitude" : "-006.44555400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31464631406344",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "18 BOW STREET, LISBURN BT28 1BN", "LISBURN", "COUNTY ANTRIM", "BT28 1BN" ],
+            "TownName" : "LISBURN",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT28 1BN",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.51174000",
+                "Longitude" : "-006.04687200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3144688517640",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "BRADBURY PLACE, BELFAST BT7 1PH", "BELFAST", "COUNTY ANTRIM", "BT7 1PH" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT7 1PH",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58804800",
+                "Longitude" : "-005.93491700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3150463731362",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "22 BRIDGE STREET, BANBRIDGE BT32 3JT", "BANBRIDGE", "COUNTY DOWN", "BT32 3JT" ],
+            "TownName" : "BANBRIDGE",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT32 3JT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.34981500",
+                "Longitude" : "-006.26989300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3131466793635",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "197-201 BRIDGE STREET, PORTADOWN BT63 5AR", "PORTADOWN", "COUNTY ARMAGH", "BT63 5AR" ],
+            "TownName" : "PORTADOWN",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT63 5AR",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.42929000",
+                "Longitude" : "-006.43142300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3139463902264",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "20 BROAD STREET, MAGHERAFELT BT45 6EA", "MAGHERAFELT", "COUNTY LONDONDERRY", "BT45 6EA" ],
+            "TownName" : "MAGHERAFELT",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT45 6EA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.75575900",
+                "Longitude" : "-006.60677400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31734675658598",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "BUTTERCRANE QUAY, NEWRY BT35 8HJ", "NEWRY", "COUNTY DOWN", "BT35 8HJ" ],
+            "TownName" : "NEWRY",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT35 8HJ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.17203300",
+                "Longitude" : "-006.34163800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3194687233928",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "37 HIGH STREET, CARRICKFERGUS BT38 7AN", "CARRICKFERGUS", "COUNTY ANTRIM", "BT38 7AN" ],
+            "TownName" : "CARRICKFERGUS",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT38 7AN",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.71516600",
+                "Longitude" : "-005.80585600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31304673141216",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "36 CASTLE STREET, BALLYCASTLE BT54 6AR", "BALLYCASTLE", "COUNTY ANTRIM", "BT54 6AR" ],
+            "TownName" : "BALLYCASTLE",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT54 6AR",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.20039000",
+                "Longitude" : "-006.25362100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31804680507925",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "124 CASTLEWELLAN ROAD, BANBRIDGE BT32 4JF", "BANBRIDGE", "COUNTY DOWN", "BT32 4JF" ],
+            "TownName" : "BANBRIDGE",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT32 4JF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.34609700",
+                "Longitude" : "-006.26082300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31274619091437",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "30-32 CATHERINE STREET, LIMAVADY BT49 9DB", "LIMAVADY", "COUNTY LONDONDERRY", "BT49 9DB" ],
+            "TownName" : "LIMAVADY",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT49 9DB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.04669200",
+                "Longitude" : "-006.95184800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31404620859609",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "CENTRAL WAY, CRAIGAVON BT64 1AA", "CRAIGAVON", "COUNTY ARMAGH", "BT64 1AA" ],
+            "TownName" : "CRAIGAVON",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT64 1AA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.44942300",
+                "Longitude" : "-006.39057800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31894691218563",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "2 CHARLOTTE STREET, WARRENPOINT BT34 3LF", "WARRENPOINT", "COUNTY DOWN", "BT34 3LF" ],
+            "TownName" : "WARRENPOINT",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT34 3LF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.10253000",
+                "Longitude" : "-006.25573100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31474652312383",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "9-11 CHURCH ROAD, HOLYWOOD BT18 9BU", "HOLYWOOD", "COUNTY DOWN", "BT18 9BU" ],
+            "TownName" : "HOLYWOOD",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT18 9BU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.64107300",
+                "Longitude" : "-005.83309700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31124648655479",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "11 CHURCH STREET, BALLYMONEY BT53 6HS", "BALLYMONEY", "COUNTY ANTRIM", "BT53 6HS" ],
+            "TownName" : "BALLYMONEY",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT53 6HS",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.07090800",
+                "Longitude" : "-006.51601400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31194628289090",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "21-23 CHURCH STREET, BANBRIDGE BT32 4AA", "BANBRIDGE", "COUNTY DOWN", "BT32 4AA" ],
+            "TownName" : "BANBRIDGE",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT32 4AA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.35246500",
+                "Longitude" : "-006.26670300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3176466196371",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "22C CIRCULAR ROAD, NEWTOWNARDS BT23 4EU", "NEWTOWNARDS", "COUNTY DOWN", "BT23 4EU" ],
+            "TownName" : "NEWTOWNARDS",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT23 4EU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59299300",
+                "Longitude" : "-005.71031300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31884622662656",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "CLANDEBOYE ROAD, BANGOR BT20 3JP", "BANGOR", "COUNTY DOWN", "BT20 3JP" ],
+            "TownName" : "BANGOR",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT20 3JP",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.64909800",
+                "Longitude" : "-005.68391600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31304623573496",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "160 CLIFTONVILLE ROAD, BELFAST BT14 6LA", "BELFAST", "NORTHERN IRELAND", "BT14 6LA" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "NORTHERN IRELAND" ],
+            "Country" : "UK",
+            "PostCode" : "BT14 6LA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.61608500",
+                "Longitude" : "-005.94588600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31664621708557",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "29 CLOONEY TERRACE, DERRY BT47 6AW", "DERRY", "COUNTY LONDONDERRY", "BT47 6AW" ],
+            "TownName" : "DERRY",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT47 6AW",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.99478100",
+                "Longitude" : "-007.31047400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31654684673430",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "171 COLERAINE ROAD, PORTSTEWART BT55 7HU", "PORTSTEWART", "COUNTY ANTRIM", "BT55 7HU" ],
+            "TownName" : "PORTSTEWART",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT55 7HU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.17104600",
+                "Longitude" : "-006.71160300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3124638061668",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "COOLAFINNY ROAD, EGLINTON BT47 3PG", "EGLINTON", "CO DERRY", "BT47 3PG" ],
+            "TownName" : "EGLINTON",
+            "CountrySubDivision" : [ "CO DERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT47 3PG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.02778200",
+                "Longitude" : "-007.17907200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31354676579121",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "30 CORNMARKET, BELFAST BT1 4DD", "BELFAST", "COUNTY ANTRIM", "BT1 4DD" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT1 4DD",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59871800",
+                "Longitude" : "-005.92818700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31944676579121",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "28 CORNMARKET, BELFAST BT1 4DD", "BELFAST", "COUNTY ANTRIM", "BT1 4DD" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT1 4DD",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59871800",
+                "Longitude" : "-005.92818700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3160463785284",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "11 CROSSGAR ROAD, SAINTFIELD BT24 7AS", "SAINTFIELD", "COUNTY DOWN", "BT24 7AS" ],
+            "TownName" : "SAINTFIELD",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT24 7AS",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.45860100",
+                "Longitude" : "-005.82886100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3116461579060",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "185-195 CRUMLIN ROAD, BELFAST BT14 7DY", "BELFAST", "COUNTY ANTRIM", "BT14 7DY" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT14 7DY",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.61078000",
+                "Longitude" : "-005.95079500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31824687102841",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "61 CULCAVY ROAD, HILLSBOROUGH BT26 6JD", "HILLSBOROUGH", "CO.DOWN", "BT26 6JD" ],
+            "TownName" : "HILLSBOROUGH",
+            "CountrySubDivision" : [ "CO.DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT26 6JD",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.47195200",
+                "Longitude" : "-006.08733600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31214688519083",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "CULMORE ROAD, DERRY BT48 8JF", "DERRY", "CO DERRY", "BT48 8JF" ],
+            "TownName" : "DERRY",
+            "CountrySubDivision" : [ "CO DERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT48 8JF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.02139200",
+                "Longitude" : "-007.30740700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31214688519083810",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "CULMORE ROAD, LONDONDERRY BT48 8JB", "LONDONDERRY", "COUNTY LONDONDERRY", "BT48 8JB" ],
+            "TownName" : "LONDONDERRY",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT48 8JB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.02139200",
+                "Longitude" : "-007.30740700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31554656994739",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "16 DARLING STREET, ENNISKILLEN BT74 7ER", "ENNISKILLEN", "COUNTY FERMANAGH", "BT74 7ER" ],
+            "TownName" : "ENNISKILLEN",
+            "CountrySubDivision" : [ "COUNTY FERMANAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT74 7ER",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.34641700",
+                "Longitude" : "-007.64325900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31494660699169",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "250 DONEGALL ROAD, BELFAST BT12 5NE", "BELFAST", "CO ANTRIM", "BT12 5NE" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "CO ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT12 5NE",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58825600",
+                "Longitude" : "-005.94729600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31504679826701",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "11-16 DONEGALL SQUARE EAST, BELFAST BT1 5HD", "BELFAST", "COUNTY ANTRIM", "BT1 5HD" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT1 5HD",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59691600",
+                "Longitude" : "-005.92829200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31254670411520",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "5 DOWNPATRICK ROAD, ARDGLASS BT30 7SF", "ARDGLASS", "COUNTY DOWN", "BT30 7SF" ],
+            "TownName" : "ARDGLASS",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT30 7SF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.26404100",
+                "Longitude" : "-005.61346100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31294680507925",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "23 DROMORE ROAD, BANBRIDGE BT32 4JF", "BANBRIDGE", "COUNTY DOWN", "BT32 4JF" ],
+            "TownName" : "BANBRIDGE",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT32 4JF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.34609700",
+                "Longitude" : "-006.26082300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3184639932607",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "40 DUBLIN ROAD, BELFAST BT2 7HN", "BELFAST", "COUNTY ANTRIM", "BT2 7HN" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT2 7HN",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59159000",
+                "Longitude" : "-005.93165100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31964654329668",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "24 DUNGANNON ROAD, PORTADOWN BT62 1LS", "PORTADOWN", "COUNTY ARMAGH", "BT62 1LS" ],
+            "TownName" : "PORTADOWN",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT62 1LS",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.48286000",
+                "Longitude" : "-006.54818800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3198468353450",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "DUNHILL ROAD, COLERAINE BT51 3QJ", "COLERAINE", "COUNTY LONDONDERRY", "BT51 3QJ" ],
+            "TownName" : "COLERAINE",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT51 3QJ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.10441500",
+                "Longitude" : "-006.69652500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31644683893515",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "2 FARMLEY ROAD, NEWTOWNABBEY BT36 7QU", "NEWTOWNABBEY", "COUNTY ANTRIM", "BT36 7QU" ],
+            "TownName" : "NEWTOWNABBEY",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT36 7QU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.67021500",
+                "Longitude" : "-005.95866600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31954694175602",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "22 FRANCES STREET, NEWTOWNARDS BT23 7DN", "NEWTOWNARDS", "COUNTY DOWN", "BT23 7DN" ],
+            "TownName" : "NEWTOWNARDS",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT23 7DN",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.60316900",
+                "Longitude" : "-005.68103200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31474611046107",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "UNIT 2A GILPINSTOWN ROAD, LURGAN BT66 8RL", "LURGAN", "COUNTY ARMAGH", "BT66 8RL" ],
+            "TownName" : "LURGAN",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT66 8RL",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.45704200",
+                "Longitude" : "-006.35634800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3136463834611",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "174 GLENARM ROAD, LARNE BT40 1TS", "LARNE", "COUNTY ANTRIM", "BT40 1TS" ],
+            "TownName" : "LARNE",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT40 1TS",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.86187000",
+                "Longitude" : "-005.81971000"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31504685652101",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "GLENAVY ROAD, MOIRA BT67 0LT", "MOIRA", "COUNTY ARMAGH", "BT67 0LT" ],
+            "TownName" : "MOIRA",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT67 0LT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.50170100",
+                "Longitude" : "-006.21098200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3131463679441",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "GLENGALL STREET, BELFAST BT1 5AB", "BELFAST", "COUNTY ANTRIM", "BT1 5AB" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT1 5AB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59787000",
+                "Longitude" : "-005.93132700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31114649923386",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "66 GLENSHANE ROAD, DRUMAHOE BT47 3SF", "DRUMAHOE", "COUNTY LONDONDERRY", "BT47 3SF" ],
+            "TownName" : "DRUMAHOE",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT47 3SF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.97624000",
+                "Longitude" : "-007.26759100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31874619414606",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "46 GLINAHIRK ROAD, BELFAST BT9 7DG", "BELFAST", "COUNTY ANTRIM", "BT9 7DG" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT9 7DG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58292100",
+                "Longitude" : "-005.95065000"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31964625303064",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "GRANSHA ROAD, BANGOR BT20 4TN", "BANGOR", "COUNTY DOWN", "BT20 4TN" ],
+            "TownName" : "BANGOR",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT20 4TN",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.65302000",
+                "Longitude" : "-005.65424400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3147462150491",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "GREEN ROAD, BANGOR BT23 7PZ", "BANGOR", "COUNTY DOWN", "BT23 7PZ" ],
+            "TownName" : "BANGOR",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT23 7PZ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.63261800",
+                "Longitude" : "-005.66782100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31144680411227",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "GREYSTONE ROAD, ANTRIM BT41 1JW", "ANTRIM", "CO ANTRIM", "BT41 1JW" ],
+            "TownName" : "ANTRIM",
+            "CountrySubDivision" : [ "CO ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT41 1JW",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.71341300",
+                "Longitude" : "-006.18925900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31944615238829",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "22-26 HENRY STREET, BALLYMENA BT42 3AH", "BALLYMENA", "CO ANTRIM", "BT42 3AH" ],
+            "TownName" : "BALLYMENA",
+            "CountrySubDivision" : [ "CO ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT42 3AH",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.86114100",
+                "Longitude" : "-006.27765400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31124630515655",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "86 HILL STREET, NEWRY BT34 1BT", "NEWRY", "COUNTY DOWN", "BT34 1BT" ],
+            "TownName" : "NEWRY",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT34 1BT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.17647700",
+                "Longitude" : "-006.33839300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31944647072249",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "HILLCREST, PORTRUSH BT56 8HN", "PORTRUSH", "COUNTY ANTRIM", "BT56 8HN" ],
+            "TownName" : "PORTRUSH",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT56 8HN",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.19290900",
+                "Longitude" : "-006.65593800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31624650851495",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "75-81 HILLSBOROUGH ROAD, LISBURN BT28 1JN", "LISBURN", "COUNTY ANTRIM", "BT28 1JN" ],
+            "TownName" : "LISBURN",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT28 1JN",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.50365900",
+                "Longitude" : "-006.04726200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31204651153918",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "35 HOSPITAL ROAD, OMAGH BT79 0DN", "OMAGH", "COUNTY TYRONE", "BT79 0DN" ],
+            "TownName" : "OMAGH",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT79 0DN",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.60080700",
+                "Longitude" : "-007.27589200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31154660779790",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "KENNEDY WAY, BELFAST BT11 9DT", "BELFAST", "COUNTY ANTRIM", "BT11 9DT" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT11 9DT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.57885600",
+                "Longitude" : "-005.97560200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31214621882687",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "1-2 KINGS SQUARE, BELFAST BT5 7EA", "BELFAST", "COUNTY ANTRIM", "BT5 7EA" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT5 7EA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58917500",
+                "Longitude" : "-005.84512600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31434615056549",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "183 KINGSWAY, BELFAST BT17 9AH", "BELFAST", "COUNTY ANTRIM", "BT17 9AH" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT17 9AH",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.55148600",
+                "Longitude" : "-006.00477900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31544627321576",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "211 KNOCK ROAD, BELFAST BT5 6QE", "BELFAST", "COUNTY ANTRIM", "BT5 6QE" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT5 6QE",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58235300",
+                "Longitude" : "-005.86560300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31714678286583",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "97 KNOCKMORE ROAD, LISBURN BT28 2TA", "LISBURN", "COUNTY ANTRIM", "BT28 2TA" ],
+            "TownName" : "LISBURN",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT28 2TA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.51551200",
+                "Longitude" : "-006.11463400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31874669512923",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "LIGONIEL ROAD, BELFAST BT14 8DP", "BELFAST", "COUNTY ANTRIM", "BT14 8DP" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT14 8DP",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.62661400",
+                "Longitude" : "-005.98407900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31924659887916",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "16 LINN ROAD, LARNE BT40 2BT", "LARNE", "COUNTY ANTRIM", "BT40 2BT" ],
+            "TownName" : "LARNE",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT40 2BT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.85053200",
+                "Longitude" : "-005.83900800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31204649179732",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "LISBURN SQUARE, LISBURN BT28 1TS", "LISBURN", "COUNTY ANTRIM", "BT28 1TS" ],
+            "TownName" : "LISBURN",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT28 1TS",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.50994700",
+                "Longitude" : "-006.04695700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31914695066536",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "LONGWOOD ROAD, NEWTOWNABBEY BT37 9UH", "NEWTOWNABBEY", "COUNTY ANTRIM", "BT37 9UH" ],
+            "TownName" : "NEWTOWNABBEY",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT37 9UH",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.65513900",
+                "Longitude" : "-005.91758100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31514697075086",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "69 MAIN STREET, BALLYKELLY BT49 9HS", "BALLYKELLY", "CO DERRY", "BT49 9HS" ],
+            "TownName" : "BALLYKELLY",
+            "CountrySubDivision" : [ "CO DERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT49 9HS",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.04455100",
+                "Longitude" : "-007.01760200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31824669347755",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "1A MAIN STREET, BALLYNAHINCH BT24 8AP", "BALLYNAHINCH", "COUNTY DOWN", "BT24 8AP" ],
+            "TownName" : "BALLYNAHINCH",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT24 8AP",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.40319200",
+                "Longitude" : "-005.89648600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31634610897089",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "27 MAIN STREET, BELFAST BT29 4UR", "BELFAST", "COUNTY ANTRIM", "BT29 4UR" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT29 4UR",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.62038200",
+                "Longitude" : "-006.21661700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3198465753443",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "55 MAIN STREET, CLOGHER BT76 0AA", "CLOGHER", "COUNTY TYRONE", "BT76 0AA" ],
+            "TownName" : "CLOGHER",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT76 0AA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.41147900",
+                "Longitude" : "-007.17141400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31704641763644",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "8 MAIN STREET, EGLINTON BT47 3PQ", "EGLINTON", "COUNTY LONDONDERRY", "BT47 3PQ" ],
+            "TownName" : "EGLINTON",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT47 3PQ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.02688100",
+                "Longitude" : "-007.17909700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31714635011404",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "186 MAIN STREET, LISNASKEA BT92 0JF", "LISNASKEA", "COUNTY FERMANAGH", "BT92 0JF" ],
+            "TownName" : "LISNASKEA",
+            "CountrySubDivision" : [ "COUNTY FERMANAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT92 0JF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.25132900",
+                "Longitude" : "-007.44158100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31804670731569",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "13 MAIN STREET, MAGHERA BT46 5AA", "MAGHERA", "COUNTY LONDONDERRY", "BT46 5AA" ],
+            "TownName" : "MAGHERA",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT46 5AA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.84453100",
+                "Longitude" : "-006.67221500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31684673507110",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "15-23 MAIN STREET, MOIRA BT67 0LE", "MOIRA", "CO ARMAGH", "BT67 0LE" ],
+            "TownName" : "MOIRA",
+            "CountrySubDivision" : [ "CO ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT67 0LE",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.47953100",
+                "Longitude" : "-006.23046500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31124657352914",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "60 MAIN STREET, NEWCASTLE BT33 0AE", "NEWCASTLE", "COUNTY DOWN", "BT33 0AE" ],
+            "TownName" : "NEWCASTLE",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT33 0AE",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.21167900",
+                "Longitude" : "-005.88936700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31674666223233",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "8 MARKET SQUARE, ANTRIM BT41 4AT", "ANTRIM", "COUNTY ANTRIM", "BT41 4AT" ],
+            "TownName" : "ANTRIM",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT41 4AT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.71566600",
+                "Longitude" : "-006.22020800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31354680878606",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "MARKET SQUARE, DROMORE BT25 1AW", "DROMORE", "BELFAST", "BT25 1AW" ],
+            "TownName" : "DROMORE",
+            "CountrySubDivision" : [ "BELFAST" ],
+            "Country" : "UK",
+            "PostCode" : "BT25 1AW",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.41450900",
+                "Longitude" : "-006.14854200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31914691915596",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "39 MARKET SQUARE, DUNGANNON BT70 1JJ", "DUNGANNON", "COUNTY TYRONE", "BT70 1JJ" ],
+            "TownName" : "DUNGANNON",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT70 1JJ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.50418300",
+                "Longitude" : "-006.76972800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31334639906382",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "112 MARKET STREET, DOWNPATRICK BT30 6LZ", "DOWNPATRICK", "COUNTY DOWN", "BT30 6LZ" ],
+            "TownName" : "DOWNPATRICK",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT30 6LZ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.32625700",
+                "Longitude" : "-005.71746700"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3144690882627",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "2-8 MARKET STREET, DOWNPATRICK BT30 6BU", "DOWNPATRICK", "COUNTY DOWN", "BT30 6BU" ],
+            "TownName" : "DOWNPATRICK",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT30 6BU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.32802500",
+                "Longitude" : "-005.71584200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31384685669847",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "14-16 MARKET STREET, LURGAN BT66 6AP", "LURGAN", "COUNTY ARMAGH", "BT66 6AP" ],
+            "TownName" : "LURGAN",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT66 6AP",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.46301200",
+                "Longitude" : "-006.33297100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3154654804954",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "UNIT 6 MELMOUNT ROAD, STRABANE BT82 9ED", "STRABANE", "COUNTY TYRONE", "BT82 9ED" ],
+            "TownName" : "STRABANE",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT82 9ED",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.81922000",
+                "Longitude" : "-007.47421000"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3155467317115",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "5-15 MILL STREET, CRUMLIN BT29 4XL", "CRUMLIN", "CO ANTRIM", "BT29 4XL" ],
+            "TownName" : "CRUMLIN",
+            "CountrySubDivision" : [ "CO ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT29 4XL",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.62125600",
+                "Longitude" : "-006.21503300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31214626151852",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "2 MONAGHAN ROAD, ARMAGH BT60 4DA", "ARMAGH", "COUNTY ARMAGH", "BT60 4DA" ],
+            "TownName" : "ARMAGH",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT60 4DA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.33865500",
+                "Longitude" : "-006.66397100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3111468694052",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "71-79 NEWTOWNARDS ROAD, BANGOR BT20 4DW", "BANGOR", "COUNTY DOWN", "BT20 4DW" ],
+            "TownName" : "BANGOR",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT20 4DW",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.65071500",
+                "Longitude" : "-005.67452400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3181461852",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "122 NORTHLAND ROAD, DERRY BT48 0LX", "DERRY", "COUNTY DERRY", "BT48 0LX" ],
+            "TownName" : "DERRY",
+            "CountrySubDivision" : [ "COUNTY DERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT48 0LX",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.01889100",
+                "Longitude" : "-007.34184800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31334694277285",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "127 OLD GLENARM ROAD, LARNE BT40 1NQ", "LARNE", "COUNTY ANTRIM", "BT40 1NQ" ],
+            "TownName" : "LARNE",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT40 1NQ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.85639600",
+                "Longitude" : "-005.81532600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31164693849457",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "14 HIGH STREET, OMAGH BT78 1BJ", "OMAGH", "COUNTY TYRONE", "BT78 1BJ" ],
+            "TownName" : "OMAGH",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT78 1BJ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.60007300",
+                "Longitude" : "-007.30374500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31984629529860",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "152-154 ORMEAU ROAD, BELFAST BT7 2EB", "BELFAST", "COUNTY ANTRIM", "BT7 2EB" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT7 2EB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58514500",
+                "Longitude" : "-005.92269800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31444699371860",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "365-369 ORMEAU ROAD, BELFAST BT7 3GP", "BELFAST", "COUNTY ANTRIM", "BT7 3GP" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT7 3GP",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.57788100",
+                "Longitude" : "-005.91842300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3113465879523",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "20 HIGH STREET, PORTADOWN BT62 1HU", "PORTADOWN", "COUNTY ARMAGH", "BT62 1HU" ],
+            "TownName" : "PORTADOWN",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT62 1HU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.42312900",
+                "Longitude" : "-006.44090800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31594639021958",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "2 QUEENS QUAY, BELFAST BT3 9QQ", "BELFAST", "COUNTY ANTRIM", "BT3 9QQ" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT3 9QQ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.60388600",
+                "Longitude" : "-005.91554800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31284641978133",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "163 QUEENSWAY, LISBURN BT27 4QS", "LISBURN", "COUNTY ANTRIM", "BT27 4QS" ],
+            "TownName" : "LISBURN",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT27 4QS",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.52944600",
+                "Longitude" : "-006.03057800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31884657709617",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "6 RAMOAN ROAD, BALLYCASTLE BT54 6EG", "BALLYCASTLE", "CO ANTRIM", "BT54 6EG" ],
+            "TownName" : "BALLYCASTLE",
+            "CountrySubDivision" : [ "CO ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT54 6EG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.20047700",
+                "Longitude" : "-006.25988900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "315464756143",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "RATHFRILAND ROAD, DROMARA BT25 2JG", "DROMARA", "COUNTY DOWN", "BT25 2JG" ],
+            "TownName" : "DROMARA",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT25 2JG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.37826000",
+                "Longitude" : "-006.01626900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3152468115496",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "RATHMORE ROAD, BANGOR BT19 1DF", "BANGOR", "COUNTY DOWN", "BT19 1DF" ],
+            "TownName" : "BANGOR",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT19 1DF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.65935600",
+                "Longitude" : "-005.70347500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31754676763637",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "31 ROYAL AVENUE, BELFAST BT1 1FB", "BELFAST", "COUNTY ANTRIM", "BT1 1FB" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT1 1FB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59964000",
+                "Longitude" : "-005.92970100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31844629977391",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "SECOND FLOOR, LONDONDERRY BT48 6XY", "LONDONDERRY", "COUNTY LONDONDERRY", "BT48 6XY" ],
+            "TownName" : "LONDONDERRY",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT48 6XY",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.99450600",
+                "Longitude" : "-007.31881300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31494679568497",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "SEDAN AVENUE, OMAGH BT79 7AQ", "OMAGH", "COUNTY TYRONE", "BT79 7AQ" ],
+            "TownName" : "OMAGH",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT79 7AQ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.60276500",
+                "Longitude" : "-007.30370800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31574624251056",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "185-189 SHANKILL ROAD, BELFAST BT13 1FH", "BELFAST", "COUNTY ANTRIM", "BT13 1FH" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT13 1FH",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.60444800",
+                "Longitude" : "-005.94802800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31934667629558",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "SHORE ROAD, NEWTOWNABBEY BT37 0QB", "NEWTOWNABBEY", "COUNTY ANTRIM", "BT37 0QB" ],
+            "TownName" : "NEWTOWNABBEY",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT37 0QB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.68509900",
+                "Longitude" : "-005.88347800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31104621604013",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "UNIT 12A SOUTH CIRCULAR ROAD, BANGOR BT19 7HB", "BANGOR", "COUNTY DOWN", "BT19 7HB" ],
+            "TownName" : "BANGOR",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT19 7HB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.64766700",
+                "Longitude" : "-005.65610500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31714647447088",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "UNIT 28 SPRINGHILL SHOPPING CENTRE, BANGOR BT19 1ND", "BANGOR", "COUNTY DOWN", "BT19 1ND" ],
+            "TownName" : "BANGOR",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT19 1ND",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.65567800",
+                "Longitude" : "-005.69904500"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31634650755140",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "139 STRAND ROAD, DERRY BT48 7PB", "DERRY", "CO DERRY", "BT48 7PB" ],
+            "TownName" : "DERRY",
+            "CountrySubDivision" : [ "CO DERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT48 7PB",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.00978000",
+                "Longitude" : "-007.31855300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31634636252789",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "78 STRANMILLIS ROAD, BELFAST BT9 5AD", "BELFAST", "COUNTY ANTRIM", "BT9 5AD" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT9 5AD",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.57904500",
+                "Longitude" : "-005.93383200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31894681025557",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "UNIT A THE CARRIAGES, BELFAST BT7 1JQ", "BELFAST", "COUNTY ANTRIM", "BT7 1JQ" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT7 1JQ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58891800",
+                "Longitude" : "-005.93332900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3124675076318",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "30 THE DIAMOND, COLERAINE BT52 1DP", "COLERAINE", "COUNTY LONDONDERRY", "BT52 1DP" ],
+            "TownName" : "COLERAINE",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT52 1DP",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "055.13199500",
+                "Longitude" : "-006.67210200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31274651536889",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "18-20 THE DIAMOND, NEWTOWNABBEY BT37 9BJ", "NEWTOWNABBEY", "COUNTY ANTRIM", "BT37 9BJ" ],
+            "TownName" : "NEWTOWNABBEY",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT37 9BJ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.66324200",
+                "Longitude" : "-005.91870300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3155468570823",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "6-8 THE SQUARE, COMBER BT23 5DT", "COMBER", "COUNTY DOWN", "BT23 5DT" ],
+            "TownName" : "COMBER",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT23 5DT",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.55051300",
+                "Longitude" : "-005.74516000"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31474675659477",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "UNIT 17 THOMAS STREET, BALLYMENA BT43 6UF", "BALLYMENA", "COUNTY ANTRIM", "BT43 6UF" ],
+            "TownName" : "BALLYMENA",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT43 6UF",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.86919600",
+                "Longitude" : "-006.27574800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31894629977391",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "TOP FLOOR, LONDONDERRY BT48 6XY", "LONDONDERRY", "COUNTY LONDONDERRY", "BT48 6XY" ],
+            "TownName" : "LONDONDERRY",
+            "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT48 6XY",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.99450600",
+                "Longitude" : "-007.31881300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31204631713509",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "128-130 TULLY ROAD, BELFAST BT29 4SW", "BELFAST", "COUNTY ANTRIM", "BT29 4SW" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT29 4SW",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.64931900",
+                "Longitude" : "-006.16887900"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31564639126034",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "TULLYGARLEY ROAD, BALLYMENA BT42 2SG", "BALLYMENA", "COUNTY ANTRIM", "BT42 2SG" ],
+            "TownName" : "BALLYMENA",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT42 2SG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.84794000",
+                "Longitude" : "-006.29689400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31214659838591",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "91-93 UNIVERSITY ROAD, BELFAST BT7 1NG", "BELFAST", "COUNTY ANTRIM", "BT7 1NG" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT7 1NG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58358300",
+                "Longitude" : "-005.93670100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31324628606543",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "9 UPPER CROSS STREET, LARNE BT40 1SZ", "LARNE", "COUNTY ANTRIM", "BT40 1SZ" ],
+            "TownName" : "LARNE",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT40 1SZ",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.85201900",
+                "Longitude" : "-005.82180100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31264633117810",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "7 UPPER ENGLISH STREET, ARMAGH BT61 7BL", "ARMAGH", "COUNTY ARMAGH", "BT61 7BL" ],
+            "TownName" : "ARMAGH",
+            "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+            "Country" : "UK",
+            "PostCode" : "BT61 7BL",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.34841300",
+                "Longitude" : "-006.65289600"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31974657826204",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "719 UPPER NEWTOWNARDS ROAD, BELFAST BT4 3NU", "BELFAST", "CO ANTRIM", "BT4 3NU" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "CO ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT4 3NU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59417900",
+                "Longitude" : "-005.82320300"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3151461142945",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "276 UPPER NEWTOWNARDS ROAD, BELFAST BT4 3EU", "BELFAST", "COUNTY ANTRIM", "BT4 3EU" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT4 3EU",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59595100",
+                "Longitude" : "-005.87262400"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31764613742533",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "756 UPPER NEWTOWNARDS ROAD, BELFAST BT16 1LA", "BELFAST", "COUNTY ANTRIM", "BT16 1LA" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT16 1LA",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59468300",
+                "Longitude" : "-005.80152000"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31964644999252",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "29 UPPER SQUARE, CASTLEWELLAN BT31 9DD", "CASTLEWELLAN", "COUNTY DOWN", "BT31 9DD" ],
+            "TownName" : "CASTLEWELLAN",
+            "CountrySubDivision" : [ "COUNTY DOWN" ],
+            "Country" : "UK",
+            "PostCode" : "BT31 9DD",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.25749700",
+                "Longitude" : "-005.94073800"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31654677507618",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "138 VICTORIA ROAD, MAGHERAMASON BT47 2RR", "MAGHERAMASON", "CO DERRY", "BT47 2RR" ],
+            "TownName" : "MAGHERAMASON",
+            "CountrySubDivision" : [ "CO DERRY" ],
+            "Country" : "UK",
+            "PostCode" : "BT47 2RR",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.94184500",
+                "Longitude" : "-007.38211100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31794677754104",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "1 VICTORIA SQUARE, BELFAST BT1 4QG", "BELFAST", "COUNTY ANTRIM", "BT1 4QG" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT1 4QG",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.59776400",
+                "Longitude" : "-005.92515200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31454641972951",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "49 WELLINGTON STREET, BALLYMENA BT43 6AD", "BALLYMENA", "COUNTY ANTRIM", "BT43 6AD" ],
+            "TownName" : "BALLYMENA",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT43 6AD",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.86558400",
+                "Longitude" : "-006.27435200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31714643709948",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "20-24 WILLIAM STREET, COOKSTOWN BT80 8ND", "COOKSTOWN", "COUNTY TYRONE", "BT80 8ND" ],
+            "TownName" : "COOKSTOWN",
+            "CountrySubDivision" : [ "COUNTY TYRONE" ],
+            "Country" : "UK",
+            "PostCode" : "BT80 8ND",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.64767200",
+                "Longitude" : "-006.74525200"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "31994661822532",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "WOODSTOCK ROAD, BELFAST BT6 9DR", "BELFAST", "COUNTY ANTRIM", "BT6 9DR" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT6 9DR",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.58564500",
+                "Longitude" : "-005.89947100"
+              }
+            }
+          }
+        }
+      }, {
+        "Identification" : "3114641363374",
+        "SupportedLanguages" : [ ],
+        "ATMServices" : [ ],
+        "Accessibility" : [ ],
+        "SupportedCurrencies" : [ "GBP" ],
+        "Note" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherATMServices" : [ ],
+        "Location" : {
+          "LocationCategory" : [ ],
+          "OtherLocationCategory" : [ ],
+          "PostalAddress" : {
+            "AddressLine" : [ "202-206 YORK STREET, BELFAST BT15 1HY", "BELFAST", "COUNTY ANTRIM", "BT15 1HY" ],
+            "TownName" : "BELFAST",
+            "CountrySubDivision" : [ "COUNTY ANTRIM" ],
+            "Country" : "UK",
+            "PostCode" : "BT15 1HY",
+            "GeoLocation" : {
+              "GeographicCoordinates" : {
+                "Latitude" : "054.61123300",
+                "Longitude" : "-005.92446600"
+              }
+            }
+          }
+        }
+      } ]
+    } ]
+  } ]
+}

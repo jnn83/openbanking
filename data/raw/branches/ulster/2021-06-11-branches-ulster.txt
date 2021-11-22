@@ -1,0 +1,3214 @@
+{
+  "meta" : {
+    "LastUpdated" : "2021-06-11T17:35:00.410Z",
+    "TotalResults" : 57,
+    "Agreement" : "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License" : "https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse" : "https://www.openbanking.org.uk/terms"
+  },
+  "data" : [ {
+    "Brand" : [ {
+      "BrandName" : "Ulster Bank North",
+      "Branch" : [ {
+        "Identification" : "32935055333576",
+        "SequenceNumber" : "0",
+        "Name" : "UB ANDERSONSTOWN",
+        "Type" : "Physical",
+        "SortCode" : [ "980015" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3453003307"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Unit G, Westwood Centre, Kennedy Way, Belfast, County Antrim, BT11 9BQ", "ANDERSONSTOWN", "Northern Ireland", "BT11 9BQ" ],
+          "TownName" : "ANDERSONSTOWN",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT11 9BQ",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.57708400",
+              "Longitude" : "-005.97724100"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32677066223233",
+        "SequenceNumber" : "0",
+        "Name" : "UB ANTRIM",
+        "Type" : "Physical",
+        "SortCode" : [ "980180" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "8 Market Square, Antrim, County Antrim, BT41 4AT", "ANTRIM", "Northern Ireland", "BT41 4AT" ],
+          "TownName" : "ANTRIM",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT41 4AT",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.71566600",
+              "Longitude" : "-006.22020800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32267833117810",
+        "SequenceNumber" : "0",
+        "Name" : "UB ARMAGH",
+        "Type" : "Physical",
+        "SortCode" : [ "980190" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "7 Upper English Street, Armagh, County Armagh, BT61 7BL", "ARMAGH", "Northern Ireland", "BT61 7BL" ],
+          "TownName" : "ARMAGH",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT61 7BL",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.34841300",
+              "Longitude" : "-006.65289600"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32729020251884",
+        "SequenceNumber" : "0",
+        "Name" : "UB BALLYCASTLE",
+        "Type" : "Physical",
+        "SortCode" : [ "980270" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "20 Ann Street, Ballycastle, County Antrim, BT54 6AD", "BALLYCASTLE", "Northern Ireland", "BT54 6AD" ],
+          "TownName" : "BALLYCASTLE",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT54 6AD",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "055.20211400",
+              "Longitude" : "-006.24882000"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32451841972951",
+        "SequenceNumber" : "0",
+        "Name" : "UB BALLYMENA",
+        "Type" : "Physical",
+        "SortCode" : [ "980290" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "49 Wellington Street, Ballymena, County Antrim, BT43 6AD", "BALLYMENA", "Northern Ireland", "BT43 6AD" ],
+          "TownName" : "BALLYMENA",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT43 6AD",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.86558400",
+              "Longitude" : "-006.27435200"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3212148655479",
+        "SequenceNumber" : "0",
+        "Name" : "UB BALLYMONEY",
+        "Type" : "Physical",
+        "SortCode" : [ "980310" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "11 Church Street, Ballymoney, County Antrim, BT53 6HS", "BALLYMONEY", "Northern Ireland", "BT53 6HS" ],
+          "TownName" : "BALLYMONEY",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT53 6HS",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "055.07090800",
+              "Longitude" : "-006.51601400"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3297169347755",
+        "SequenceNumber" : "0",
+        "Name" : "UB BALLYNAHINCH",
+        "Type" : "Physical",
+        "SortCode" : [ "980320" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "14 Main Street, Ballynahinch, County Down, BT24 8AP", "BALLYNAHINCH", "Northern Ireland", "BT24 8AP" ],
+          "TownName" : "BALLYNAHINCH",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT24 8AP",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.40319200",
+              "Longitude" : "-005.89648600"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3250583731362",
+        "SequenceNumber" : "0",
+        "Name" : "UB BANBRIDGE",
+        "Type" : "Physical",
+        "SortCode" : [ "980330" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "22 Bridge Street, Banbridge, County Down, BT32 3JT", "BANBRIDGE", "Northern Ireland", "BT32 3JT" ],
+          "TownName" : "BANBRIDGE",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT32 3JT",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.34981500",
+              "Longitude" : "-006.26989300"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32503679826701",
+        "SequenceNumber" : "0",
+        "Name" : "UB BELFAST CITY OFFICE",
+        "Type" : "Physical",
+        "SortCode" : [ "980060" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "SaturdayCounterService", "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Saturday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "13:00"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "11-16 Donegall Square East, Belfast, County Antrim, BT1 5HD", "BELFAST", "Northern Ireland", "BT1 5HD" ],
+          "TownName" : "BELFAST",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT1 5HD",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.59691600",
+              "Longitude" : "-005.92829200"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3294387233928",
+        "SequenceNumber" : "0",
+        "Name" : "UB CARRICKFERGUS",
+        "Type" : "Physical",
+        "SortCode" : [ "980400" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "37 High Street, Carrickfergus, County Antrim, BT38 7AN", "CARRICKFERGUS", "Northern Ireland", "BT38 7AN" ],
+          "TownName" : "CARRICKFERGUS",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT38 7AN",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.71516600",
+              "Longitude" : "-005.80585600"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32969944999252",
+        "SequenceNumber" : "0",
+        "Name" : "UB CASTLEWELLAN",
+        "Type" : "Physical",
+        "SortCode" : [ "980420" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "29 Upper Square, Castlewellan, County Down, BT31 9DB", "CASTLEWELLAN", "Northern Ireland", "BT31 9DB" ],
+          "TownName" : "CASTLEWELLAN",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT31 9DB",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.25749700",
+              "Longitude" : "-005.94073800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3298655753443",
+        "SequenceNumber" : "0",
+        "Name" : "UB CLOGHER",
+        "Type" : "Physical",
+        "SortCode" : [ "980430" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "55 Main Street, Clogher, County Tyrone, BT76 0AA", "CLOGHER", "Northern Ireland", "BT76 0AA" ],
+          "TownName" : "CLOGHER",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT76 0AA",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.41147900",
+              "Longitude" : "-007.17141400"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3224875076318",
+        "SequenceNumber" : "0",
+        "Name" : "UB COLERAINE",
+        "Type" : "Physical",
+        "SortCode" : [ "980440" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "30 The Diamond, Coleraine, County Londonderry, BT52 1DP", "COLERAINE", "Northern Ireland", "BT52 1DP" ],
+          "TownName" : "COLERAINE",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT52 1DP",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "055.13199500",
+              "Longitude" : "-006.67210200"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3255648570823",
+        "SequenceNumber" : "0",
+        "Name" : "UB COMBER",
+        "Type" : "Physical",
+        "SortCode" : [ "980445" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "6-8 The Square, Comber, County Down, BT23 5DT", "NEWTOWNARDS", "Northern Ireland", "BT23 5DT" ],
+          "TownName" : "NEWTOWNARDS",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT23 5DT",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.55051300",
+              "Longitude" : "-005.74516000"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32194441899290",
+        "SequenceNumber" : "0",
+        "Name" : "UB CONNSWATER",
+        "Type" : "Physical",
+        "SortCode" : [ "980030" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3453003307"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Arches Retail Park, Connswater, County Down, BT5 4AF", "BELFAST", "Northern Ireland", "BT5 4AF" ],
+          "TownName" : "BELFAST",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT5 4AF",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.59720500",
+              "Longitude" : "-005.89267800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32228443709948",
+        "SequenceNumber" : "0",
+        "Name" : "UB COOKSTOWN",
+        "Type" : "Physical",
+        "SortCode" : [ "980450" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "20 William Street, Cookstown, County Tyrone, BT80 8ND", "COOKSTOWN", "Northern Ireland", "BT80 8ND" ],
+          "TownName" : "COOKSTOWN",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT80 8ND",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.64767200",
+              "Longitude" : "-006.74525200"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32635410897089",
+        "SequenceNumber" : "0",
+        "Name" : "UB CRUMLIN",
+        "Type" : "Physical",
+        "SortCode" : [ "980460" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "27 Main Street, Crumlin, County Antrim, BT29 4UR", "CRUMLIN", "Northern Ireland", "BT29 4UR" ],
+          "TownName" : "CRUMLIN",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT29 4UR",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.62038200",
+              "Longitude" : "-006.21661700"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32192288519083",
+        "SequenceNumber" : "0",
+        "Name" : "UB CULMORE ROAD",
+        "Type" : "Physical",
+        "SortCode" : [ "980980" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Phase 6, Da Vinci Complex, 2 Bay Road, Londonderry, County Londonderry", "LONDONDERRY", "Northern Ireland", "BT48 8JB" ],
+          "TownName" : "LONDONDERRY",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT48 8JB",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "055.02139200",
+              "Longitude" : "-007.30740700"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3245290882627",
+        "SequenceNumber" : "0",
+        "Name" : "UB DOWNPATRICK",
+        "Type" : "Physical",
+        "SortCode" : [ "980540" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "2-8 Market Street, Downpatrick, County Down, BT30 6BU", "DOWNPATRICK", "Northern Ireland", "BT30 6BU" ],
+          "TownName" : "DOWNPATRICK",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT30 6BU",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.32802500",
+              "Longitude" : "-005.71584200"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32918891915596",
+        "SequenceNumber" : "0",
+        "Name" : "UB DUNGANNON",
+        "Type" : "Physical",
+        "SortCode" : [ "980580" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "39 Market Square, Dungannon, County Tyrone, BT70 1JJ", "DUNGANNON", "Northern Ireland", "BT70 1JJ" ],
+          "TownName" : "DUNGANNON",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT70 1JJ",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.50418300",
+              "Longitude" : "-006.76972800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32433615056549",
+        "SequenceNumber" : "0",
+        "Name" : "UB DUNMURRY",
+        "Type" : "Physical",
+        "SortCode" : [ "980590" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "183 Kingsway, Dunmurry, County Antrim, BT17 9AH", "DUNMURRY", "Northern Ireland", "BT17 9AH" ],
+          "TownName" : "DUNMURRY",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT17 9AH",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.55148600",
+              "Longitude" : "-006.00477900"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32559156994739",
+        "SequenceNumber" : "0",
+        "Name" : "UB ENNISKILLEN",
+        "Type" : "Physical",
+        "SortCode" : [ "980650" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "16 Darling Street, Enniskillen, County Fermanagh, BT74 7ER", "ENNISKILLEN", "Northern Ireland", "BT74 7ER" ],
+          "TownName" : "ENNISKILLEN",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT74 7ER",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.34641700",
+              "Longitude" : "-007.64325900"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3264483893515",
+        "SequenceNumber" : "0",
+        "Name" : "UB GLENGORMLEY",
+        "Type" : "Physical",
+        "SortCode" : [ "981145" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3453003091"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "2 Farmley Road, Newtownabbey, County Antrim, BT36 7QU", "NEWTOWNABBEY", "Northern Ireland", "BT36 7QU" ],
+          "TownName" : "NEWTOWNABBEY",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT36 7QU",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.67021500",
+              "Longitude" : "-005.95866600"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3247152312383",
+        "SequenceNumber" : "0",
+        "Name" : "UB HOLYWOOD",
+        "Type" : "Physical",
+        "SortCode" : [ "980760" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "9-11 Church Road, Holywood, County Down, BT18 9BU", "HOLYWOOD", "Northern Ireland", "BT18 9BU" ],
+          "TownName" : "HOLYWOOD",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT18 9BU",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.64107300",
+              "Longitude" : "-005.83309700"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32214621882687",
+        "SequenceNumber" : "0",
+        "Name" : "UB KING'S ROAD",
+        "Type" : "Physical",
+        "SortCode" : [ "980125" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "1-2 Kings Square, Belfast, County Down, BT5 7EA", "GILNAHIRK", "Northern Ireland", "BT5 7EA" ],
+          "TownName" : "GILNAHIRK",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT5 7EA",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.58917500",
+              "Longitude" : "-005.84512600"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32323028606543",
+        "SequenceNumber" : "0",
+        "Name" : "UB LARNE",
+        "Type" : "Physical",
+        "SortCode" : [ "980940" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "9 Upper Cross Street, Larne, County Antrim, BT40 1SZ", "LARNE", "Northern Ireland", "BT40 1SZ" ],
+          "TownName" : "LARNE",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT40 1SZ",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.85201900",
+              "Longitude" : "-005.82180100"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32275819091437",
+        "SequenceNumber" : "0",
+        "Name" : "UB LIMAVADY",
+        "Type" : "Physical",
+        "SortCode" : [ "980950" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "30-32 Catherine Street, Limavady, County Londonderry, BT49 9BD", "BALLYKELLY", "Northern Ireland", "BT49 9BD" ],
+          "TownName" : "BALLYKELLY",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT49 9BD",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "055.04669200",
+              "Longitude" : "-006.95184800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32465731406344",
+        "SequenceNumber" : "0",
+        "Name" : "UB LISBURN",
+        "Type" : "Physical",
+        "SortCode" : [ "980960" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "18 Bow Street, Lisburn, County Antrim, BT28 1BN", "LISBURN", "Northern Ireland", "BT28 1BN" ],
+          "TownName" : "LISBURN",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT28 1BN",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.51174000",
+              "Longitude" : "-006.04687200"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32716735011404",
+        "SequenceNumber" : "0",
+        "Name" : "UB LISNASKEA",
+        "Type" : "Physical",
+        "SortCode" : [ "980970" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "186 Main Street, Lisnaskea, County Fermanagh, BT92 0JF", "LISNASKEA", "Northern Ireland", "BT92 0JF" ],
+          "TownName" : "LISNASKEA",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT92 0JF",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.25132900",
+              "Longitude" : "-007.44158100"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32389685669847",
+        "SequenceNumber" : "0",
+        "Name" : "UB LURGAN",
+        "Type" : "Physical",
+        "SortCode" : [ "980990" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "14-16 Market Street, Lurgan, County Armagh, BT66 6AQ", "CRAIGAVON", "Northern Ireland", "BT66 6AQ" ],
+          "TownName" : "CRAIGAVON",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT66 6AQ",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.46301200",
+              "Longitude" : "-006.33297100"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32801770731569",
+        "SequenceNumber" : "0",
+        "Name" : "UB MAGHERA",
+        "Type" : "Physical",
+        "SortCode" : [ "981060" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "13 Main Street, Maghera, County Londonderry, BT46 5AA", "MAGHERA", "Northern Ireland", "BT46 5AA" ],
+          "TownName" : "MAGHERA",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT46 5AA",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.84453100",
+              "Longitude" : "-006.67221500"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3239823902264",
+        "SequenceNumber" : "0",
+        "Name" : "UB MAGHERAFELT",
+        "Type" : "Physical",
+        "SortCode" : [ "981070" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "20 Broad Street, Magherafelt, County Londonderry, BT45 6EB", "MAGHERAFELT", "Northern Ireland", "BT45 6EB" ],
+          "TownName" : "MAGHERAFELT",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT45 6EB",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.75575900",
+              "Longitude" : "-006.60677400"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32123030515655",
+        "SequenceNumber" : "0",
+        "Name" : "UB NEWRY",
+        "Type" : "Physical",
+        "SortCode" : [ "981140" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "86 Hill Street, Newry, County Down, BT34 1BT", "NEWRY", "Northern Ireland", "BT34 1BT" ],
+          "TownName" : "NEWRY",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT34 1BT",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.17647700",
+              "Longitude" : "-006.33839300"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32958294175602",
+        "SequenceNumber" : "0",
+        "Name" : "UB NEWTOWNARDS",
+        "Type" : "Physical",
+        "SortCode" : [ "981150" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3453003307"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "22 Frances Street, Newtownards, County Down, BT23 7DP", "NEWTOWNARDS", "Northern Ireland", "BT23 7DP" ],
+          "TownName" : "NEWTOWNARDS",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT23 7DP",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.60316900",
+              "Longitude" : "-005.68103200"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3216893849457",
+        "SequenceNumber" : "0",
+        "Name" : "UB OMAGH",
+        "Type" : "Physical",
+        "SortCode" : [ "981230" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "14 High Street, Omagh, County Tyrone, BT78 1BJ", "OMAGH", "Northern Ireland", "BT78 1BJ" ],
+          "TownName" : "OMAGH",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT78 1BJ",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.60007300",
+              "Longitude" : "-007.30374500"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3262199371860",
+        "SequenceNumber" : "0",
+        "Name" : "UB ORMEAU ROAD",
+        "Type" : "Physical",
+        "SortCode" : [ "980083" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "356-369 Ormeau Road, Belfast, County Down, BT7 3GP", "BELFAST", "Northern Ireland", "BT7 3GP" ],
+          "TownName" : "BELFAST",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT7 3GP",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.57788100",
+              "Longitude" : "-005.91842300"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3213285879523",
+        "SequenceNumber" : "0",
+        "Name" : "UB PORTADOWN",
+        "Type" : "Physical",
+        "SortCode" : [ "981290" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "20 High Street, Portadown, County Armagh, BT62 1HU", "CRAIGAVON", "Northern Ireland", "BT62 1HU" ],
+          "TownName" : "CRAIGAVON",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT62 1HU",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.42312900",
+              "Longitude" : "-006.44090800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32811924251056",
+        "SequenceNumber" : "0",
+        "Name" : "UB SHANKILL ROAD",
+        "Type" : "Physical",
+        "SortCode" : [ "980110" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "185-189 Shankhill Road, Belfast, County Antrim, BT13 1FH", "BELFAST", "Northern Ireland", "BT13 1FH" ],
+          "TownName" : "BELFAST",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT13 1FH",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.60444800",
+              "Longitude" : "-005.94802800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32998947447088",
+        "SequenceNumber" : "0",
+        "Name" : "UB SPRINGHILL BANGOR",
+        "Type" : "Physical",
+        "SortCode" : [ "980360" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Unit 13 Springhill Shopping Centre, Bangor, County Down, BT19 1ND", "BANGOR", "Northern Ireland", "BT19 1ND" ],
+          "TownName" : "BANGOR",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT19 1ND",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.65567800",
+              "Longitude" : "-005.69904500"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3214319644258",
+        "SequenceNumber" : "0",
+        "Name" : "UB STRABANE",
+        "Type" : "Physical",
+        "SortCode" : [ "981440" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "29 Abercorn Square, Strabance, County Tyrone, BT82 8AL", "STRABANE", "Northern Ireland", "BT82 8AL" ],
+          "TownName" : "STRABANE",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT82 8AL",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.81444400",
+              "Longitude" : "-007.40265300"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3221759838591",
+        "SequenceNumber" : "0",
+        "Name" : "UB UNIVERSITY ROAD",
+        "Type" : "Physical",
+        "SortCode" : [ "980155" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "91-93 University Road, Belfast, County Antrim, BT7 1NG", "BELFAST", "Northern Ireland", "BT7 1NG" ],
+          "TownName" : "BELFAST",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT7 1NG",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.58358300",
+              "Longitude" : "-005.93670100"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32894891218563",
+        "SequenceNumber" : "0",
+        "Name" : "UB WARRENPOINT",
+        "Type" : "Physical",
+        "SortCode" : [ "981490" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "2 Charlotte Street, Warrenpoint, County Down, BT34 3LF", "WARRENPOINT", "Northern Ireland", "BT34 3LF" ],
+          "TownName" : "WARRENPOINT",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT34 3LF",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.10253000",
+              "Longitude" : "-006.25573100"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32661221708557",
+        "SequenceNumber" : "0",
+        "Name" : "UB WATERSIDE",
+        "Type" : "Physical",
+        "SortCode" : [ "980985" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3459482222"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "29 Clooney Terrace, Waterside, County Londonderry, BT47 1AS", "LONDONDERRY", "Northern Ireland", "BT47 1AS" ],
+          "TownName" : "LONDONDERRY",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT47 1AS",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.99478100",
+              "Longitude" : "-007.31047400"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3214041363374",
+        "SequenceNumber" : "0",
+        "Name" : "UB YORK STREET",
+        "Type" : "Physical",
+        "SortCode" : [ "980120" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ "OnDemandCurrency" ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "Availability" : {
+          "StandardAvailability" : {
+            "Day" : [ {
+              "Name" : "Monday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Tuesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Wednesday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "10:00",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Thursday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            }, {
+              "Name" : "Friday",
+              "OpeningHours" : [ {
+                "OpeningTime" : "09:30",
+                "ClosingTime" : "16:30"
+              } ]
+            } ]
+          }
+        },
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457424365"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "202-206 York Street, Belfast, County Antrim, BT15 1HY", "BELFAST", "Northern Ireland", "BT15 1HY" ],
+          "TownName" : "BELFAST",
+          "CountrySubDivision" : [ "Northern Ireland" ],
+          "Country" : "UK",
+          "PostCode" : "BT15 1HY",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.61123300",
+              "Longitude" : "-005.92446600"
+            }
+          }
+        }
+      }, {
+        "Identification" : "3225461339558",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Aughnacloy Mobile Branc",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "West of Moore Street, Aughnacloy BT69 6AL", "Aughnacloy", "COUNTY DOWN", "BT69 6AL" ],
+          "TownName" : "Aughnacloy",
+          "CountrySubDivision" : [ "COUNTY DOWN" ],
+          "Country" : "UK",
+          "PostCode" : "BT69 6AL",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.41265500",
+              "Longitude" : "-006.97269700"
+            }
+          }
+        }
+      }, {
+        "Identification" : "326465823094",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Carryduff Mobile Branch",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "8 South Restaurant Car Park, 16-20 Ballynahinch Road, Carryduff BT8 8D", "Carryduff", "COUNTY DOWN", "BT8 8DL" ],
+          "TownName" : "Carryduff",
+          "CountrySubDivision" : [ "COUNTY DOWN" ],
+          "Country" : "UK",
+          "PostCode" : "BT8 8DL",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.51181200",
+              "Longitude" : "-005.89089500"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32984658239808",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Castlederg (service pau",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Car Park, Dergvalley, Shopping Centre, Castlederg (service paused) BT8", "Castlederg (service paused)", "COUNTY TYRONE", "BT81 7AU" ],
+          "TownName" : "Castlederg (service paused)",
+          "CountrySubDivision" : [ "COUNTY TYRONE" ],
+          "Country" : "UK",
+          "PostCode" : "BT81 7AU",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.70738700",
+              "Longitude" : "-007.59356400"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32874668761135",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Donaghadee Mobile Branc",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Children's Playpark, The Parade, Donaghadee BT21 0HE", "Donaghadee", "COUNTY DOWN", "BT21 0HE" ],
+          "TownName" : "Donaghadee",
+          "CountrySubDivision" : [ "COUNTY DOWN" ],
+          "Country" : "UK",
+          "PostCode" : "BT21 0HE",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.64254500",
+              "Longitude" : "-005.53400700"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32854664209149",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Dungiven Mobile Branch ",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Public Car Park, Main Street, Dungiven BT47 4LE", "Dungiven", "COUNTY LONDONDERRY", "BT47 4LE" ],
+          "TownName" : "Dungiven",
+          "CountrySubDivision" : [ "COUNTY LONDONDERRY" ],
+          "Country" : "UK",
+          "PostCode" : "BT47 4LE",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.92699400",
+              "Longitude" : "-006.92531800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32314685493238",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Gortin Mobile Branch (e",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "2-4 Main Street, Gortin BT79 8PH", "Gortin", "COUNTY TYRONE", "BT79 8PH" ],
+          "TownName" : "Gortin",
+          "CountrySubDivision" : [ "COUNTY TYRONE" ],
+          "Country" : "UK",
+          "PostCode" : "BT79 8PH",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.71823700",
+              "Longitude" : "-007.23500500"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32984651314001",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Irvinestown Mobile Bran",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Car Park, Mahons Hotel, 12 Mill Street, Irvinestown BT94 1GJ", "Irvinestown", "COUNTY FERMANAGH", "BT94 1GJ" ],
+          "TownName" : "Irvinestown",
+          "CountrySubDivision" : [ "COUNTY FERMANAGH" ],
+          "Country" : "UK",
+          "PostCode" : "BT94 1GJ",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.47215600",
+              "Longitude" : "-007.63291100"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32954666638028",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Killyleagh Mobile Branc",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Church Car Park, adjacent to 17 Shore Street, Killyleagh BT30 9QF", "Killyleagh", "COUNTY DOWN", "BT30 9QF" ],
+          "TownName" : "Killyleagh",
+          "CountrySubDivision" : [ "COUNTY DOWN" ],
+          "Country" : "UK",
+          "PostCode" : "BT30 9QF",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.40047200",
+              "Longitude" : "-005.65175300"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32134664421834",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Kircubbin Mobile Branch",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Car Park in front of Kircubbin Presbyterian Chruch, Kircubbin BT22 2SL", "Kircubbin", "COUNTY DOWN", "BT22 2SL" ],
+          "TownName" : "Kircubbin",
+          "CountrySubDivision" : [ "COUNTY DOWN" ],
+          "Country" : "UK",
+          "PostCode" : "BT22 2SL",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.48712300",
+              "Longitude" : "-005.53566400"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32884657352914",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Newcastle Mobile Branch",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Castle Park Car Park, Newcastle BT33 0AE", "Newcastle", "COUNTY DOWN", "BT33 0AE" ],
+          "TownName" : "Newcastle",
+          "CountrySubDivision" : [ "COUNTY DOWN" ],
+          "Country" : "UK",
+          "PostCode" : "BT33 0AE",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.21167900",
+              "Longitude" : "-005.88936700"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32724676777077",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Newtownhamilton Mobile ",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Yard of 12-14 The Square, Newtownhamilton BT35 0PB", "Newtownhamilton", "COUNTY DOWN", "BT35 0PB" ],
+          "TownName" : "Newtownhamilton",
+          "CountrySubDivision" : [ "COUNTY DOWN" ],
+          "Country" : "UK",
+          "PostCode" : "BT35 0PB",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.18940100",
+              "Longitude" : "-006.57533800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32974635639454",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Rathfriland Mobile Bran",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Castle Street Car Park, Rathfriland BT34 5QR", "Rathfriland", "COUNTY DOWN", "BT34 5QR" ],
+          "TownName" : "Rathfriland",
+          "CountrySubDivision" : [ "COUNTY DOWN" ],
+          "Country" : "UK",
+          "PostCode" : "BT34 5QR",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.23856800",
+              "Longitude" : "-006.15949800"
+            }
+          }
+        }
+      }, {
+        "Identification" : "32304672319423",
+        "SequenceNumber" : "0",
+        "Name" : "Ulster Bank Tandragee Mobile Branch",
+        "Type" : "Physical",
+        "SortCode" : [ "767676" ],
+        "CustomerSegment" : [ "Business", "Corporate", "Other", "Personal", "Private", "Premier", "Select", "SME", "Wealth" ],
+        "ServiceAndFacility" : [ ],
+        "Accessibility" : [ "WheelchairAccess" ],
+        "OtherCustomerSegment" : [ ],
+        "OtherAccessibility" : [ ],
+        "OtherServiceAndFacility" : [ ],
+        "ContactInfo" : [ {
+          "ContactType" : "Phone",
+          "ContactContent" : "+44-3457888444"
+        } ],
+        "PostalAddress" : {
+          "AddressLine" : [ "Space adjacent to 64 Market Street, Tandragee BT62 2BP", "Tandragee", "COUNTY ARMAGH", "BT62 2BP" ],
+          "TownName" : "Tandragee",
+          "CountrySubDivision" : [ "COUNTY ARMAGH" ],
+          "Country" : "UK",
+          "PostCode" : "BT62 2BP",
+          "GeoLocation" : {
+            "GeographicCoordinates" : {
+              "Latitude" : "054.35268000",
+              "Longitude" : "-006.41281000"
+            }
+          }
+        }
+      } ]
+    } ]
+  } ]
+}

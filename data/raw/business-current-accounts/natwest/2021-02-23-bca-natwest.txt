@@ -1,0 +1,1992 @@
+{
+  "meta" : {
+    "LastUpdated" : "2021-02-23T04:52:49.715Z",
+    "TotalResults" : 2,
+    "Agreement" : "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License" : "https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse" : "https://www.openbanking.org.uk/terms"
+  },
+  "data" : [ {
+    "Brand" : [ {
+      "BrandName" : "NatWest",
+      "BCA" : [ {
+        "Name" : "Foundation Account Type V6 (NatWest)",
+        "Identification" : "CL-MT-003",
+        "OnSaleIndicator" : true,
+        "BCAMarketingState" : [ {
+          "Identification" : "7031",
+          "Notes" : [ "Start Ups - 18 months free banking", "18 months free", "Start-up package is for businesses that have been trading less than a year and will have an annual turnover under £1m" ],
+          "CoreProduct" : {
+            "ProductDescription" : "A current account providing access to UK payments services and channels to business <£2m t/o but without any borrowing capability (default offering for standard Current Account failed application)",
+            "ProductURL" : "https://www.business.natwest.com/",
+            "TcsAndCsURL" : "https://www.business.natwest.com/content/dam/natwest/business/current-accounts/documents/nw-bus-business-terms-2021.pdf",
+            "SalesAccessChannels" : [ "Online", "CallCentre", "RelationshipManager" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "RelationshipManager" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "13716",
+              "Type" : "Other",
+              "Name" : "Cheque book and Credit book"
+            }, {
+              "Identification" : "13717",
+              "Type" : "Other",
+              "Name" : "Visa Debit Card"
+            }, {
+              "Identification" : "13718",
+              "Type" : "Other",
+              "Name" : "Monthly Statements"
+            }, {
+              "Identification" : "13719",
+              "Type" : "Other",
+              "Name" : "Pre-Notification of Charges"
+            }, {
+              "Identification" : "13720",
+              "Type" : "Other",
+              "Name" : "Automatic Money transfers (where requested / agreed)"
+            }, {
+              "Identification" : "13721",
+              "Type" : "Other",
+              "Name" : "Access to eBanking and Mobile Banking"
+            }, {
+              "Identification" : "13722",
+              "Type" : "Other",
+              "Name" : "Access to Bankline"
+            }, {
+              "Identification" : "13723",
+              "Type" : "Other",
+              "Name" : "International Payments"
+            }, {
+              "Identification" : "99629",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "99624",
+              "Name" : "CreditInterestRateStructure",
+              "Type" : "AccountManagement",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "99625",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "99626",
+              "Name" : "DebitCardType",
+              "Type" : "AccountManagement",
+              "Textual" : "Non-authorised"
+            }, {
+              "Identification" : "99635",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "99627",
+              "Name" : "RegularTariffs",
+              "Type" : "AccountManagement",
+              "Textual" : "Monthly"
+            }, {
+              "Identification" : "99636",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "yes"
+            }, {
+              "Identification" : "99637",
+              "Name" : "DiscountBenefitsAccount",
+              "Type" : "Other",
+              "Textual" : "no"
+            }, {
+              "Identification" : "99638",
+              "Name" : "AccessToBankToYou",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "99639",
+              "Name" : "AccessToBankline",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99640",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99641",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "99642",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitchingIncentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "99643",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99644",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99630",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "99646",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99647",
+              "Name" : "MobileBanking",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99648",
+              "Name" : "MultipleAccountHolders",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99628",
+              "Name" : "OverdraftStructures",
+              "Type" : "AccountManagement",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "99631",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "99650",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99651",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "99652",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99653",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99654",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99655",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Textual" : "yes"
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay"
+            }, {
+              "Type" : "MobileBankingApp"
+            } ],
+            "Card" : [ {
+              "Scheme" : [ "Visa" ],
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : false
+            } ]
+          },
+          "Eligibility" : {
+            "AgeEligibility" : {
+              "MinimumAge" : 18.0
+            }
+          },
+          "MarketingState" : "Promotional",
+          "StateTenurePeriod" : "Month",
+          "StateTenureLength" : 18,
+          "FirstMarketedDate" : "2008-05-05",
+          "LastMarketedDate" : "9999-12-12",
+          "OtherFeesCharges" : [ {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Branch Cash Paid In", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransUKDirDeb",
+              "Notes" : [ "Charge - Direct Debit" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransManualTrans",
+              "Notes" : [ "Charge - Manual Credits" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Cash Paid In - Cash and Deposit Machine", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashOut",
+              "Notes" : [ "Charge - Branch Cash Paid Out", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCashOut",
+              "Notes" : [ "Charge - Cash Centre Cash Out", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutoCredit",
+              "Notes" : [ "Charge - Automated Credits" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransBranchCredit",
+              "Notes" : [ "Charge - Branch Faster Payment" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransBillPaymentTelephone",
+              "Notes" : [ "Charge - Telephone Transfer to non-RBSG Payee" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransStandingOrd",
+              "Notes" : [ "Charge - Standing Orders" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCoinHandling",
+              "Notes" : [ "Charge - Cash (Coins) Paid In - Cash Centres", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Cash Centre Notes In", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSItem",
+              "Notes" : [ "Charge - BACS Usage" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "OnlineBankingPayment",
+              "Notes" : [ "Charge - Online/Digital Faster Payment" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransCreditTransferUKSame",
+              "Notes" : [ "Charge - Telephone Transfer to RBSG Payee" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCounterCheque",
+              "Notes" : [ "Charge - Cheques Paid In - Branches" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqTrans",
+              "Notes" : [ "Charge - Cheques & Other Debits" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashX",
+              "Notes" : [ "Charge - Branch Cash Exchange", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSOnLineFile",
+              "Notes" : [ "Charge - BACS Files" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqIn",
+              "Notes" : [ "Charge - Cheques Paid in - Cash Centres" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutomatedTrans",
+              "Notes" : [ "Charge - Other Automated Debits" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFeeMonthly",
+              "Notes" : [ "Charge - Maintenance" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Monthly",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Cash Sealed - Cash Centre", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCashDropLodgement",
+              "Notes" : [ "Charge - Fast Cash Paid In", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportCertBalance",
+              "Notes" : [ "Fee - Certificate of Balance issuing" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerOccurrence",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement" ],
+              "FeeAmount" : "5.00",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportAuditLetter",
+              "Notes" : [ "Fee - Audit", "This tariff is + VAT per hour fee" ],
+              "FeeAmount" : "25.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Stopping a cheque" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CHAPSOut",
+              "Notes" : [ "Fee - CHAPS (between Banks)" ],
+              "FeeAmount" : "20.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "NightSafeNightSafe",
+              "Notes" : [ "Charge - Night Safe Wallet Usage" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqIn",
+              "Notes" : [ "Charge - Cheques Returned In" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSOnLineOverlimit",
+              "Notes" : [ "Charge - BACS Referral" ],
+              "FeeAmount" : "45.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "Other",
+              "OtherFeeType" : {
+                "Name" : "Unauthorised Unpaid Trans",
+                "Description" : "Unauthorised Unpaid Trans",
+                "FeeCategory" : "Transaction"
+              },
+              "Notes" : [ "Charge - Unpaid item" ],
+              "FeeAmount" : "12",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "ChargingPeriod"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "Other",
+              "OtherFeeType" : {
+                "Name" : "Unauthorised Paid Trans",
+                "Description" : "Unauthorised Paid Trans",
+                "FeeCategory" : "Transaction"
+              },
+              "Notes" : [ "Charge - Paid Referral" ],
+              "FeeAmount" : "20.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "ChargingPeriod"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatusEnquiry",
+              "Notes" : [ "Fee", "This pricing is Plus VAT" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutoCredit",
+              "Notes" : [ "Fee" ],
+              "FeeAmount" : "5.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqPresentation",
+              "Notes" : [ "Fee - Special cheque clearance" ],
+              "FeeAmount" : "15.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFeeMonthly",
+              "Notes" : [ "Fee", "Autopay Service\n£3 per month for the service\n£4.50 per insertion (min £20 / Max £200)\n£11 per reason (max £22, 53p each)" ],
+              "FeeAmount" : "3.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            } ],
+            "FeeChargeCap" : [ {
+              "MinMaxType" : "Minimum",
+              "FeeCapAmount" : "25.00",
+              "FeeType" : [ "ReportAuditLetter" ]
+            } ]
+          } ]
+        }, {
+          "Identification" : "7032",
+          "Notes" : [ "Standard Tariff" ],
+          "PredecessorID" : "7031",
+          "CoreProduct" : {
+            "ProductDescription" : "A current account providing access to UK payments services and channels to business <£2m t/o but without any borrowing capability (default offering for standard Current Account failed application)",
+            "ProductURL" : "https://www.business.natwest.com/",
+            "TcsAndCsURL" : "https://www.business.natwest.com/content/dam/natwest/business/current-accounts/documents/nw-bus-business-terms-2021.pdf",
+            "SalesAccessChannels" : [ "Online", "CallCentre", "RelationshipManager" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "RelationshipManager" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "13716",
+              "Type" : "Other",
+              "Name" : "Cheque book and Credit book"
+            }, {
+              "Identification" : "13717",
+              "Type" : "Other",
+              "Name" : "Visa Debit Card"
+            }, {
+              "Identification" : "13718",
+              "Type" : "Other",
+              "Name" : "Monthly Statements"
+            }, {
+              "Identification" : "13719",
+              "Type" : "Other",
+              "Name" : "Pre-Notification of Charges"
+            }, {
+              "Identification" : "13720",
+              "Type" : "Other",
+              "Name" : "Automatic Money transfers (where requested / agreed)"
+            }, {
+              "Identification" : "13721",
+              "Type" : "Other",
+              "Name" : "Access to eBanking and Mobile Banking"
+            }, {
+              "Identification" : "13722",
+              "Type" : "Other",
+              "Name" : "Access to Bankline"
+            }, {
+              "Identification" : "13723",
+              "Type" : "Other",
+              "Name" : "International Payments"
+            }, {
+              "Identification" : "99629",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "99624",
+              "Name" : "CreditInterestRateStructure",
+              "Type" : "AccountManagement",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "99625",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "99626",
+              "Name" : "DebitCardType",
+              "Type" : "AccountManagement",
+              "Textual" : "Non-authorised"
+            }, {
+              "Identification" : "99635",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "99627",
+              "Name" : "RegularTariffs",
+              "Type" : "AccountManagement",
+              "Textual" : "Monthly"
+            }, {
+              "Identification" : "99636",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "yes"
+            }, {
+              "Identification" : "99637",
+              "Name" : "DiscountBenefitsAccount",
+              "Type" : "Other",
+              "Textual" : "no"
+            }, {
+              "Identification" : "99638",
+              "Name" : "AccessToBankToYou",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "99639",
+              "Name" : "AccessToBankline",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99640",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99641",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "99642",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitchingIncentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "99643",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99644",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99630",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "99646",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99647",
+              "Name" : "MobileBanking",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99648",
+              "Name" : "MultipleAccountHolders",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99628",
+              "Name" : "OverdraftStructures",
+              "Type" : "AccountManagement",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "99631",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "99650",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99651",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "99652",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99653",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99654",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "99655",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Textual" : "yes"
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay"
+            }, {
+              "Type" : "MobileBankingApp"
+            } ],
+            "Card" : [ {
+              "Scheme" : [ "Visa" ],
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : false
+            } ]
+          },
+          "Eligibility" : {
+            "AgeEligibility" : {
+              "MinimumAge" : 18.0
+            }
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2008-05-05",
+          "LastMarketedDate" : "9999-12-12",
+          "OtherFeesCharges" : [ {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Branch Cash Paid In", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransUKDirDeb",
+              "Notes" : [ "Charge - Direct Debit" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransManualTrans",
+              "Notes" : [ "Charge - Manual Credits" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Cash Paid In - Cash and Deposit Machine", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashOut",
+              "Notes" : [ "Charge - Branch Cash Paid Out", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCashOut",
+              "Notes" : [ "Charge - Cash Centre Cash Out", "per hundred pounds" ],
+              "FeeAmount" : "0.21",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutoCredit",
+              "Notes" : [ "Charge - Automated Credits" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransBranchCredit",
+              "Notes" : [ "Charge - Branch Faster Payment" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransBillPaymentTelephone",
+              "Notes" : [ "Charge - Telephone Transfer to non-RBSG Payee" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransStandingOrd",
+              "Notes" : [ "Charge - Standing Orders" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCoinHandling",
+              "Notes" : [ "Charge - Cash (Coins) Paid In - Cash Centres", "per hundred pounds" ],
+              "FeeAmount" : "0.60",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Cash Centre Notes In", "per hundred pounds" ],
+              "FeeAmount" : "0.23",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSItem",
+              "Notes" : [ "Charge - BACS Usage" ],
+              "FeeAmount" : "0.18",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "OnlineBankingPayment",
+              "Notes" : [ "Charge - Online/Digital Faster Payment" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransCreditTransferUKSame",
+              "Notes" : [ "Charge - Telephone Transfer to RBSG Payee" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCounterCheque",
+              "Notes" : [ "Charge - Cheques Paid In - Branches" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqTrans",
+              "Notes" : [ "Charge - Cheques & Other Debits" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashX",
+              "Notes" : [ "Charge - Branch Cash Exchange", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSOnLineFile",
+              "Notes" : [ "Charge - BACS Files" ],
+              "FeeAmount" : "5.25",
+              "ApplicationFrequency" : "PerOccurrence",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqIn",
+              "Notes" : [ "Charge - Cheques Paid in - Cash Centres" ],
+              "FeeAmount" : "0.15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutomatedTrans",
+              "Notes" : [ "Charge - Other Automated Debits" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFeeMonthly",
+              "Notes" : [ "Charge - Maintenance" ],
+              "FeeAmount" : "0.00",
+              "ApplicationFrequency" : "Monthly",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Cash Sealed - Cash Centre", "per hundred pounds" ],
+              "FeeAmount" : "0.20",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "CounterServices",
+              "FeeType" : "CounterCashDropLodgement",
+              "Notes" : [ "Charge - Fast Cash Paid In", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportCertBalance",
+              "Notes" : [ "Fee - Certificate of Balance issuing" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerOccurrence",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement" ],
+              "FeeAmount" : "5.00",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportAuditLetter",
+              "Notes" : [ "Fee - Audit", "This tariff is + VAT per hour fee" ],
+              "FeeAmount" : "25.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Stopping a cheque" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CHAPSOut",
+              "Notes" : [ "Fee - CHAPS (between Banks)" ],
+              "FeeAmount" : "20.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "NightSafeNightSafe",
+              "Notes" : [ "Charge - Night Safe Wallet Usage" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqIn",
+              "Notes" : [ "Charge - Cheques Returned In" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSOnLineOverlimit",
+              "Notes" : [ "Charge - BACS Referral" ],
+              "FeeAmount" : "45.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "Other",
+              "OtherFeeType" : {
+                "Name" : "Unauthorised Unpaid Trans",
+                "Description" : "Unauthorised Unpaid Trans",
+                "FeeCategory" : "Transaction"
+              },
+              "Notes" : [ "Charge - Unpaid item" ],
+              "FeeAmount" : "12",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "ChargingPeriod"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "Other",
+              "OtherFeeType" : {
+                "Name" : "Unauthorised Paid Trans",
+                "Description" : "Unauthorised Paid Trans",
+                "FeeCategory" : "Transaction"
+              },
+              "Notes" : [ "Charge - Paid Referral" ],
+              "FeeAmount" : "20.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "ChargingPeriod"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatusEnquiry",
+              "Notes" : [ "Fee", "This pricing is Plus VAT" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutoCredit",
+              "Notes" : [ "Fee" ],
+              "FeeAmount" : "5.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqPresentation",
+              "Notes" : [ "Fee - Special cheque clearance" ],
+              "FeeAmount" : "15.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFeeMonthly",
+              "Notes" : [ "Fee", "Autopay Service\n£3 per month for the service\n£4.50 per insertion (min £20 / Max £200)\n£11 per reason (max £22, 53p each)" ],
+              "FeeAmount" : "3.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            } ],
+            "FeeChargeCap" : [ {
+              "MinMaxType" : "Minimum",
+              "FeeCapAmount" : "5.00",
+              "FeeType" : [ "ServiceCAccountFeeMonthly" ],
+              "CappingPeriod" : "Month"
+            }, {
+              "MinMaxType" : "Minimum",
+              "FeeCapAmount" : "25.00",
+              "FeeType" : [ "ReportAuditLetter" ]
+            } ]
+          } ]
+        } ],
+        "Segment" : [ "Switcher", "Standard", "Startup" ]
+      }, {
+        "Name" : "Business Current Account (Type 40) NatWest",
+        "Identification" : "CL-MT-006",
+        "OnSaleIndicator" : true,
+        "BCAMarketingState" : [ {
+          "Identification" : "7059",
+          "Notes" : [ "Start Ups 18 months Free Banking", "18 months free", "Start-up package is for businesses that have been trading less than a year and will have an annual turnover under £1m" ],
+          "CoreProduct" : {
+            "ProductDescription" : "Current Account product providing access to UK payment services and channels to businesses which can be deployed across Business Banking, Commercial and legacy Corporate segments, the target market is all non personal customers.   NatWest Type 40 account",
+            "ProductURL" : "https://www.business.natwest.com/",
+            "TcsAndCsURL" : "https://www.business.natwest.com/content/dam/natwest/business/current-accounts/documents/nw-bus-business-terms-2021.pdf",
+            "SalesAccessChannels" : [ "Post", "Online", "CallCentre", "RelationshipManager" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "RelationshipManager" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "13854",
+              "Type" : "AccountManagement",
+              "Name" : "Cheque Book and Credit book"
+            }, {
+              "Identification" : "13855",
+              "Type" : "AccountManagement",
+              "Name" : "Visa Debit Card"
+            }, {
+              "Identification" : "13856",
+              "Type" : "AccountManagement",
+              "Name" : "Monthly Statements"
+            }, {
+              "Identification" : "13857",
+              "Type" : "AccountManagement",
+              "Name" : "Pre-Notification of charges"
+            }, {
+              "Identification" : "13858",
+              "Type" : "AccountManagement",
+              "Name" : "Automatic Money transfers (Where requested / Agreed)"
+            }, {
+              "Identification" : "13859",
+              "Type" : "AccountManagement",
+              "Name" : "Access to eBanking and Mobile Banking"
+            }, {
+              "Identification" : "13860",
+              "Type" : "AccountManagement",
+              "Name" : "Access to Bankline"
+            }, {
+              "Identification" : "13861",
+              "Type" : "AccountManagement",
+              "Name" : "International Payments"
+            }, {
+              "Identification" : "101148",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "101141",
+              "Name" : "CreditInterestRateStructure",
+              "Type" : "AccountManagement",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "101142",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "101143",
+              "Name" : "DebitCardType",
+              "Type" : "AccountManagement",
+              "Textual" : "Authorised"
+            }, {
+              "Identification" : "101153",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101144",
+              "Name" : "RegularTariffs",
+              "Type" : "AccountManagement",
+              "Textual" : "Monthly"
+            }, {
+              "Identification" : "101154",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "yes"
+            }, {
+              "Identification" : "101155",
+              "Name" : "DiscountBenefitsAccount",
+              "Type" : "Other",
+              "Textual" : "no"
+            }, {
+              "Identification" : "101156",
+              "Name" : "AccessToBankToYou",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "101157",
+              "Name" : "AccessToBankline",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101158",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101159",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "101160",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitchingIncentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "101161",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101162",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101145",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "101163",
+              "Name" : "GroupAccounts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101164",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101165",
+              "Name" : "MobileBanking",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101166",
+              "Name" : "MultipleAccountHolders",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101146",
+              "Name" : "OverdraftStructures",
+              "Type" : "AccountManagement",
+              "Textual" : "Facility Fee"
+            }, {
+              "Identification" : "101147",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "101167",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101168",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101169",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101170",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101171",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101172",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Textual" : "yes"
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay"
+            }, {
+              "Type" : "MobileBankingApp"
+            } ],
+            "Card" : [ {
+              "Scheme" : [ "Visa" ],
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : true
+            } ]
+          },
+          "Eligibility" : {
+            "AgeEligibility" : {
+              "MinimumAge" : 18.0,
+              "Notes" : [ "Customer must be at least 18 years of age in order to be eligible" ]
+            }
+          },
+          "MarketingState" : "Promotional",
+          "StateTenurePeriod" : "Month",
+          "StateTenureLength" : 18,
+          "FirstMarketedDate" : "2017-11-01",
+          "LastMarketedDate" : "9999-12-01",
+          "OtherFeesCharges" : [ {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Branch Cash Paid In", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransUKDirDeb",
+              "Notes" : [ "Charge - Direct Debit" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransManualEntries",
+              "Notes" : [ "Charge - Manual Credits" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ATMDeposATMPaidIn",
+              "Notes" : [ "Charge - Cash Paid In - Cash and Deposit Machine", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashOut",
+              "Notes" : [ "Charge - Branch Cash Paid Out", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransDebit",
+              "Notes" : [ "Charge - Cash Centre Cash Out", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutoCredit",
+              "Notes" : [ "Charge - Automated Credits" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "FPSInBranch",
+              "Notes" : [ "Charge - Branch Faster Payment" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransTelBusiPriPaymentToNonGrpAcc",
+              "Notes" : [ "Charge - Telephone Transfer to non-RBSG Payee" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransStandingOrd",
+              "Notes" : [ "Charge - Standing Orders" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashDropLodgement",
+              "Notes" : [ "Charge - Cash (Coins) Paid In - Cash Centres", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Cash Centre Notes In", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSItem",
+              "Notes" : [ "Charge - BACS Usage" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "OnlineBankingPayment",
+              "Notes" : [ "Charge - Online/Digital Faster Payment" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCounterLodgement",
+              "Notes" : [ "Charge - Cheques Paid In - Branches" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqTrans",
+              "Notes" : [ "Charge - Cheques & Other Debits" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashX",
+              "Notes" : [ "Charge - Branch Cash Exchange", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSOnLineFile",
+              "Notes" : [ "Charge - BACS Files" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqIn",
+              "Notes" : [ "Charge - Cheques Paid in - Cash Centres" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransDebit",
+              "Notes" : [ "Charge - Other Automated Debits" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFee",
+              "Notes" : [ "Charge - Maintenance" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Monthly",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashDropLodgement",
+              "Notes" : [ "Charge - Cash Sealed - Cash Centre", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Fast Cash Paid In", "per hundred pounds" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "Other",
+              "OtherFeeType" : {
+                "Name" : "Unauthorised Paid Trans",
+                "Description" : "Unauthorised Paid Trans",
+                "FeeCategory" : "Transaction"
+              },
+              "Notes" : [ "Charge - Paid Referral" ],
+              "FeeAmount" : "20",
+              "ApplicationFrequency" : "Daily",
+              "CalculationFrequency" : "ChargingPeriod"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "Other",
+              "OtherFeeType" : {
+                "Name" : "Unauthorised Unpaid Trans",
+                "Description" : "Unauthorised Unpaid Trans",
+                "FeeCategory" : "Transaction"
+              },
+              "Notes" : [ "Charge - Unpaid item" ],
+              "FeeAmount" : "12",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "ChargingPeriod"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportCertBalance",
+              "Notes" : [ "Fee - Certificate of Balance issuing" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerOccurrence",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "£5 per request" ],
+              "FeeAmount" : "5.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "PerOccurrence"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportAuditLetter",
+              "Notes" : [ "Fee - Audit", "This tariff is plus VAT per hour fee" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Stopping a cheque", "lost or stolen cheques are not subject to this charge" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CHAPSOut",
+              "Notes" : [ "Fee - CHAPS (between Banks)" ],
+              "FeeAmount" : "20.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "NightSafeNightSafe",
+              "Notes" : [ "Charge - Night Safe Wallet Usage" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqIn",
+              "Notes" : [ "Charge - Cheques Returned In" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSOnLineOverlimit",
+              "Notes" : [ "Charge - BACS Referral" ],
+              "FeeAmount" : "45.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatusEnquiry",
+              "Notes" : [ "Fee", "this pricing is Plus VAT" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutoCredit",
+              "Notes" : [ "Fee", "recall of automated credits" ],
+              "FeeAmount" : "5.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerOccurrence"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqPresentation",
+              "Notes" : [ "Fee - Special cheque clearance" ],
+              "FeeAmount" : "15.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFeeMonthly",
+              "Notes" : [ "Fee", "Autopay fees are as follows:-\n\n£3 per month for the service.\n£4.50 per insertion (min £20 / Max £200)\n£11 per reason (max £22, 53p each)" ],
+              "FeeAmount" : "3.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            } ],
+            "FeeChargeCap" : [ {
+              "MinMaxType" : "Minimum",
+              "FeeCapAmount" : "25.00",
+              "FeeType" : [ "ReportAuditLetter" ]
+            } ]
+          } ]
+        }, {
+          "Identification" : "7060",
+          "Notes" : [ "Standard Tariff" ],
+          "PredecessorID" : "7059",
+          "CoreProduct" : {
+            "ProductDescription" : "Current Account product providing access to UK payment services and channels to businesses which can be deployed across Business Banking, Commercial and legacy Corporate segments, the target market is all non personal customers.   NatWest Type 40 account",
+            "ProductURL" : "https://www.business.natwest.com/",
+            "TcsAndCsURL" : "https://www.business.natwest.com/content/dam/natwest/business/current-accounts/documents/nw-bus-business-terms-2021.pdf",
+            "SalesAccessChannels" : [ "Post", "Online", "CallCentre", "RelationshipManager" ],
+            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "PostOffice", "RelationshipManager" ]
+          },
+          "FeaturesAndBenefits" : {
+            "FeatureBenefitItem" : [ {
+              "Identification" : "13854",
+              "Type" : "AccountManagement",
+              "Name" : "Cheque Book and Credit book"
+            }, {
+              "Identification" : "13855",
+              "Type" : "AccountManagement",
+              "Name" : "Visa Debit Card"
+            }, {
+              "Identification" : "13856",
+              "Type" : "AccountManagement",
+              "Name" : "Monthly Statements"
+            }, {
+              "Identification" : "13857",
+              "Type" : "AccountManagement",
+              "Name" : "Pre-Notification of charges"
+            }, {
+              "Identification" : "13858",
+              "Type" : "AccountManagement",
+              "Name" : "Automatic Money transfers (Where requested / Agreed)"
+            }, {
+              "Identification" : "13859",
+              "Type" : "AccountManagement",
+              "Name" : "Access to eBanking and Mobile Banking"
+            }, {
+              "Identification" : "13860",
+              "Type" : "AccountManagement",
+              "Name" : "Access to Bankline"
+            }, {
+              "Identification" : "13861",
+              "Type" : "AccountManagement",
+              "Name" : "International Payments"
+            }, {
+              "Identification" : "101148",
+              "Name" : "CardScheme",
+              "Type" : "Other",
+              "Textual" : "Visa"
+            }, {
+              "Identification" : "101141",
+              "Name" : "CreditInterestRateStructure",
+              "Type" : "AccountManagement",
+              "Textual" : "N/A"
+            }, {
+              "Identification" : "101142",
+              "Name" : "Currency",
+              "Type" : "Other",
+              "Textual" : "GBP"
+            }, {
+              "Identification" : "101143",
+              "Name" : "DebitCardType",
+              "Type" : "AccountManagement",
+              "Textual" : "Authorised"
+            }, {
+              "Identification" : "101153",
+              "Name" : "OverdraftAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101144",
+              "Name" : "RegularTariffs",
+              "Type" : "AccountManagement",
+              "Textual" : "Monthly"
+            }, {
+              "Identification" : "101154",
+              "Name" : "DigitalServices",
+              "Type" : "AccountManagement",
+              "Textual" : "yes"
+            }, {
+              "Identification" : "101155",
+              "Name" : "DiscountBenefitsAccount",
+              "Type" : "Other",
+              "Textual" : "no"
+            }, {
+              "Identification" : "101156",
+              "Name" : "AccessToBankToYou",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "101157",
+              "Name" : "AccessToBankline",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101158",
+              "Name" : "ChequeBookAvailable",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101159",
+              "Name" : "CreditInterestRatePayable",
+              "Type" : "AccountManagement",
+              "Indicator" : false
+            }, {
+              "Identification" : "101160",
+              "Name" : "CurrentAccountSwitchService",
+              "Type" : "AccountOpeningOrSwitchingIncentive",
+              "Indicator" : true
+            }, {
+              "Identification" : "101161",
+              "Name" : "DebitCard",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101162",
+              "Name" : "DirectDebits",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101145",
+              "Name" : "ElectronicPayments",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; Faster Payments; Domestic Payments; International Payments; CHAPS"
+            }, {
+              "Identification" : "101163",
+              "Name" : "GroupAccounts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101164",
+              "Name" : "InstantAccess",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101165",
+              "Name" : "MobileBanking",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101166",
+              "Name" : "MultipleAccountHolders",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101146",
+              "Name" : "OverdraftStructures",
+              "Type" : "AccountManagement",
+              "Textual" : "Facility Fee"
+            }, {
+              "Identification" : "101147",
+              "Name" : "PaymentClearingSystemSupported",
+              "Type" : "AccountManagement",
+              "Textual" : "BACS; CHAPS; International systems"
+            }, {
+              "Identification" : "101167",
+              "Name" : "QuickDepositsServiceAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101168",
+              "Name" : "SetOffArrangement",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101169",
+              "Name" : "StandingOrderAvailability",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101170",
+              "Name" : "TextAlerts",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101171",
+              "Name" : "TransfersAllowed",
+              "Type" : "AccountManagement",
+              "Indicator" : true
+            }, {
+              "Identification" : "101172",
+              "Name" : "AutoTransfers",
+              "Type" : "AccountManagement",
+              "Textual" : "yes"
+            } ],
+            "MobileWallet" : [ {
+              "Type" : "ApplePay"
+            }, {
+              "Type" : "MobileBankingApp"
+            } ],
+            "Card" : [ {
+              "Scheme" : [ "Visa" ],
+              "Type" : "DebitCard",
+              "ContactlessIndicator" : true
+            } ]
+          },
+          "Eligibility" : {
+            "AgeEligibility" : {
+              "MinimumAge" : 18.0,
+              "Notes" : [ "Customer must be at least 18 years of age in order to be eligible" ]
+            }
+          },
+          "MarketingState" : "Regular",
+          "FirstMarketedDate" : "2017-11-01",
+          "LastMarketedDate" : "9999-12-01",
+          "OtherFeesCharges" : [ {
+            "FeeChargeDetail" : [ {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Branch Cash Paid In", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransUKDirDeb",
+              "Notes" : [ "Charge - Direct Debit" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransManualEntries",
+              "Notes" : [ "Charge - Manual Credits" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ATMDeposATMPaidIn",
+              "Notes" : [ "Charge - Cash Paid In - Cash and Deposit Machine" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashOut",
+              "Notes" : [ "Charge - Branch Cash Paid Out", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransDebit",
+              "Notes" : [ "Charge - Cash Centre Cash Out", "per hundred pounds" ],
+              "FeeAmount" : "0.21",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutoCredit",
+              "Notes" : [ "Charge - Automated Credits" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "FPSInBranch",
+              "Notes" : [ "Charge - Branch Faster Payment" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransTelBusiPriPaymentToNonGrpAcc",
+              "Notes" : [ "Charge - Telephone Transfer to non-RBSG Payee" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransStandingOrd",
+              "Notes" : [ "Charge - Standing Orders" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashDropLodgement",
+              "Notes" : [ "Charge - Cash (Coins) Paid In - Cash Centres", "per hundred pounds" ],
+              "FeeAmount" : "0.60",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Cash Centre Notes In", "per hundred pounds" ],
+              "FeeAmount" : "0.23",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSItem",
+              "Notes" : [ "Charge - BACS Usage" ],
+              "FeeAmount" : "0.18",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "OnlineBankingPayment",
+              "Notes" : [ "Charge - Online/Digital Faster Payment" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqCounterLodgement",
+              "Notes" : [ "Charge - Cheques Paid In - Branches" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqTrans",
+              "Notes" : [ "Charge - Cheques & Other Debits" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashX",
+              "Notes" : [ "Charge - Branch Cash Exchange", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSOnLineFile",
+              "Notes" : [ "Charge - BACS Files" ],
+              "FeeAmount" : "5.25",
+              "ApplicationFrequency" : "PerOccurrence",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqIn",
+              "Notes" : [ "Charge - Cheques Paid in - Cash Centres" ],
+              "FeeAmount" : "0.15",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "TransDebit",
+              "Notes" : [ "Charge - Other Automated Debits" ],
+              "FeeAmount" : "0.35",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Monthly"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFee",
+              "Notes" : [ "Charge - Maintenance" ],
+              "FeeAmount" : "0.00",
+              "ApplicationFrequency" : "Monthly",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashDropLodgement",
+              "Notes" : [ "Charge - Cash Sealed - Cash Centre", "per hundred pounds" ],
+              "FeeAmount" : "0.20",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CounterCashIn",
+              "Notes" : [ "Charge - Fast Cash Paid In", "per hundred pounds" ],
+              "FeeAmount" : "0.70",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "Other",
+              "OtherFeeType" : {
+                "Name" : "Unauthorised Paid Trans",
+                "Description" : "Unauthorised Paid Trans",
+                "FeeCategory" : "Transaction"
+              },
+              "Notes" : [ "Charge - Paid Referral" ],
+              "FeeAmount" : "20",
+              "ApplicationFrequency" : "Daily",
+              "CalculationFrequency" : "ChargingPeriod"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "Other",
+              "OtherFeeType" : {
+                "Name" : "Unauthorised Unpaid Trans",
+                "Description" : "Unauthorised Unpaid Trans",
+                "FeeCategory" : "Transaction"
+              },
+              "Notes" : [ "Charge - Unpaid item" ],
+              "FeeAmount" : "12",
+              "ApplicationFrequency" : "PerItem",
+              "CalculationFrequency" : "ChargingPeriod"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportCertBalance",
+              "Notes" : [ "Fee - Certificate of Balance issuing" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerOccurrence",
+              "CalculationFrequency" : "PerItem"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ReportStatementCopy1",
+              "Notes" : [ "Charge - Duplicate statement", "£5 per request" ],
+              "FeeAmount" : "5.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "PerOccurrence"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportAuditLetter",
+              "Notes" : [ "Fee - Audit", "This tariff is plus VAT per hour fee" ],
+              "FeeAmount" : "25",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerTransaction"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqStopped",
+              "Notes" : [ "Charge - Stopping a cheque", "lost or stolen cheques are not subject to this charge" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "CHAPSOut",
+              "Notes" : [ "Fee - CHAPS (between Banks)" ],
+              "FeeAmount" : "20.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "NightSafeNightSafe",
+              "Notes" : [ "Charge - Night Safe Wallet Usage" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "ChqIn",
+              "Notes" : [ "Charge - Cheques Returned In" ],
+              "FeeAmount" : "0",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "BACSOnLineOverlimit",
+              "Notes" : [ "Charge - BACS Referral" ],
+              "FeeAmount" : "45.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Report",
+              "FeeType" : "ReportStatusEnquiry",
+              "Notes" : [ "Fee", "this pricing is Plus VAT" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Transaction",
+              "FeeType" : "AutoAutoCredit",
+              "Notes" : [ "Fee", "recall of automated credits" ],
+              "FeeAmount" : "5.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "PerOccurrence"
+            }, {
+              "FeeCategory" : "Cheque",
+              "FeeType" : "ChqSpecialChqPresentation",
+              "Notes" : [ "Fee - Special cheque clearance" ],
+              "FeeAmount" : "15.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "BankersDrafts",
+              "FeeType" : "DraftsBankers",
+              "Notes" : [ "Fee - Bankers draft issuance" ],
+              "FeeAmount" : "10.00",
+              "ApplicationFrequency" : "PerTransaction",
+              "CalculationFrequency" : "Other"
+            }, {
+              "FeeCategory" : "Servicing",
+              "FeeType" : "ServiceCAccountFeeMonthly",
+              "Notes" : [ "Fee", "Autopay fees are as follows:-\n\n£3 per month for the service.\n£4.50 per insertion (min £20 / Max £200)\n£11 per reason (max £22, 53p each)" ],
+              "FeeAmount" : "3.00",
+              "ApplicationFrequency" : "Other",
+              "CalculationFrequency" : "Other"
+            } ],
+            "FeeChargeCap" : [ {
+              "MinMaxType" : "Minimum",
+              "FeeCapAmount" : "25.00",
+              "FeeType" : [ "ReportAuditLetter" ]
+            } ]
+          } ]
+        } ],
+        "Segment" : [ "Switcher", "Standard", "Startup" ]
+      } ]
+    } ]
+  } ]
+}

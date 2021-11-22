@@ -1,0 +1,85 @@
+BARCLAYS (https://developer.barclays.com/catalogue/a9e56a0b-c995-4091-bd54-c95557333538.bdn/documentation/9ef245a3-df87-4c01-ab1c-26cd88c98887.bdn):
+https://atlas.api.barclays/open-banking/v2.4/personal-current-accounts
+https://atlas.api.barclays/open-banking/v2.4/business-current-accounts
+https://atlas.api.barclays/open-banking/v2.4/commercial-credit-cards
+https://atlas.api.barclays/open-banking/v2.4/unsecured-sme-loans
+https://atlas.api.barclays/open-banking/v2.2/branches
+https://atlas.api.barclays/open-banking/v2.2/atms
+
+NATWEST (https://www.bankofapis.com/products/products-and-locations/documentation/nwb/2.2.0):
+https://openapi.natwest.com/open-banking/v2.2/personal-current-accounts
+https://openapi.natwest.com/open-banking/v2.2/business-current-accounts
+https://openapi.natwest.com/open-banking/v2.2/commercial-credit-cards
+https://openapi.natwest.com/open-banking/v2.2/unsecured-sme-loans
+https://openapi.natwest.com/open-banking/v2.2/branches
+https://openapi.natwest.com/open-banking/v2.2/atms
+
+RBS (https://www.bankofapis.com/products/products-and-locations/documentation/rbs/2.2.0)::
+https://openapi.rbs.co.uk/open-banking/v2.2/personal-current-accounts
+https://openapi.rbs.co.uk/open-banking/v2.2/business-current-accounts
+https://openapi.rbs.co.uk/open-banking/v2.2/commercial-credit-cards
+https://openapi.rbs.co.uk/open-banking/v2.2/unsecured-sme-loans
+https://openapi.rbs.co.uk/open-banking/v2.2/branches
+https://openapi.rbs.co.uk/open-banking/v2.2/atms
+
+ULSTER NI (https://www.bankofapis.com/products/products-and-locations/documentation/ubn/2.2.0):
+https://openapi.ulsterbank.co.uk/open-banking/v2.2/personal-current-accounts
+https://openapi.ulsterbank.co.uk/open-banking/v2.2/business-current-accounts
+https://openapi.ulsterbank.co.uk/open-banking/v2.2/unsecured-sme-loans
+https://openapi.ulsterbank.co.uk/open-banking/v2.2/branches
+https://openapi.ulsterbank.co.uk/open-banking/v2.2/atms
+
+SANTANDER (https://developer.santander.co.uk/sanuk/external/):
+https://openbanking.santander.co.uk/sanuk/external/open-banking/v2.2/personal-current-accounts
+https://openbanking.santander.co.uk/sanuk/external/open-banking/v2.2/business-current-accounts
+https://openbanking.santander.co.uk/sanuk/external/open-banking/v2.2/commercial-credit-cards
+https://openbanking.santander.co.uk/sanuk/external/open-banking/v2.2/unsecured-sme-loans
+https://openbanking.santander.co.uk/sanuk/external/open-banking/v2.2/branches
+https://openbanking.santander.co.uk/sanuk/external/open-banking/v2.2/atms
+
+HSBC (https://api.hsbc.com/): 
+https://api.hsbc.com/open-banking/v2.2/personal-current-accounts
+https://api.hsbc.com/open-banking/v2.2/business-current-accounts
+https://api.hsbc.com/open-banking/v2.2/commercial-credit-cards
+https://api.hsbc.com/open-banking/v2.2/unsecured-sme-loans
+https://api.hsbc.com/open-banking/v2.2/branches
+https://api.hsbc.com/open-banking/v2.2/atms
+
+LLOYDS (https://developer.lloydsbank.com/):
+https://api.lloydsbank.com/open-banking/v2.2/personal-current-accounts
+https://api.lloydsbank.com/open-banking/v2.2/business-current-accounts
+https://api.lloydsbank.com/open-banking/v2.2/commercial-credit-cards
+https://api.lloydsbank.com/open-banking/v2.2/unsecured-sme-loans
+https://api.lloydsbank.com/open-banking/v2.2/branches
+https://api.lloydsbank.com/open-banking/v2.2/atms
+
+BANK OF SCOTLAND (https://developer.bankofscotland.co.uk/):
+https://api.bankofscotland.co.uk/open-banking/v2.2/personal-current-accounts
+https://api.bankofscotland.co.uk/open-banking/v2.2/business-current-accounts
+https://api.bankofscotland.co.uk/open-banking/v2.2/commercial-credit-cards
+https://api.bankofscotland.co.uk/open-banking/v2.2/unsecured-sme-loans
+https://api.bankofscotland.co.uk/open-banking/v2.2/branches
+https://api.bankofscotland.co.uk/open-banking/v2.2/atms
+
+HALIFAX (https://developer.halifax.co.uk/):
+https://api.halifax.co.uk/open-banking/v2.2/personal-current-accounts
+https://api.halifax.co.uk/open-banking/v2.2/business-current-accounts
+https://api.halifax.co.uk/open-banking/v2.2/commercial-credit-cards
+https://api.halifax.co.uk/open-banking/v2.2/unsecured-sme-loans
+https://api.halifax.co.uk/open-banking/v2.2/branches
+https://api.halifax.co.uk/open-banking/v2.2/atms
+
+NATIONWIDE (https://www.nationwidedeveloper.co.uk/apis/open-data-apis):
+https://openapi.nationwide.co.uk/open-banking/v2.2/personal-current-accounts
+https://locations.nationwidebranches.co.uk/open-banking/v2.2/branches
+https://openapi.nationwide.co.uk/open-banking/v2.2/atms
+
+DANSKE: Developer site down (17/09/2019).
+
+BANK OF IRELAND: Not offering public APIs (17/09/2019).
+
+STARLING: Not offering OpenBanking APIs (17/09/2019).
+
+MONZO: Not offering OpenBanking APIs (17/09/2019).
+
+METRO: Not offering OpenBanking APIs (17/09/2019).
