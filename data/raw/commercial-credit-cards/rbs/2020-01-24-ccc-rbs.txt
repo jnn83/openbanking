@@ -1,405 +1,583 @@
 {
-  "meta" : {
-    "LastUpdated" : "2020-01-24T05:36:23.656Z",
-    "TotalResults" : 2,
-    "Agreement" : "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
-    "License" : "https://www.openbanking.org.uk/open-licence",
-    "TermsOfUse" : "https://www.openbanking.org.uk/terms"
+  "meta": {
+    "LastUpdated": "2020-01-24T05:36:23.656Z",
+    "TotalResults": 2,
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License": "https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://www.openbanking.org.uk/terms"
   },
-  "data" : [ {
-    "Brand" : [ {
-      "BrandName" : "RBS",
-      "CCC" : [ {
-        "Name" : "Business Credit Card",
-        "Identification" : "PR-CC-020",
-        "CCCMarketingState" : [ {
-          "Identification" : "1",
-          "CoreProduct" : {
-            "ProductDescription" : "•A Business Credit Card to help making and keeping track of payments simple for business customers.  It can be used to help customers manage their cash flow whilst keeping their business expenses separate from personal spending.\n\n•Available to new and existing Business Banking customers with annual turnover under £2m. \n\n•Customer must hold and maintain a business bank account in the same legal entity name with NatWest/RBS.",
-            "ProductURL" : "https://www.business.rbs.co.uk/business/business-banking/business-cards/business-credit-card.html",
-            "TcsAndCsURL" : "https://www.business.rbs.co.uk/business/business-banking/business-cards/business-credit-card.html",
-            "APR" : "24.3",
-            "PeriodicFee" : "30",
-            "Notes" : [ "The card is free for the first year. If a cardholder spends £6,000 or more each year thereafter we will waive the annual fee every year the cardholder meet that criteria." ],
-            "PeriodicFeePeriod" : "Year",
-            "CardScheme" : [ "Mastercard" ],
-            "ContactlessIndicator" : true,
-            "MaxPurchaseInterestFreeLengthDays" : 56,
-            "SalesAccessChannels" : [ "Post", "Online" ],
-            "ServicingAccessChannels" : [ "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "RelationshipManager" ]
-          },
-          "FeaturesAndBenefits" : {
-            "FeatureBenefitItem" : [ {
-              "Identification" : "10942",
-              "Type" : "Other",
-              "Name" : "Interest free credit",
-              "Indicator" : true,
-              "FeatureBenefitEligibility" : [ {
-                "Name" : "Country",
-                "Type" : "Other",
-                "Description" : "Business must be located in the UK, Isle of Man, Channel Islands or Gibraltar"
-              } ]
-            }, {
-              "Identification" : "10943",
-              "Type" : "Other",
-              "Name" : "Annual fee waiver"
-            }, {
-              "Identification" : "10944",
-              "Type" : "Other",
-              "Name" : "Flexible payment"
-            }, {
-              "Identification" : "10945",
-              "Type" : "Other",
-              "Name" : "Smart Data Online"
-            }, {
-              "Identification" : "89457",
-              "Name" : "CardScheme",
-              "Type" : "Other",
-              "Textual" : "MasterCard"
-            }, {
-              "Identification" : "89464",
-              "Name" : "AbilityToUseCardOnline",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89458",
-              "Name" : "AccessToDataReportingTool",
-              "Type" : "AccountManagement",
-              "Textual" : "Smart Data; Cards Online"
-            }, {
-              "Identification" : "89465",
-              "Name" : "CashWithdrawals",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89466",
-              "Name" : "ChipAndPin",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89467",
-              "Name" : "Contactless",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89468",
-              "Name" : "ConvenienceCheque",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89460",
-              "Name" : "Currency",
-              "Type" : "Other",
-              "Textual" : "GBP"
-            }, {
-              "Identification" : "89459",
-              "Name" : "MaximumNumberOfCardsPermitted",
-              "Type" : "AccountManagement",
-              "Textual" : "Unlimited"
-            }, {
-              "Identification" : "89469",
-              "Name" : "OnlineSecurity",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89470",
-              "Name" : "FlexiblePayments",
-              "Type" : "AccountManagement",
-              "Textual" : "Minimum payment the greater of £5 or the full balance if less ; or that month's interest, any default charges, 1/12th of any annual fee and 3% of the remaining balance (excluding any annual fee)"
-            }, {
-              "Identification" : "89471",
-              "Name" : "InterestFreePeriod",
-              "Type" : "AccountManagement",
-              "Textual" : "Up to 56 days interest free on purchases if balance paid in full and on time"
-            }, {
-              "Identification" : "89472",
-              "Name" : "AbilityToSetSpecificIndividualLimits",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89473",
-              "Name" : "StatementsGeneratedAtAccountLevelAndCardholderLevel",
-              "Type" : "AccountManagement",
-              "Textual" : "Company level statements"
-            } ]
-          },
-          "Eligibility" : {
-            "AgeEligibility" : {
-              "MinimumAge" : 18.0
+  "data": [
+    {
+      "Brand": [
+        {
+          "BrandName": "RBS",
+          "CCC": [
+            {
+              "Name": "Business Credit Card",
+              "Identification": "PR-CC-020",
+              "CCCMarketingState": [
+                {
+                  "Identification": "1",
+                  "CoreProduct": {
+                    "ProductDescription": "•A Business Credit Card to help making and keeping track of payments simple for business customers.  It can be used to help customers manage their cash flow whilst keeping their business expenses separate from personal spending.\n\n•Available to new and existing Business Banking customers with annual turnover under £2m. \n\n•Customer must hold and maintain a business bank account in the same legal entity name with NatWest/RBS.",
+                    "ProductURL": "https://www.business.rbs.co.uk/business/business-banking/business-cards/business-credit-card.html",
+                    "TcsAndCsURL": "https://www.business.rbs.co.uk/business/business-banking/business-cards/business-credit-card.html",
+                    "APR": "24.3",
+                    "PeriodicFee": "30",
+                    "Notes": [
+                      "The card is free for the first year. If a cardholder spends £6,000 or more each year thereafter we will waive the annual fee every year the cardholder meet that criteria."
+                    ],
+                    "PeriodicFeePeriod": "Year",
+                    "CardScheme": [
+                      "Mastercard"
+                    ],
+                    "ContactlessIndicator": true,
+                    "MaxPurchaseInterestFreeLengthDays": 56,
+                    "SalesAccessChannels": [
+                      "Post",
+                      "Online"
+                    ],
+                    "ServicingAccessChannels": [
+                      "ATM",
+                      "Branch",
+                      "CallCentre",
+                      "MobileBankingApp",
+                      "Online",
+                      "RelationshipManager"
+                    ]
+                  },
+                  "FeaturesAndBenefits": {
+                    "FeatureBenefitItem": [
+                      {
+                        "Identification": "10942",
+                        "Type": "Other",
+                        "Name": "Interest free credit",
+                        "Indicator": true,
+                        "FeatureBenefitEligibility": [
+                          {
+                            "Name": "Country",
+                            "Type": "Other",
+                            "Description": "Business must be located in the UK, Isle of Man, Channel Islands or Gibraltar"
+                          }
+                        ]
+                      },
+                      {
+                        "Identification": "10943",
+                        "Type": "Other",
+                        "Name": "Annual fee waiver"
+                      },
+                      {
+                        "Identification": "10944",
+                        "Type": "Other",
+                        "Name": "Flexible payment"
+                      },
+                      {
+                        "Identification": "10945",
+                        "Type": "Other",
+                        "Name": "Smart Data Online"
+                      },
+                      {
+                        "Identification": "89457",
+                        "Name": "CardScheme",
+                        "Type": "Other",
+                        "Textual": "MasterCard"
+                      },
+                      {
+                        "Identification": "89464",
+                        "Name": "AbilityToUseCardOnline",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89458",
+                        "Name": "AccessToDataReportingTool",
+                        "Type": "AccountManagement",
+                        "Textual": "Smart Data; Cards Online"
+                      },
+                      {
+                        "Identification": "89465",
+                        "Name": "CashWithdrawals",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89466",
+                        "Name": "ChipAndPin",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89467",
+                        "Name": "Contactless",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89468",
+                        "Name": "ConvenienceCheque",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89460",
+                        "Name": "Currency",
+                        "Type": "Other",
+                        "Textual": "GBP"
+                      },
+                      {
+                        "Identification": "89459",
+                        "Name": "MaximumNumberOfCardsPermitted",
+                        "Type": "AccountManagement",
+                        "Textual": "Unlimited"
+                      },
+                      {
+                        "Identification": "89469",
+                        "Name": "OnlineSecurity",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89470",
+                        "Name": "FlexiblePayments",
+                        "Type": "AccountManagement",
+                        "Textual": "Minimum payment the greater of £5 or the full balance if less ; or that month's interest, any default charges, 1/12th of any annual fee and 3% of the remaining balance (excluding any annual fee)"
+                      },
+                      {
+                        "Identification": "89471",
+                        "Name": "InterestFreePeriod",
+                        "Type": "AccountManagement",
+                        "Textual": "Up to 56 days interest free on purchases if balance paid in full and on time"
+                      },
+                      {
+                        "Identification": "89472",
+                        "Name": "AbilityToSetSpecificIndividualLimits",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89473",
+                        "Name": "StatementsGeneratedAtAccountLevelAndCardholderLevel",
+                        "Type": "AccountManagement",
+                        "Textual": "Company level statements"
+                      }
+                    ]
+                  },
+                  "Eligibility": {
+                    "AgeEligibility": {
+                      "MinimumAge": 18.0
+                    },
+                    "ResidencyEligibility": [
+                      {
+                        "ResidencyType": "Other",
+                        "ResidencyIncluded": [
+                          "GI",
+                          "GG",
+                          "IM",
+                          "JE",
+                          "GB"
+                        ]
+                      }
+                    ]
+                  },
+                  "MarketingState": "Regular",
+                  "FirstMarketedDate": "2017-11-21",
+                  "LastMarketedDate": "9999-12-31",
+                  "OtherFeesCharges": {
+                    "FeeChargeDetail": [
+                      {
+                        "FeeCategory": "Penalty",
+                        "FeeType": "Penalty",
+                        "Notes": [
+                          "Fee - Overlimit"
+                        ],
+                        "FeeAmount": "12",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Monthly"
+                      },
+                      {
+                        "FeeCategory": "Penalty",
+                        "FeeType": "Penalty",
+                        "Notes": [
+                          "Charge - Late payment",
+                          "If minimum payment is not received by the due date"
+                        ],
+                        "FeeAmount": "12",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Monthly"
+                      },
+                      {
+                        "FeeCategory": "Penalty",
+                        "FeeType": "Penalty",
+                        "Notes": [
+                          "Charge - Returned payment"
+                        ],
+                        "FeeAmount": "12",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Monthly"
+                      },
+                      {
+                        "FeeCategory": "Servicing",
+                        "FeeType": "CashWithdrawal",
+                        "Notes": [
+                          "Fee - Cash withdrawal",
+                          "min £3"
+                        ],
+                        "FeeRate": "3",
+                        "ApplicationFrequency": "Other",
+                        "CalculationFrequency": "Other"
+                      },
+                      {
+                        "FeeCategory": "FX",
+                        "FeeType": "ForeignCash",
+                        "Notes": [
+                          "Fee - Non-sterling transaction"
+                        ],
+                        "FeeRate": "2.95",
+                        "ApplicationFrequency": "Other",
+                        "CalculationFrequency": "Other"
+                      },
+                      {
+                        "FeeCategory": "CashAdvance",
+                        "FeeType": "CashAdvance",
+                        "Notes": [
+                          "Rate - Rate of interest per annum (variable)",
+                          "Cash advances includes cash withdrawals, the purchase of foreign currency and travellers cheques and money transfers and cheques"
+                        ],
+                        "FeeRate": "16.9",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Daily"
+                      },
+                      {
+                        "FeeCategory": "Purchase",
+                        "FeeType": "Purchase",
+                        "Notes": [
+                          "Rate - Rate of interest per annum (variable)",
+                          "Purchases which includes any Annual Card Fees, Non-Sterling Transaction Fees, Insurance Premiums, fees charged to stop a cheque and any administrative charge for ancillary services and Balance Transfers"
+                        ],
+                        "FeeRate": "16.9",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Daily"
+                      },
+                      {
+                        "FeeCategory": "Servicing",
+                        "FeeType": "Card",
+                        "Notes": [
+                          "Fee - Additional cardholder",
+                          "The card is free for the first year. If a cardholder spends £6,000 or more each year thereafter we will waive the annual fee every year the cardholder meet that criteria."
+                        ],
+                        "FeeAmount": "30",
+                        "ApplicationFrequency": "Yearly",
+                        "CalculationFrequency": "Yearly"
+                      }
+                    ]
+                  },
+                  "Repayment": {
+                    "RepaymentAllocation": {
+                      "Notes": [
+                        "Payments to the Card will not reduce the balance until the payment has cleared. The monthly statement includes information about how long it takes for payments to clear.\nWe use any payments we receive to pay off:\n• any overdue amounts from previous monthly\nstatements;\n• any minimum payment; and\n• any overlimit amount on the Card.\nCustomers can’t choose how a payment is applied to their Card. We apply any payments made in the following order:\n• to reduce sums shown on the most recent monthly statement, according to their interest rates, with the highest rate paid first; and\n• if any payment exceeds the most recent monthly statement balance, the excess will then be applied to reduce sums charged to the Card but not yet shown on any monthly statement. This is also done according to interest rates, with the highest interest rate paid first. If parts of either of the balances referred to above have the same interest rate, sums on which interest is charged on interest will reduce first.\nWe may give written notice allowing the customer not to make a minimum payment. If so, interest will still accrue."
+                      ]
+                    },
+                    "Notes": [
+                      "We’ll issue a monthly statement showing all amounts charged to the Card since the previous monthly statement and the Card balance. The whole balance or part of it can be paid , but at least the minimum amount on your monthly statement must be paid by the payment date. A monthly statement will explain how to make payments.\nWe may not issue a monthly statement if the balance is zero and there have been no entries since the previous monthly statement.\nThe minimum payment must be made each month from a business account in the customers' name.\nThe minimum payment will be the greater of:\n(i) £5 or the full balance if less; or\n(ii) that month’s interest, any Default Charges, 1/12th of any annual fee and 3% of the remaining balance (excluding any annual fee).\n\nAny overdue amounts, which will be included in the total amount required to pay, are payable immediately. When we ask, immediate payment is required on any amount you owe over the  Business Credit Limit.\nWe encourage customers to pay more than the minimum amount each month. As they will clear their balance more quickly and pay less interest. \nCustomers must not make payments to their Card that creates a positive balance on your account. We may return any credit balance or apply it to a current account.."
+                    ]
+                  }
+                }
+              ],
+              "Segment": [
+                "General"
+              ]
             },
-            "ResidencyEligibility" : [ {
-              "ResidencyType" : "Other",
-              "ResidencyIncluded" : [ "GI", "GG", "IM", "JE", "GB" ]
-            } ]
-          },
-          "MarketingState" : "Regular",
-          "FirstMarketedDate" : "2017-11-21",
-          "LastMarketedDate" : "9999-12-31",
-          "OtherFeesCharges" : {
-            "FeeChargeDetail" : [ {
-              "FeeCategory" : "Penalty",
-              "FeeType" : "Penalty",
-              "Notes" : [ "Fee - Overlimit" ],
-              "FeeAmount" : "12",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Monthly"
-            }, {
-              "FeeCategory" : "Penalty",
-              "FeeType" : "Penalty",
-              "Notes" : [ "Charge - Late payment", "If minimum payment is not received by the due date" ],
-              "FeeAmount" : "12",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Monthly"
-            }, {
-              "FeeCategory" : "Penalty",
-              "FeeType" : "Penalty",
-              "Notes" : [ "Charge - Returned payment" ],
-              "FeeAmount" : "12",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Monthly"
-            }, {
-              "FeeCategory" : "Servicing",
-              "FeeType" : "CashWithdrawal",
-              "Notes" : [ "Fee - Cash withdrawal", "min £3" ],
-              "FeeRate" : "3",
-              "ApplicationFrequency" : "Other",
-              "CalculationFrequency" : "Other"
-            }, {
-              "FeeCategory" : "FX",
-              "FeeType" : "ForeignCash",
-              "Notes" : [ "Fee - Non-sterling transaction" ],
-              "FeeRate" : "2.95",
-              "ApplicationFrequency" : "Other",
-              "CalculationFrequency" : "Other"
-            }, {
-              "FeeCategory" : "CashAdvance",
-              "FeeType" : "CashAdvance",
-              "Notes" : [ "Rate - Rate of interest per annum (variable)", "Cash advances includes cash withdrawals, the purchase of foreign currency and travellers cheques and money transfers and cheques" ],
-              "FeeRate" : "16.9",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Daily"
-            }, {
-              "FeeCategory" : "Purchase",
-              "FeeType" : "Purchase",
-              "Notes" : [ "Rate - Rate of interest per annum (variable)", "Purchases which includes any Annual Card Fees, Non-Sterling Transaction Fees, Insurance Premiums, fees charged to stop a cheque and any administrative charge for ancillary services and Balance Transfers" ],
-              "FeeRate" : "16.9",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Daily"
-            }, {
-              "FeeCategory" : "Servicing",
-              "FeeType" : "Card",
-              "Notes" : [ "Fee - Additional cardholder", "The card is free for the first year. If a cardholder spends £6,000 or more each year thereafter we will waive the annual fee every year the cardholder meet that criteria." ],
-              "FeeAmount" : "30",
-              "ApplicationFrequency" : "Yearly",
-              "CalculationFrequency" : "Yearly"
-            } ]
-          },
-          "Repayment" : {
-            "RepaymentAllocation" : {
-              "Notes" : [ "Payments to the Card will not reduce the balance until the payment has cleared. The monthly statement includes information about how long it takes for payments to clear.\nWe use any payments we receive to pay off:\n• any overdue amounts from previous monthly\nstatements;\n• any minimum payment; and\n• any overlimit amount on the Card.\nCustomers can’t choose how a payment is applied to their Card. We apply any payments made in the following order:\n• to reduce sums shown on the most recent monthly statement, according to their interest rates, with the highest rate paid first; and\n• if any payment exceeds the most recent monthly statement balance, the excess will then be applied to reduce sums charged to the Card but not yet shown on any monthly statement. This is also done according to interest rates, with the highest interest rate paid first. If parts of either of the balances referred to above have the same interest rate, sums on which interest is charged on interest will reduce first.\nWe may give written notice allowing the customer not to make a minimum payment. If so, interest will still accrue." ]
-            },
-            "Notes" : [ "We’ll issue a monthly statement showing all amounts charged to the Card since the previous monthly statement and the Card balance. The whole balance or part of it can be paid , but at least the minimum amount on your monthly statement must be paid by the payment date. A monthly statement will explain how to make payments.\nWe may not issue a monthly statement if the balance is zero and there have been no entries since the previous monthly statement.\nThe minimum payment must be made each month from a business account in the customers' name.\nThe minimum payment will be the greater of:\n(i) £5 or the full balance if less; or\n(ii) that month’s interest, any Default Charges, 1/12th of any annual fee and 3% of the remaining balance (excluding any annual fee).\n\nAny overdue amounts, which will be included in the total amount required to pay, are payable immediately. When we ask, immediate payment is required on any amount you owe over the  Business Credit Limit.\nWe encourage customers to pay more than the minimum amount each month. As they will clear their balance more quickly and pay less interest. \nCustomers must not make payments to their Card that creates a positive balance on your account. We may return any credit balance or apply it to a current account.." ]
-          }
-        } ],
-        "Segment" : [ "General" ]
-      }, {
-        "Name" : "Business Plus credit card",
-        "Identification" : "2516",
-        "CCCMarketingState" : [ {
-          "Identification" : "1",
-          "CoreProduct" : {
-            "ProductDescription" : "The Business Plus credit card gives customers the flexibility of making a wide range of business expenses with the benefit of being rewarded through cashback, and cardholders are not charged any foreign exchange fees on non-Sterling purchases.\n\nCustomer must hold and maintain a business bank account in the same legal entity name with NatWest/RBS.",
-            "ProductURL" : "https://www.rbs.co.uk/businesspluscard",
-            "TcsAndCsURL" : "https://www.rbs.co.uk/businesspluscard",
-            "APR" : "29.0",
-            "PeriodicFee" : "70",
-            "Notes" : [ "The annual card fee cannot be waived or discounted." ],
-            "PeriodicFeePeriod" : "Year",
-            "CardScheme" : [ "Mastercard" ],
-            "ContactlessIndicator" : true,
-            "MaxPurchaseInterestFreeLengthDays" : 56,
-            "SalesAccessChannels" : [ "Branch", "Online", "RelationshipManager" ],
-            "ServicingAccessChannels" : [ "Post", "ATM", "Branch", "CallCentre", "MobileBankingApp", "Online", "RelationshipManager" ]
-          },
-          "FeaturesAndBenefits" : {
-            "FeatureBenefitItem" : [ {
-              "Identification" : "10946",
-              "Type" : "Other",
-              "Name" : "Flexible payment"
-            }, {
-              "Identification" : "10947",
-              "Type" : "Other",
-              "Name" : "Flexible funding"
-            }, {
-              "Identification" : "10948",
-              "Type" : "CashBack",
-              "Name" : "Cashback"
-            }, {
-              "Identification" : "10949",
-              "Type" : "Other",
-              "Name" : "Overseas transactions"
-            }, {
-              "Identification" : "89480",
-              "Name" : "CardScheme",
-              "Type" : "Other",
-              "Textual" : "MasterCard"
-            }, {
-              "Identification" : "89485",
-              "Name" : "AbilityToUseCardOnline",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89481",
-              "Name" : "AccessToDataReportingTool",
-              "Type" : "AccountManagement",
-              "Textual" : "Smart Data Lite; Cards Online"
-            }, {
-              "Identification" : "89486",
-              "Name" : "CashWithdrawals",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89487",
-              "Name" : "ChipAndPin",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89488",
-              "Name" : "Contactless",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89489",
-              "Name" : "ConvenienceCheque",
-              "Type" : "AccountManagement",
-              "Indicator" : false
-            }, {
-              "Identification" : "89482",
-              "Name" : "Currency",
-              "Type" : "Other",
-              "Textual" : "GBP"
-            }, {
-              "Identification" : "89483",
-              "Name" : "MaximumNumberOfCardsPermitted",
-              "Type" : "AccountManagement",
-              "Textual" : "Unlimited"
-            }, {
-              "Identification" : "89490",
-              "Name" : "OnlineSecurity",
-              "Type" : "AccountManagement",
-              "Indicator" : true
-            }, {
-              "Identification" : "89491",
-              "Name" : "FlexiblePayments",
-              "Type" : "AccountManagement",
-              "Textual" : "Minimum payment will be the greater of (i) £5 or the full balance if less; or (ii) that month's interest, any Default Charges, 1/12th of any annual fee and 3% of the remaining balance (excluding any annual fee)."
-            }, {
-              "Identification" : "89492",
-              "Name" : "InterestFreePeriod",
-              "Type" : "AccountManagement",
-              "Textual" : "Up to 56 days' interest free on purchases if balance paid in full and on time. For cash transactions interest is charged from the date the transaction is applied to the account."
-            }, {
-              "Identification" : "89493",
-              "Name" : "AbilityToSetSpecificIndividualLimits",
-              "Type" : "AccountManagement",
-              "Textual" : "Cardholder credit limit (Min £500)"
-            }, {
-              "Identification" : "89494",
-              "Name" : "StatementsGeneratedAtAccountLevelAndCardholderLevel",
-              "Type" : "AccountManagement",
-              "Textual" : "Company level statements (including individual card statements)"
-            } ]
-          },
-          "Eligibility" : {
-            "LegalStructureEligibility" : [ {
-              "LegalStructure" : "CIO",
-              "Notes" : [ "Partnerships of 4 or more partners only" ]
-            }, {
-              "LegalStructure" : "LBG",
-              "Notes" : [ "Partnerships of 4 or more partners only" ]
-            }, {
-              "LegalStructure" : "Ltd",
-              "Notes" : [ "Partnerships of 4 or more partners only" ]
-            }, {
-              "LegalStructure" : "Partnership",
-              "Notes" : [ "Partnerships of 4 or more partners only" ]
-            } ],
-            "ResidencyEligibility" : [ {
-              "ResidencyType" : "Incorporated",
-              "ResidencyIncluded" : [ "GB" ]
-            } ]
-          },
-          "MarketingState" : "Regular",
-          "FirstMarketedDate" : "2018-09-18",
-          "LastMarketedDate" : "9999-12-31",
-          "OtherFeesCharges" : {
-            "FeeChargeDetail" : [ {
-              "FeeCategory" : "Servicing",
-              "FeeType" : "Card",
-              "Notes" : [ "Fee - Additional cardholder", "The annual card fee cannot be waived or discounted." ],
-              "FeeAmount" : "70",
-              "ApplicationFrequency" : "Yearly",
-              "CalculationFrequency" : "Yearly"
-            }, {
-              "FeeCategory" : "Penalty",
-              "FeeType" : "Penalty",
-              "Notes" : [ "Fee - Overlimit" ],
-              "FeeAmount" : "12",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Monthly"
-            }, {
-              "FeeCategory" : "Penalty",
-              "FeeType" : "Penalty",
-              "Notes" : [ "Charge - Late payment", "If minimum payment is not  received by due date" ],
-              "FeeAmount" : "12",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Monthly"
-            }, {
-              "FeeCategory" : "Penalty",
-              "FeeType" : "Penalty",
-              "Notes" : [ "Charge - Returned payment" ],
-              "FeeAmount" : "12",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Monthly"
-            }, {
-              "FeeCategory" : "Servicing",
-              "FeeType" : "CashWithdrawal",
-              "Notes" : [ "Fee - Cash withdrawal", "Minimum £3" ],
-              "FeeRate" : "3",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Monthly"
-            }, {
-              "FeeCategory" : "FX",
-              "FeeType" : "ForeignCash",
-              "Notes" : [ "Fee - Non-sterling transaction" ],
-              "FeeRate" : "0",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Monthly"
-            }, {
-              "FeeCategory" : "Purchase",
-              "FeeType" : "Purchase",
-              "Notes" : [ "Rate - Rate of interest per annum (variable)", "Purchases which includes any annual card fees, Non-Sterling Transaction Fees, Insurance Premium,  fees charged to stop a cheque and administrative charge for ancillary services and Balance Transfers" ],
-              "FeeRate" : "13.9",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Daily"
-            }, {
-              "FeeCategory" : "CashAdvance",
-              "FeeType" : "CashAdvance",
-              "Notes" : [ "Rate - Rate of interest per annum (variable)", "Cash advances includes cash withdrawals, the purchase of foreign currency and travellers cheques and money transfers and cheques" ],
-              "FeeRate" : "13.9",
-              "ApplicationFrequency" : "Monthly",
-              "CalculationFrequency" : "Daily"
-            } ]
-          },
-          "Repayment" : {
-            "RepaymentAllocation" : {
-              "Notes" : [ "We’ll issue a monthly statement showing all amounts charged to the Card since the previous monthly statement and the Card balance. The whole balance or part of it can be paid , but at least the minimum amount on your monthly statement must be paid by the payment date. A monthly statement will explain how to make payments. We may not issue a monthly statement if the balance is zero and there have been no entries since the previous monthly statement. The minimum payment must be made each month from a business account in the customers' name. The minimum payment will be the greater of (i) £5 or the full balance if less; or (ii) that month's interest, any Default Charges, 1/12th of any annual fee and 3% of the remaining balance (excluding any annual fee).   Any overdue amounts, which will be included in the total amount required to pay, are payable immediately. When we ask, immediate payment is required on any amount you owe over the Business Credit Limit. We encourage customers to pay more than the minimum amount each month. As they will clear their balance more quickly and pay less interest. Customers must not make payments to their Card that creates a positive balance on your account. We may return any credit balance or apply it to a current account.." ]
-            },
-            "Notes" : [ "Payments to the Card will not reduce the balance until the payment has cleared. The monthly statement includes information about how long it takes for payments to clear. We use any payments we receive to pay off: • any overdue amounts from previous monthly statements; • any minimum payment; and • any overlimit amount on the Card. Customers can’t choose how a payment is applied to their Card. We apply any payments made in the following order: • to reduce sums shown on the most recent monthly statement, according to their interest rates, with the highest rate paid first; and • if any payment exceeds the most recent monthly statement balance, the excess will then be applied to reduce sums charged to the Card but not yet shown on any monthly statement. This is also done according to interest rates, with the highest interest rate paid first. If parts of either of the balances referred to above have the same interest rate, sums on which interest is charged on interest will reduce first. We may give written notice allowing the customer not to make a minimum payment. If so, interest will still accrue." ]
-          }
-        } ],
-        "Segment" : [ "General" ]
-      } ]
-    } ]
-  } ]
+            {
+              "Name": "Business Plus credit card",
+              "Identification": "2516",
+              "CCCMarketingState": [
+                {
+                  "Identification": "1",
+                  "CoreProduct": {
+                    "ProductDescription": "The Business Plus credit card gives customers the flexibility of making a wide range of business expenses with the benefit of being rewarded through cashback, and cardholders are not charged any foreign exchange fees on non-Sterling purchases.\n\nCustomer must hold and maintain a business bank account in the same legal entity name with NatWest/RBS.",
+                    "ProductURL": "https://www.rbs.co.uk/businesspluscard",
+                    "TcsAndCsURL": "https://www.rbs.co.uk/businesspluscard",
+                    "APR": "29.0",
+                    "PeriodicFee": "70",
+                    "Notes": [
+                      "The annual card fee cannot be waived or discounted."
+                    ],
+                    "PeriodicFeePeriod": "Year",
+                    "CardScheme": [
+                      "Mastercard"
+                    ],
+                    "ContactlessIndicator": true,
+                    "MaxPurchaseInterestFreeLengthDays": 56,
+                    "SalesAccessChannels": [
+                      "Branch",
+                      "Online",
+                      "RelationshipManager"
+                    ],
+                    "ServicingAccessChannels": [
+                      "Post",
+                      "ATM",
+                      "Branch",
+                      "CallCentre",
+                      "MobileBankingApp",
+                      "Online",
+                      "RelationshipManager"
+                    ]
+                  },
+                  "FeaturesAndBenefits": {
+                    "FeatureBenefitItem": [
+                      {
+                        "Identification": "10946",
+                        "Type": "Other",
+                        "Name": "Flexible payment"
+                      },
+                      {
+                        "Identification": "10947",
+                        "Type": "Other",
+                        "Name": "Flexible funding"
+                      },
+                      {
+                        "Identification": "10948",
+                        "Type": "CashBack",
+                        "Name": "Cashback"
+                      },
+                      {
+                        "Identification": "10949",
+                        "Type": "Other",
+                        "Name": "Overseas transactions"
+                      },
+                      {
+                        "Identification": "89480",
+                        "Name": "CardScheme",
+                        "Type": "Other",
+                        "Textual": "MasterCard"
+                      },
+                      {
+                        "Identification": "89485",
+                        "Name": "AbilityToUseCardOnline",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89481",
+                        "Name": "AccessToDataReportingTool",
+                        "Type": "AccountManagement",
+                        "Textual": "Smart Data Lite; Cards Online"
+                      },
+                      {
+                        "Identification": "89486",
+                        "Name": "CashWithdrawals",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89487",
+                        "Name": "ChipAndPin",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89488",
+                        "Name": "Contactless",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89489",
+                        "Name": "ConvenienceCheque",
+                        "Type": "AccountManagement",
+                        "Indicator": false
+                      },
+                      {
+                        "Identification": "89482",
+                        "Name": "Currency",
+                        "Type": "Other",
+                        "Textual": "GBP"
+                      },
+                      {
+                        "Identification": "89483",
+                        "Name": "MaximumNumberOfCardsPermitted",
+                        "Type": "AccountManagement",
+                        "Textual": "Unlimited"
+                      },
+                      {
+                        "Identification": "89490",
+                        "Name": "OnlineSecurity",
+                        "Type": "AccountManagement",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "89491",
+                        "Name": "FlexiblePayments",
+                        "Type": "AccountManagement",
+                        "Textual": "Minimum payment will be the greater of (i) £5 or the full balance if less; or (ii) that month's interest, any Default Charges, 1/12th of any annual fee and 3% of the remaining balance (excluding any annual fee)."
+                      },
+                      {
+                        "Identification": "89492",
+                        "Name": "InterestFreePeriod",
+                        "Type": "AccountManagement",
+                        "Textual": "Up to 56 days' interest free on purchases if balance paid in full and on time. For cash transactions interest is charged from the date the transaction is applied to the account."
+                      },
+                      {
+                        "Identification": "89493",
+                        "Name": "AbilityToSetSpecificIndividualLimits",
+                        "Type": "AccountManagement",
+                        "Textual": "Cardholder credit limit (Min £500)"
+                      },
+                      {
+                        "Identification": "89494",
+                        "Name": "StatementsGeneratedAtAccountLevelAndCardholderLevel",
+                        "Type": "AccountManagement",
+                        "Textual": "Company level statements (including individual card statements)"
+                      }
+                    ]
+                  },
+                  "Eligibility": {
+                    "LegalStructureEligibility": [
+                      {
+                        "LegalStructure": "CIO",
+                        "Notes": [
+                          "Partnerships of 4 or more partners only"
+                        ]
+                      },
+                      {
+                        "LegalStructure": "LBG",
+                        "Notes": [
+                          "Partnerships of 4 or more partners only"
+                        ]
+                      },
+                      {
+                        "LegalStructure": "Ltd",
+                        "Notes": [
+                          "Partnerships of 4 or more partners only"
+                        ]
+                      },
+                      {
+                        "LegalStructure": "Partnership",
+                        "Notes": [
+                          "Partnerships of 4 or more partners only"
+                        ]
+                      }
+                    ],
+                    "ResidencyEligibility": [
+                      {
+                        "ResidencyType": "Incorporated",
+                        "ResidencyIncluded": [
+                          "GB"
+                        ]
+                      }
+                    ]
+                  },
+                  "MarketingState": "Regular",
+                  "FirstMarketedDate": "2018-09-18",
+                  "LastMarketedDate": "9999-12-31",
+                  "OtherFeesCharges": {
+                    "FeeChargeDetail": [
+                      {
+                        "FeeCategory": "Servicing",
+                        "FeeType": "Card",
+                        "Notes": [
+                          "Fee - Additional cardholder",
+                          "The annual card fee cannot be waived or discounted."
+                        ],
+                        "FeeAmount": "70",
+                        "ApplicationFrequency": "Yearly",
+                        "CalculationFrequency": "Yearly"
+                      },
+                      {
+                        "FeeCategory": "Penalty",
+                        "FeeType": "Penalty",
+                        "Notes": [
+                          "Fee - Overlimit"
+                        ],
+                        "FeeAmount": "12",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Monthly"
+                      },
+                      {
+                        "FeeCategory": "Penalty",
+                        "FeeType": "Penalty",
+                        "Notes": [
+                          "Charge - Late payment",
+                          "If minimum payment is not  received by due date"
+                        ],
+                        "FeeAmount": "12",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Monthly"
+                      },
+                      {
+                        "FeeCategory": "Penalty",
+                        "FeeType": "Penalty",
+                        "Notes": [
+                          "Charge - Returned payment"
+                        ],
+                        "FeeAmount": "12",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Monthly"
+                      },
+                      {
+                        "FeeCategory": "Servicing",
+                        "FeeType": "CashWithdrawal",
+                        "Notes": [
+                          "Fee - Cash withdrawal",
+                          "Minimum £3"
+                        ],
+                        "FeeRate": "3",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Monthly"
+                      },
+                      {
+                        "FeeCategory": "FX",
+                        "FeeType": "ForeignCash",
+                        "Notes": [
+                          "Fee - Non-sterling transaction"
+                        ],
+                        "FeeRate": "0",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Monthly"
+                      },
+                      {
+                        "FeeCategory": "Purchase",
+                        "FeeType": "Purchase",
+                        "Notes": [
+                          "Rate - Rate of interest per annum (variable)",
+                          "Purchases which includes any annual card fees, Non-Sterling Transaction Fees, Insurance Premium,  fees charged to stop a cheque and administrative charge for ancillary services and Balance Transfers"
+                        ],
+                        "FeeRate": "13.9",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Daily"
+                      },
+                      {
+                        "FeeCategory": "CashAdvance",
+                        "FeeType": "CashAdvance",
+                        "Notes": [
+                          "Rate - Rate of interest per annum (variable)",
+                          "Cash advances includes cash withdrawals, the purchase of foreign currency and travellers cheques and money transfers and cheques"
+                        ],
+                        "FeeRate": "13.9",
+                        "ApplicationFrequency": "Monthly",
+                        "CalculationFrequency": "Daily"
+                      }
+                    ]
+                  },
+                  "Repayment": {
+                    "RepaymentAllocation": {
+                      "Notes": [
+                        "We’ll issue a monthly statement showing all amounts charged to the Card since the previous monthly statement and the Card balance. The whole balance or part of it can be paid , but at least the minimum amount on your monthly statement must be paid by the payment date. A monthly statement will explain how to make payments. We may not issue a monthly statement if the balance is zero and there have been no entries since the previous monthly statement. The minimum payment must be made each month from a business account in the customers' name. The minimum payment will be the greater of (i) £5 or the full balance if less; or (ii) that month's interest, any Default Charges, 1/12th of any annual fee and 3% of the remaining balance (excluding any annual fee).   Any overdue amounts, which will be included in the total amount required to pay, are payable immediately. When we ask, immediate payment is required on any amount you owe over the Business Credit Limit. We encourage customers to pay more than the minimum amount each month. As they will clear their balance more quickly and pay less interest. Customers must not make payments to their Card that creates a positive balance on your account. We may return any credit balance or apply it to a current account.."
+                      ]
+                    },
+                    "Notes": [
+                      "Payments to the Card will not reduce the balance until the payment has cleared. The monthly statement includes information about how long it takes for payments to clear. We use any payments we receive to pay off: • any overdue amounts from previous monthly statements; • any minimum payment; and • any overlimit amount on the Card. Customers can’t choose how a payment is applied to their Card. We apply any payments made in the following order: • to reduce sums shown on the most recent monthly statement, according to their interest rates, with the highest rate paid first; and • if any payment exceeds the most recent monthly statement balance, the excess will then be applied to reduce sums charged to the Card but not yet shown on any monthly statement. This is also done according to interest rates, with the highest interest rate paid first. If parts of either of the balances referred to above have the same interest rate, sums on which interest is charged on interest will reduce first. We may give written notice allowing the customer not to make a minimum payment. If so, interest will still accrue."
+                    ]
+                  }
+                }
+              ],
+              "Segment": [
+                "General"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

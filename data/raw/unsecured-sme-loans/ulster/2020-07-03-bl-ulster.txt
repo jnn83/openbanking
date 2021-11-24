@@ -1,259 +1,341 @@
 {
-  "meta" : {
-    "LastUpdated" : "2020-07-03T08:37:03.388Z",
-    "TotalResults" : 1,
-    "Agreement" : "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
-    "License" : "https://www.openbanking.org.uk/open-licence",
-    "TermsOfUse" : "https://www.openbanking.org.uk/terms"
+  "meta": {
+    "LastUpdated": "2020-07-03T08:37:03.388Z",
+    "TotalResults": 1,
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License": "https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://www.openbanking.org.uk/terms"
   },
-  "data" : [ {
-    "Brand" : [ {
-      "BrandName" : "Ulster Bank (NI)",
-      "SMELoan" : [ {
-        "Name" : "Ulster Variable Rate Business Term Loan",
-        "Identification" : "TF-LO-040",
-        "SMELoanMarketingState" : [ {
-          "Identification" : "1",
-          "CoreProduct" : {
-            "ProductDescription" : "The Business Term Loan is designed for SME Customers (Connections >£250k) who do not require the certainty of fixed payments and are comfortable accepting interest rate risks.",
-            "ProductURL" : "http://digital.ulsterbank.co.uk/",
-            "TcsAndCsURL" : "http://digital.ulsterbank.co.uk/",
-            "EarlyPaymentFeeApplicable" : false,
-            "OverPaymentFeeApplicable" : false,
-            "LoanApplicationFeeChargeType" : "NoLoanApplicationFee",
-            "FullEarlyRepaymentAllowedIndicator" : true,
-            "OverpaymentAllowedIndicator" : true,
-            "SalesAccessChannels" : [ "Branch", "RelationshipManager" ],
-            "ServicingAccessChannels" : [ "RelationshipManager" ]
-          },
-          "FeaturesAndBenefits" : {
-            "FeatureBenefitItem" : [ {
-              "Identification" : "11422",
-              "Type" : "Other",
-              "Name" : "No Early Redemption Charge"
-            }, {
-              "Identification" : "93955",
-              "Name" : "CapitalRepaymentHolidays",
-              "Type" : "PaymentHolidays",
-              "Indicator" : true
-            }, {
-              "Identification" : "93956",
-              "Name" : "EarlyRepaymentCharge",
-              "Type" : "EarlySettlement",
-              "Indicator" : false
-            }, {
-              "Identification" : "93957",
-              "Name" : "TrancheDrawdown",
-              "Type" : "Other",
-              "Indicator" : true
-            }, {
-              "Identification" : "93958",
-              "Name" : "InterestRateType",
-              "Type" : "Other",
-              "Textual" : "Variable Rate"
-            }, {
-              "Identification" : "93959",
-              "Name" : "ReferenceRate",
-              "Type" : "Other",
-              "Textual" : "Base Rate"
-            }, {
-              "Identification" : "93950",
-              "Name" : "Currency",
-              "Type" : "Other",
-              "Textual" : "GBP"
-            }, {
-              "Identification" : "93951",
-              "Name" : "RepaymentType",
-              "Type" : "Other",
-              "Textual" : "Capital Only; Interest Only; Capital & Interest"
-            }, {
-              "Identification" : "93960",
-              "Name" : "Term",
-              "Type" : "Other",
-              "Textual" : "Min 3months, Max 25years"
-            }, {
-              "Identification" : "93961",
-              "Name" : "InterestCalculationFrequency",
-              "Type" : "Other",
-              "Textual" : "Quarterly"
-            }, {
-              "Identification" : "93962",
-              "Name" : "AvailabilityPeriod",
-              "Type" : "Other",
-              "Textual" : "First tranch drawdown must be made within 3month of the loan agreement and the loan must be fully drawndown within 12months from the first tranch."
-            } ]
-          },
-          "Eligibility" : {
-            "AgeEligibility" : {
-              "MinimumAge" : 18.0
-            },
-            "ResidencyEligibility" : [ {
-              "ResidencyType" : "Owner",
-              "ResidencyIncluded" : [ "GB" ]
-            } ],
-            "IDEligibility" : { },
-            "CreditCheckEligibility" : {
-              "ScoringType" : "Hard"
+  "data": [
+    {
+      "Brand": [
+        {
+          "BrandName": "Ulster Bank (NI)",
+          "SMELoan": [
+            {
+              "Name": "Ulster Variable Rate Business Term Loan",
+              "Identification": "TF-LO-040",
+              "SMELoanMarketingState": [
+                {
+                  "Identification": "1",
+                  "CoreProduct": {
+                    "ProductDescription": "The Business Term Loan is designed for SME Customers (Connections >£250k) who do not require the certainty of fixed payments and are comfortable accepting interest rate risks.",
+                    "ProductURL": "http://digital.ulsterbank.co.uk/",
+                    "TcsAndCsURL": "http://digital.ulsterbank.co.uk/",
+                    "EarlyPaymentFeeApplicable": false,
+                    "OverPaymentFeeApplicable": false,
+                    "LoanApplicationFeeChargeType": "NoLoanApplicationFee",
+                    "FullEarlyRepaymentAllowedIndicator": true,
+                    "OverpaymentAllowedIndicator": true,
+                    "SalesAccessChannels": [
+                      "Branch",
+                      "RelationshipManager"
+                    ],
+                    "ServicingAccessChannels": [
+                      "RelationshipManager"
+                    ]
+                  },
+                  "FeaturesAndBenefits": {
+                    "FeatureBenefitItem": [
+                      {
+                        "Identification": "11422",
+                        "Type": "Other",
+                        "Name": "No Early Redemption Charge"
+                      },
+                      {
+                        "Identification": "93955",
+                        "Name": "CapitalRepaymentHolidays",
+                        "Type": "PaymentHolidays",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "93956",
+                        "Name": "EarlyRepaymentCharge",
+                        "Type": "EarlySettlement",
+                        "Indicator": false
+                      },
+                      {
+                        "Identification": "93957",
+                        "Name": "TrancheDrawdown",
+                        "Type": "Other",
+                        "Indicator": true
+                      },
+                      {
+                        "Identification": "93958",
+                        "Name": "InterestRateType",
+                        "Type": "Other",
+                        "Textual": "Variable Rate"
+                      },
+                      {
+                        "Identification": "93959",
+                        "Name": "ReferenceRate",
+                        "Type": "Other",
+                        "Textual": "Base Rate"
+                      },
+                      {
+                        "Identification": "93950",
+                        "Name": "Currency",
+                        "Type": "Other",
+                        "Textual": "GBP"
+                      },
+                      {
+                        "Identification": "93951",
+                        "Name": "RepaymentType",
+                        "Type": "Other",
+                        "Textual": "Capital Only; Interest Only; Capital & Interest"
+                      },
+                      {
+                        "Identification": "93960",
+                        "Name": "Term",
+                        "Type": "Other",
+                        "Textual": "Min 3months, Max 25years"
+                      },
+                      {
+                        "Identification": "93961",
+                        "Name": "InterestCalculationFrequency",
+                        "Type": "Other",
+                        "Textual": "Quarterly"
+                      },
+                      {
+                        "Identification": "93962",
+                        "Name": "AvailabilityPeriod",
+                        "Type": "Other",
+                        "Textual": "First tranch drawdown must be made within 3month of the loan agreement and the loan must be fully drawndown within 12months from the first tranch."
+                      }
+                    ]
+                  },
+                  "Eligibility": {
+                    "AgeEligibility": {
+                      "MinimumAge": 18.0
+                    },
+                    "ResidencyEligibility": [
+                      {
+                        "ResidencyType": "Owner",
+                        "ResidencyIncluded": [
+                          "GB"
+                        ]
+                      }
+                    ],
+                    "IDEligibility": {},
+                    "CreditCheckEligibility": {
+                      "ScoringType": "Hard"
+                    }
+                  },
+                  "LoanInterest": {
+                    "LoanInterestTierBandSet": [
+                      {
+                        "TierBandMethod": "Tiered",
+                        "CalculationMethod": "Compound",
+                        "LoanInterestTierBand": [
+                          {
+                            "FixedVariableInterestRateType": "Variable",
+                            "MaxTermPeriod": "Month",
+                            "MinTermPeriod": "Month",
+                            "TierValueMaxTerm": 24.0,
+                            "TierValueMinTerm": 6.0,
+                            "TierValueMinimum": "1000",
+                            "TierValueMaximum": "15000",
+                            "RepAPR": "7.10",
+                            "LoanInterestFeesCharges": [
+                              {
+                                "LoanInterestFeeChargeDetail": [
+                                  {
+                                    "FeeType": "Other",
+                                    "OtherFeeType": {
+                                      "Name": "Loan Arrangement",
+                                      "Description": "Loan Arrangement"
+                                    },
+                                    "Notes": [
+                                      "Fee - Arrangement"
+                                    ],
+                                    "FeeAmount": "150",
+                                    "ApplicationFrequency": "OnOpening",
+                                    "CalculationFrequency": "OnOpening"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "FixedVariableInterestRateType": "Variable",
+                            "MaxTermPeriod": "Month",
+                            "MinTermPeriod": "Month",
+                            "TierValueMaxTerm": 60.0,
+                            "TierValueMinTerm": 25.0,
+                            "TierValueMinimum": "1000",
+                            "TierValueMaximum": "15000",
+                            "RepAPR": "8.10",
+                            "LoanInterestFeesCharges": [
+                              {
+                                "LoanInterestFeeChargeDetail": [
+                                  {
+                                    "FeeType": "Other",
+                                    "OtherFeeType": {
+                                      "Name": "Loan Arrangement",
+                                      "Description": "Loan Arrangement"
+                                    },
+                                    "Notes": [
+                                      "Fee - Arrangement"
+                                    ],
+                                    "FeeAmount": "150",
+                                    "ApplicationFrequency": "OnOpening",
+                                    "CalculationFrequency": "OnOpening"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "FixedVariableInterestRateType": "Variable",
+                            "MaxTermPeriod": "Month",
+                            "MinTermPeriod": "Month",
+                            "TierValueMaxTerm": 24.0,
+                            "TierValueMinTerm": 6.0,
+                            "TierValueMinimum": "20000",
+                            "TierValueMaximum": "20000",
+                            "RepAPR": "7.10",
+                            "LoanInterestFeesCharges": [
+                              {
+                                "LoanInterestFeeChargeDetail": [
+                                  {
+                                    "FeeType": "Other",
+                                    "OtherFeeType": {
+                                      "Name": "Loan Arrangement",
+                                      "Description": "Loan Arrangement"
+                                    },
+                                    "Notes": [
+                                      "Fee - Arrangement"
+                                    ],
+                                    "FeeAmount": "200",
+                                    "ApplicationFrequency": "OnOpening",
+                                    "CalculationFrequency": "OnOpening"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "FixedVariableInterestRateType": "Variable",
+                            "MaxTermPeriod": "Month",
+                            "MinTermPeriod": "Month",
+                            "TierValueMaxTerm": 60.0,
+                            "TierValueMinTerm": 25.0,
+                            "TierValueMinimum": "20000",
+                            "TierValueMaximum": "20000",
+                            "RepAPR": "8.10",
+                            "LoanInterestFeesCharges": [
+                              {
+                                "LoanInterestFeeChargeDetail": [
+                                  {
+                                    "FeeType": "Other",
+                                    "OtherFeeType": {
+                                      "Name": "Loan Arrangement",
+                                      "Description": "Loan Arrangement"
+                                    },
+                                    "Notes": [
+                                      "Fee - Arrangement"
+                                    ],
+                                    "FeeAmount": "200",
+                                    "ApplicationFrequency": "OnOpening",
+                                    "CalculationFrequency": "OnOpening"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "FixedVariableInterestRateType": "Variable",
+                            "MaxTermPeriod": "Month",
+                            "MinTermPeriod": "Month",
+                            "TierValueMaxTerm": 24.0,
+                            "TierValueMinTerm": 6.0,
+                            "TierValueMinimum": "25000",
+                            "TierValueMaximum": "25000",
+                            "RepAPR": "7.10",
+                            "LoanInterestFeesCharges": [
+                              {
+                                "LoanInterestFeeChargeDetail": [
+                                  {
+                                    "FeeType": "Other",
+                                    "OtherFeeType": {
+                                      "Name": "Loan Arrangement",
+                                      "Description": "Loan Arrangement"
+                                    },
+                                    "Notes": [
+                                      "Fee - Arrangement"
+                                    ],
+                                    "FeeAmount": "250",
+                                    "ApplicationFrequency": "OnOpening",
+                                    "CalculationFrequency": "OnOpening"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "FixedVariableInterestRateType": "Variable",
+                            "MaxTermPeriod": "Month",
+                            "MinTermPeriod": "Month",
+                            "TierValueMaxTerm": 60.0,
+                            "TierValueMinTerm": 25.0,
+                            "TierValueMinimum": "25000",
+                            "TierValueMaximum": "25000",
+                            "RepAPR": "8.10",
+                            "LoanInterestFeesCharges": [
+                              {
+                                "LoanInterestFeeChargeDetail": [
+                                  {
+                                    "FeeType": "Other",
+                                    "OtherFeeType": {
+                                      "Name": "Loan Arrangement",
+                                      "Description": "Loan Arrangement"
+                                    },
+                                    "Notes": [
+                                      "Fee - Arrangement"
+                                    ],
+                                    "FeeAmount": "250",
+                                    "ApplicationFrequency": "OnOpening",
+                                    "CalculationFrequency": "OnOpening"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "MarketingState": "Regular",
+                  "FirstMarketedDate": "2000-01-03",
+                  "LastMarketedDate": "9999-12-30",
+                  "Repayment": [
+                    {
+                      "OtherRepaymentType": {
+                        "Name": "Capital Only",
+                        "Description": "Capital Only"
+                      },
+                      "RepaymentFrequency": "Flexible",
+                      "AmountType": "CapitalAndInterest",
+                      "Notes": [
+                        "Monthly, quarterly, bi-annually, yearly"
+                      ],
+                      "RepaymentHoliday": [
+                        {
+                          "MaxHolidayLength": 12.0,
+                          "MaxHolidayPeriod": "Month"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "Segment": [
+                "Business"
+              ]
             }
-          },
-          "LoanInterest" : {
-            "LoanInterestTierBandSet" : [ {
-              "TierBandMethod" : "Tiered",
-              "CalculationMethod" : "Compound",
-              "LoanInterestTierBand" : [ {
-                "FixedVariableInterestRateType" : "Variable",
-                "MaxTermPeriod" : "Month",
-                "MinTermPeriod" : "Month",
-                "TierValueMaxTerm" : 24.0,
-                "TierValueMinTerm" : 6.0,
-                "TierValueMinimum" : "1000",
-                "TierValueMaximum" : "15000",
-                "RepAPR" : "7.10",
-                "LoanInterestFeesCharges" : [ {
-                  "LoanInterestFeeChargeDetail" : [ {
-                    "FeeType" : "Other",
-                    "OtherFeeType" : {
-                      "Name" : "Loan Arrangement",
-                      "Description" : "Loan Arrangement"
-                    },
-                    "Notes" : [ "Fee - Arrangement" ],
-                    "FeeAmount" : "150",
-                    "ApplicationFrequency" : "OnOpening",
-                    "CalculationFrequency" : "OnOpening"
-                  } ]
-                } ]
-              }, {
-                "FixedVariableInterestRateType" : "Variable",
-                "MaxTermPeriod" : "Month",
-                "MinTermPeriod" : "Month",
-                "TierValueMaxTerm" : 60.0,
-                "TierValueMinTerm" : 25.0,
-                "TierValueMinimum" : "1000",
-                "TierValueMaximum" : "15000",
-                "RepAPR" : "8.10",
-                "LoanInterestFeesCharges" : [ {
-                  "LoanInterestFeeChargeDetail" : [ {
-                    "FeeType" : "Other",
-                    "OtherFeeType" : {
-                      "Name" : "Loan Arrangement",
-                      "Description" : "Loan Arrangement"
-                    },
-                    "Notes" : [ "Fee - Arrangement" ],
-                    "FeeAmount" : "150",
-                    "ApplicationFrequency" : "OnOpening",
-                    "CalculationFrequency" : "OnOpening"
-                  } ]
-                } ]
-              }, {
-                "FixedVariableInterestRateType" : "Variable",
-                "MaxTermPeriod" : "Month",
-                "MinTermPeriod" : "Month",
-                "TierValueMaxTerm" : 24.0,
-                "TierValueMinTerm" : 6.0,
-                "TierValueMinimum" : "20000",
-                "TierValueMaximum" : "20000",
-                "RepAPR" : "7.10",
-                "LoanInterestFeesCharges" : [ {
-                  "LoanInterestFeeChargeDetail" : [ {
-                    "FeeType" : "Other",
-                    "OtherFeeType" : {
-                      "Name" : "Loan Arrangement",
-                      "Description" : "Loan Arrangement"
-                    },
-                    "Notes" : [ "Fee - Arrangement" ],
-                    "FeeAmount" : "200",
-                    "ApplicationFrequency" : "OnOpening",
-                    "CalculationFrequency" : "OnOpening"
-                  } ]
-                } ]
-              }, {
-                "FixedVariableInterestRateType" : "Variable",
-                "MaxTermPeriod" : "Month",
-                "MinTermPeriod" : "Month",
-                "TierValueMaxTerm" : 60.0,
-                "TierValueMinTerm" : 25.0,
-                "TierValueMinimum" : "20000",
-                "TierValueMaximum" : "20000",
-                "RepAPR" : "8.10",
-                "LoanInterestFeesCharges" : [ {
-                  "LoanInterestFeeChargeDetail" : [ {
-                    "FeeType" : "Other",
-                    "OtherFeeType" : {
-                      "Name" : "Loan Arrangement",
-                      "Description" : "Loan Arrangement"
-                    },
-                    "Notes" : [ "Fee - Arrangement" ],
-                    "FeeAmount" : "200",
-                    "ApplicationFrequency" : "OnOpening",
-                    "CalculationFrequency" : "OnOpening"
-                  } ]
-                } ]
-              }, {
-                "FixedVariableInterestRateType" : "Variable",
-                "MaxTermPeriod" : "Month",
-                "MinTermPeriod" : "Month",
-                "TierValueMaxTerm" : 24.0,
-                "TierValueMinTerm" : 6.0,
-                "TierValueMinimum" : "25000",
-                "TierValueMaximum" : "25000",
-                "RepAPR" : "7.10",
-                "LoanInterestFeesCharges" : [ {
-                  "LoanInterestFeeChargeDetail" : [ {
-                    "FeeType" : "Other",
-                    "OtherFeeType" : {
-                      "Name" : "Loan Arrangement",
-                      "Description" : "Loan Arrangement"
-                    },
-                    "Notes" : [ "Fee - Arrangement" ],
-                    "FeeAmount" : "250",
-                    "ApplicationFrequency" : "OnOpening",
-                    "CalculationFrequency" : "OnOpening"
-                  } ]
-                } ]
-              }, {
-                "FixedVariableInterestRateType" : "Variable",
-                "MaxTermPeriod" : "Month",
-                "MinTermPeriod" : "Month",
-                "TierValueMaxTerm" : 60.0,
-                "TierValueMinTerm" : 25.0,
-                "TierValueMinimum" : "25000",
-                "TierValueMaximum" : "25000",
-                "RepAPR" : "8.10",
-                "LoanInterestFeesCharges" : [ {
-                  "LoanInterestFeeChargeDetail" : [ {
-                    "FeeType" : "Other",
-                    "OtherFeeType" : {
-                      "Name" : "Loan Arrangement",
-                      "Description" : "Loan Arrangement"
-                    },
-                    "Notes" : [ "Fee - Arrangement" ],
-                    "FeeAmount" : "250",
-                    "ApplicationFrequency" : "OnOpening",
-                    "CalculationFrequency" : "OnOpening"
-                  } ]
-                } ]
-              } ]
-            } ]
-          },
-          "MarketingState" : "Regular",
-          "FirstMarketedDate" : "2000-01-03",
-          "LastMarketedDate" : "9999-12-30",
-          "Repayment" : [ {
-            "OtherRepaymentType" : {
-              "Name" : "Capital Only",
-              "Description" : "Capital Only"
-            },
-            "RepaymentFrequency" : "Flexible",
-            "AmountType" : "CapitalAndInterest",
-            "Notes" : [ "Monthly, quarterly, bi-annually, yearly" ],
-            "RepaymentHoliday" : [ {
-              "MaxHolidayLength" : 12.0,
-              "MaxHolidayPeriod" : "Month"
-            } ]
-          } ]
-        } ],
-        "Segment" : [ "Business" ]
-      } ]
-    } ]
-  } ]
+          ]
+        }
+      ]
+    }
+  ]
 }

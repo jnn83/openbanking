@@ -1,1 +1,290 @@
-{"meta":{"LastUpdated":"2020-02-05T23:57:02.396Z","TotalResults":7,"Agreement":"Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions","License":"https://www.openbanking.org.uk/open-licence","TermsOfUse":"https://www.openbanking.org.uk/terms"},"data":[{"Brand":[{"BrandName":"HSBC UK","ATM":[{"Identification":"AB004044","SupportedLanguages":[],"ATMServices":["CashWithdrawal","PINChange","MobilePhoneTopUp","Balance","MiniStatement","CharityDonation"],"SupportedCurrencies":["GBP"],"MinimumPossibleAmount":"10","Branch":{"Identification":"401824"},"Location":{"Site":{"Name":"CREWE I1"},"PostalAddress":{"TownName":"3","Country":"GB","PostCode":"CW1 2ES","GeoLocation":{"GeographicCoordinates":{"Latitude":"53.095058","Longitude":"-2.44177"}}}}},{"Identification":"AE392740","SupportedLanguages":[],"ATMServices":["CashWithdrawal","PINChange","MobilePhoneTopUp","Balance","MiniStatement","CharityDonation"],"SupportedCurrencies":["GBP"],"MinimumPossibleAmount":"10","Branch":{"Identification":"401824"},"Location":{"Site":{"Name":"CREWE E1"},"PostalAddress":{"TownName":"3","Country":"GB","PostCode":"CW1 2ES","GeoLocation":{"GeographicCoordinates":{"Latitude":"53.095058","Longitude":"-2.44177"}}}}},{"Identification":"AA003629","SupportedLanguages":["en","fr","es","de"],"ATMServices":["CashWithdrawal","PINChange","MobilePhoneTopUp","Balance","MiniStatement","CharityDonation"],"SupportedCurrencies":["GBP"],"MinimumPossibleAmount":"10","Branch":{"Identification":"401822"},"Location":{"Site":{"Name":"CRAWLEY I2"},"PostalAddress":{"StreetName":"9 The Boulevard","TownName":"CRAWLEY","Country":"GB","PostCode":"RH10 1UT","GeoLocation":{"GeographicCoordinates":{"Latitude":"51.116805","Longitude":"-0.1875421"}}}}},{"Identification":"AD340187","SupportedLanguages":["en","fr","es","de"],"ATMServices":["CashWithdrawal","PINChange","MobilePhoneTopUp","Balance","MiniStatement","CharityDonation"],"SupportedCurrencies":["GBP"],"MinimumPossibleAmount":"10","Branch":{"Identification":"401822"},"Location":{"Site":{"Name":"CRAWLEY E2"},"PostalAddress":{"StreetName":"9 The Boulevard","TownName":"CRAWLEY","Country":"GB","PostCode":"RH10 1UT","GeoLocation":{"GeographicCoordinates":{"Latitude":"51.116805","Longitude":"-0.1875421"}}}}},{"Identification":"AH353626","SupportedLanguages":["en","fr","es","de"],"ATMServices":["CashWithdrawal","PINChange","MobilePhoneTopUp","Balance","MiniStatement","CharityDonation"],"SupportedCurrencies":["GBP"],"MinimumPossibleAmount":"10","Branch":{"Identification":"401822"},"Location":{"Site":{"Name":"CRAWLEY I1"},"PostalAddress":{"StreetName":"9 The Boulevard","TownName":"CRAWLEY","Country":"GB","PostCode":"RH10 1UT","GeoLocation":{"GeographicCoordinates":{"Latitude":"51.116805","Longitude":"-0.1875421"}}}}},{"Identification":"AG623478","SupportedLanguages":["en","fr","es","de"],"ATMServices":["CashWithdrawal","PINChange","MobilePhoneTopUp","Balance","MiniStatement","CharityDonation"],"SupportedCurrencies":["GBP"],"MinimumPossibleAmount":"10","Branch":{"Identification":"402319"},"Location":{"Site":{"Name":"HATFIELD I1"},"PostalAddress":{"StreetName":"33 Town Centre","TownName":"HATFIELD","Country":"GB","PostCode":"AL10 0JX","GeoLocation":{"GeographicCoordinates":{"Latitude":"51.7639512","Longitude":"-0.2259922"}}}}},{"Identification":"AH014174","SupportedLanguages":[],"ATMServices":["CashWithdrawal","PINChange","MobilePhoneTopUp","Balance","MiniStatement","CharityDonation"],"SupportedCurrencies":["GBP"],"MinimumPossibleAmount":"10","Branch":{"Identification":"402311"},"Location":{"Site":{"Name":"HARPENDEN I2"},"PostalAddress":{"StreetName":"1 High Street, Harpenden, Hertfordshire","TownName":"3","Country":"GB","PostCode":"AL5 2RS","GeoLocation":{"GeographicCoordinates":{"Latitude":"51.81456","Longitude":"-0.35463"}}}}}]}]}]}
+{
+  "meta": {
+    "LastUpdated": "2020-02-05T23:57:02.396Z",
+    "TotalResults": 7,
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License": "https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://www.openbanking.org.uk/terms"
+  },
+  "data": [
+    {
+      "Brand": [
+        {
+          "BrandName": "HSBC UK",
+          "ATM": [
+            {
+              "Identification": "AB004044",
+              "SupportedLanguages": [],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401824"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CREWE I1"
+                },
+                "PostalAddress": {
+                  "TownName": "3",
+                  "Country": "GB",
+                  "PostCode": "CW1 2ES",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.095058",
+                      "Longitude": "-2.44177"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AE392740",
+              "SupportedLanguages": [],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401824"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CREWE E1"
+                },
+                "PostalAddress": {
+                  "TownName": "3",
+                  "Country": "GB",
+                  "PostCode": "CW1 2ES",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.095058",
+                      "Longitude": "-2.44177"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AA003629",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401822"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CRAWLEY I2"
+                },
+                "PostalAddress": {
+                  "StreetName": "9 The Boulevard",
+                  "TownName": "CRAWLEY",
+                  "Country": "GB",
+                  "PostCode": "RH10 1UT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.116805",
+                      "Longitude": "-0.1875421"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AD340187",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401822"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CRAWLEY E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "9 The Boulevard",
+                  "TownName": "CRAWLEY",
+                  "Country": "GB",
+                  "PostCode": "RH10 1UT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.116805",
+                      "Longitude": "-0.1875421"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AH353626",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401822"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CRAWLEY I1"
+                },
+                "PostalAddress": {
+                  "StreetName": "9 The Boulevard",
+                  "TownName": "CRAWLEY",
+                  "Country": "GB",
+                  "PostCode": "RH10 1UT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.116805",
+                      "Longitude": "-0.1875421"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AG623478",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "402319"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HATFIELD I1"
+                },
+                "PostalAddress": {
+                  "StreetName": "33 Town Centre",
+                  "TownName": "HATFIELD",
+                  "Country": "GB",
+                  "PostCode": "AL10 0JX",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.7639512",
+                      "Longitude": "-0.2259922"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AH014174",
+              "SupportedLanguages": [],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "402311"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HARPENDEN I2"
+                },
+                "PostalAddress": {
+                  "StreetName": "1 High Street, Harpenden, Hertfordshire",
+                  "TownName": "3",
+                  "Country": "GB",
+                  "PostCode": "AL5 2RS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.81456",
+                      "Longitude": "-0.35463"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
