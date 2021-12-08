@@ -1,5 +1,5 @@
 # openbanking
-Openbanking public API data published by UK banks 
+Openbanking 'Open Data' API data published by UK banks 
 
 This is a hobby project I started in late 2019, to create a panel dataset from the publicly available OpenBanking APIs of retail banks in the United Kingdom. Every day at midnight, I poll all the banks' Open Data APIs and store a copy of any new or updated data. You can download that data here in raw format. Soon, you'll be able to download the data in a panel dataset (.csv) format too.
 
