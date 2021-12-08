@@ -31,7 +31,7 @@ Note that banks may not provide data on all the above products, for example if t
 
 ## What format is the data in?
 
-The raw data is in JSON format, the format in which it is served by the banks' APIs. The data is structured according to the OpenBanking Open Data API standards [https://openbankinguk.github.io/opendata-api-docs-pub/]. I have performed minimal data cleaning to ensure all historically downloaded data meets the standards. For transparency, I have made my cleaning code available in this project.
+The raw data is in JSON format, the format in which it is served by the banks' APIs. The data is structured according to the OpenBanking Open Data API standards [https://openbankinguk.github.io/opendata-api-docs-pub/]. I have performed minimal data cleaning for consistency and to ensure that all historically downloaded data meets the standards. For transparency, I have made my cleaning code available in this project.
 
 ## What can I use the data for?
 
